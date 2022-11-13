@@ -15,7 +15,7 @@ public interface BookRepository extends JpaRepository<BookEntity, Long> {
     Page<BookEntity> getPopularBooks(Pageable page);
 
     @Query("select b from BookEntity b left join Book2GenreEntity b2g on b.id = b2g.bookId where b2g.genreId = ?1 order by b.pubDate desc")
-    Page<BookEntity> getByGenreId(int genre, Pageable page);
+    Page<BookEntity> getByGenreId(Long genre, Pageable page);
 
     Page<BookEntity> findBookByTitleContainingIgnoreCaseOrderByTitle(String bookTitle, Pageable page);
 
@@ -26,14 +26,14 @@ public interface BookRepository extends JpaRepository<BookEntity, Long> {
 
     @Query("select b from BookEntity b inner join Book2AuthorEntity b2a on b.id = b2a.bookId where b2a.authorId = ?1 " +
             "order by b2a.sortIndex")
-    Page<BookEntity> findBooksByAuthorId(Integer authorId, Pageable page);
+    Page<BookEntity> findBooksByAuthorId(int authorId, Pageable page);
 
     @Query("select b from BookEntity b inner join Book2TagEntity b2t on b.id = b2t.bookId where b2t.tagId = ?1 " +
             "order by b.popularity desc, b.pubDate desc ")
     Page<BookEntity> findBooksByTagId(Long tagId, Pageable page);
 
     @Query("select b from BookEntity b inner join Book2GenreEntity b2g on b.id = b2g.bookId where b2g.genreId = ?1 order by b.pubDate desc ")
-    Page<BookEntity> findBooksByGenreId(Integer genreId, Pageable page);
+    Page<BookEntity> findBooksByGenreId(int genreId, Pageable page);
 
     @Query("select new com.example.FenrisBookShopApp.dto.book.BookPopularityDto(b, count(b2u), count(c), count(db)) " +
             "from BookEntity b left join DeferredBookEntity db on b.id = db.bookId left join CartEntity c on b.id = c.bookId " +

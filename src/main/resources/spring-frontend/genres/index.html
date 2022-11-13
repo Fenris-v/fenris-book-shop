@@ -8,7 +8,7 @@
             <h1 class="Middle-title">Жанры</h1>
             <div class="Section">
                 <div class="Tags Tags_genres">
-                    <th:block th:each="genreDto : ${genreDtoList}">
+                    <th:block th:each="genreDto : ${genres}">
                         <div class="" th:class="'Tags' + ${genreDto.hasMoreThatOneChildLevel ? ' Tags_embed' : ''}">
                             <div class="Tags-title">
                                 <div th:replace="~{components/genres/genre_tag :: genreTag(${genreDto})}"></div>

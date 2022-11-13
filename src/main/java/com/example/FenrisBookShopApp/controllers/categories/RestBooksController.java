@@ -40,7 +40,7 @@ public class RestBooksController {
 
     @GetMapping("genre/{genreId}")
     public BooksPageDto getBooksPageByGenre(
-            @PathVariable int genreId,
+            @PathVariable Long genreId,
             @RequestParam("offset") int page,
             @RequestParam("limit") int limit
     ) {

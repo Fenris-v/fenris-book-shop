@@ -39,7 +39,7 @@ public class BookService {
         return bookRepository.getPopularBooks(PageRequest.of(pageNumber, limit));
     }
 
-    public Page<BookEntity> getPageByGenreId(int pageNumber, int limit, int genreId) {
+    public Page<BookEntity> getPageByGenreId(int pageNumber, int limit, Long genreId) {
         return bookRepository.getByGenreId(genreId, PageRequest.of(pageNumber, limit));
     }
 

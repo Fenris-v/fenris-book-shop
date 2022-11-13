@@ -22,7 +22,7 @@ public class BooksPopularityUpdater {
     }
 
     @Scheduled(cron = "0 0 3 * * *", zone = "Europe/Moscow")
-    public void update() {
+    private void update() {
         List<BookPopularityDto> books = bookRepository.findAllWithBuyerAndDeferredAndCartCount();
         books.forEach(this::calculatePopularity);
 

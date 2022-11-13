@@ -39,7 +39,7 @@ public class BookService {
         return bookRepository.getPopularBooks(PageRequest.of(pageNumber, limit));
     }
 
-    public Page<BookEntity> getPageBySlug(int pageNumber, int limit, int genreId) {
+    public Page<BookEntity> getPageByGenreId(int pageNumber, int limit, int genreId) {
         return bookRepository.getByGenreId(genreId, PageRequest.of(pageNumber, limit));
     }
 
@@ -57,7 +57,15 @@ public class BookService {
         return bookRepository.findBooksByAuthorId(authorId.intValue(), PageRequest.of(0, 20));
     }
 
+    public Page<BookEntity> findBooksByTagId(@NotNull Long tagId) {
+        return bookRepository.findBooksByTagId(tagId, PageRequest.of(0, 20));
+    }
+
     public Page<BookEntity> findBooksByGenreId(@NotNull Long genreId) {
         return bookRepository.findBooksByGenreId(genreId.intValue(), PageRequest.of(0, 20));
+    }
+
+    public Page<BookEntity> getPageByTagId(int page, int limit, Long tagId) {
+        return bookRepository.findBooksByTagId(tagId, PageRequest.of(page, limit));
     }
 }

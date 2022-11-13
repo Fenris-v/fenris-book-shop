@@ -8,6 +8,12 @@
         <div class="Card-ribbon" th:if="${book.isBestseller}">
             <span class="Card-ribbonText">Бестселлер</span>
         </div>
+        <a class="Card-status" title="В корзине" th:if="${false}">
+            <img src="/assets/img/icons/shopping-basket.svg" alt="shopping-basket.svg"/>
+        </a>
+        <a class="Card-status" title="Отложена" th:if="${false}">
+            <img src="/assets/img/icons/heart.svg" alt="heart.svg"/>
+        </a>
     </a>
     <div class="Card-content">
         <strong class="Card-title">

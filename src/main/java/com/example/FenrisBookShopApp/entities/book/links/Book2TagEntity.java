@@ -8,15 +8,13 @@ import javax.persistence.*;
 @Getter
 @Setter
 @Entity
-@Table(name = "book2user_type")
-public class Book2UserTypeEntity {
+@Table(name = "book2tag")
+public class Book2TagEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @Column(columnDefinition = "VARCHAR(255) NOT NULL")
-    private String code;
+    private Long bookId;
 
-    @Column(columnDefinition = "VARCHAR(255) NOT NULL")
-    private String name;
+    private Long tagId;
 }

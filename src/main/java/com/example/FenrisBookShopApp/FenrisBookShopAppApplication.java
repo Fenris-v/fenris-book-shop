@@ -8,7 +8,9 @@ public class FenrisBookShopAppApplication {
     // todo: Тех долг:
     // todo: хлебные крошки
     // todo: многопоточность для обновления популярности книг
-    // todo: посмотреть что там с бестселлерами
+    // todo: обновлять популярность по событию
+    // todo: иконка в корзине у карточки
+    // todo: иконка в избранном у карточки
     public static void main(String[] args) {
         SpringApplication.run(FenrisBookShopAppApplication.class, args);
     }

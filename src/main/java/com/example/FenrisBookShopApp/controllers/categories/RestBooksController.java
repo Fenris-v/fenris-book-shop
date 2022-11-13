@@ -44,7 +44,17 @@ public class RestBooksController {
             @RequestParam("offset") int page,
             @RequestParam("limit") int limit
     ) {
-        List<BookEntity> books = bookService.getPageBySlug(page, limit, genreId).getContent();
+        List<BookEntity> books = bookService.getPageByGenreId(page, limit, genreId).getContent();
+        return new BooksPageDto(books);
+    }
+
+    @GetMapping("tag/{tagId}")
+    public BooksPageDto getBooksPageByTag(
+            @PathVariable Long tagId,
+            @RequestParam("offset") int page,
+            @RequestParam("limit") int limit
+    ) {
+        List<BookEntity> books = bookService.getPageByTagId(page, limit, tagId).getContent();
         return new BooksPageDto(books);
     }
 }

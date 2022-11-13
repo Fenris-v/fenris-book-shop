@@ -8676,1006 +8676,4069 @@ values (999, 15);
 insert into book2genre (book_id, genre_id)
 values (1000, 33);
 
-insert into users (hash, reg_time, balance, name) values ('7f07f9e8c5f1deed28906a707f22ccfcda8fe56f683a25fb744c3767f764deb4', '5/5/2022', 4083, 'Valdemar Toseland');
-insert into users (hash, reg_time, balance, name) values ('003feae192b6c3eab6711f7c4c68389f78ab04760c6d242f156936a1c9def31d', '11/16/2021', 5172, 'Kare Rawe');
-insert into users (hash, reg_time, balance, name) values ('5172aba3226b4e314046f9af662d11cca1cbd6be60d4c9e70fa637455cfbfe11', '11/14/2021', 9082, 'Jacqueline Laight');
-insert into users (hash, reg_time, balance, name) values ('edd989e1298c95a75eea0fd938a37bf399de5b576a7ee6ca218ca961cd121fc0', '9/17/2022', 6152, 'Barrett Cordy');
-insert into users (hash, reg_time, balance, name) values ('054f469a852ecc9a6d9681f416644d3a17ca0a8eb561914280d0fa9eb75f1e53', '2/9/2022', 8026, 'Nelia Akast');
-insert into users (hash, reg_time, balance, name) values ('831dfe20352d71ed20d59cab7d75f666266ca21cde45823efac173ab08353ffb', '5/13/2022', 5825, 'Bonny Cuss');
-insert into users (hash, reg_time, balance, name) values ('22566d80ddc477f778fa42a7ebd1114f963746b40fdac2fc0a3d76c978407d8a', '3/26/2022', 9657, 'Bill Daniele');
-insert into users (hash, reg_time, balance, name) values ('209b9f4febe08e8de5c7db095a86d6f45001aa339ade10ae1dc4d50f2af02f37', '9/20/2022', 7933, 'Bernadina Sedgeman');
-insert into users (hash, reg_time, balance, name) values ('a2095364b26bd28b6eab18bd93027969b39d966d658da361eedd0bfb8261bced', '8/30/2022', 6272, 'Malachi Vosse');
-insert into users (hash, reg_time, balance, name) values ('964aa19650be3d8454178665223f8ad05e5cd427437f8d1c1aa37af714726a33', '8/13/2022', 1480, 'Prissie Guilloux');
-insert into users (hash, reg_time, balance, name) values ('bc1be2f85310dde71265383481004467febb99262d8fa7d66e1a85e103a76df8', '8/24/2022', 6426, 'Niki Walework');
-insert into users (hash, reg_time, balance, name) values ('e0e577e4da09e8ce8603ca206076aebea8a13cb1e53bfb40f67317c65547ad1f', '11/22/2021', 8417, 'Allix Knoton');
-insert into users (hash, reg_time, balance, name) values ('9871c66fea86d57e5eca94f22df687b4e0b1368ce1723e28843a4f8e682365cf', '1/23/2022', 9562, 'Bud Piddock');
-insert into users (hash, reg_time, balance, name) values ('9e39ee0eedba3555f7607af9d9eeb99d0f78e84844d41ae64ed28833c73b5cf8', '11/17/2021', 2925, 'Trevar Losty');
-insert into users (hash, reg_time, balance, name) values ('413a1b1e8caeb4f7af983ded2213e0417d0d806be87b466a3992a9c1f80f9420', '8/17/2022', 3886, 'Wayne Drinkeld');
-insert into users (hash, reg_time, balance, name) values ('3079e7519669a231e2fbbc8b14c5c44071a5e819c9ce10f7ef452f3062cc354a', '6/20/2022', 57, 'Cheri Elsie');
-insert into users (hash, reg_time, balance, name) values ('2891116363ca9766e9e38bf1b4df6d57f57894e5755821f7404944ae44084e84', '1/21/2022', 4544, 'Warner Congrave');
-insert into users (hash, reg_time, balance, name) values ('4a90f2ad331e387169604223ce2e06b3219fc6436cb5550f72de9b264d8e220b', '10/19/2022', 5013, 'Lindsey Prestidge');
-insert into users (hash, reg_time, balance, name) values ('d956d7251842406d26a45aab9366f4a3c07db0f3389d941fd3ab20f47aff0faa', '4/28/2022', 994, 'Charlene Baudouin');
-insert into users (hash, reg_time, balance, name) values ('672eed3be015d1bb82f766da8f52b4c2f8f6c5d45a7a8c35cb1aaf1309d41632', '12/12/2021', 8754, 'Yanaton Minors');
-insert into users (hash, reg_time, balance, name) values ('056467e7e934b0f6669579ff9097d2a4b8052bfe3e18f238e5c638903614e391', '1/10/2022', 7044, 'Drusy Santon');
-insert into users (hash, reg_time, balance, name) values ('ba8ec7056f316ea49581eb2e4c4c9043b23d8fd57f7bb6f4a51986588a4463d8', '2/9/2022', 7734, 'Clementius Itzkin');
-insert into users (hash, reg_time, balance, name) values ('0cab948a99c05ce44342f45d573d816d6d0c1a44dec858eb3695ffee3c639684', '1/27/2022', 3787, 'Wallace O''Brollachain');
-insert into users (hash, reg_time, balance, name) values ('90047f03d0ec0a48e793c72bdc4447bd19da2be3b591e125a9fe236bf8b81a67', '1/10/2022', 8159, 'Randolph Belin');
-insert into users (hash, reg_time, balance, name) values ('e9c4fcbdaaa5e146ceb44de99e08ae61a25a8e286c6ccbb42cc1b7f1cf475a07', '1/17/2022', 936, 'Robinia Wayne');
-insert into users (hash, reg_time, balance, name) values ('d71e864682148691636f9df833f96823a81ba22d37849e6995a19c958d8739f2', '11/2/2022', 852, 'Melisandra Dummett');
-insert into users (hash, reg_time, balance, name) values ('13354f7b7abdb9507ebf06a4c0da0bb4e5957130be296ed5f71ded23b85fe61c', '12/27/2021', 7283, 'Sarine Aldwich');
-insert into users (hash, reg_time, balance, name) values ('6b4ddaa7d5ac11b51ad2f7cc35ae64acc3979c09eef38f502e901048a011f4e6', '9/26/2022', 9724, 'Xena Booton');
-insert into users (hash, reg_time, balance, name) values ('457fa590d29db782d7f1fdfbe9d5b5df4f04b42214466e6bbc77fe6127ec2f62', '10/28/2022', 1906, 'Flossie Churcher');
-insert into users (hash, reg_time, balance, name) values ('87e012b7e9c8c51b10f1b7751638a52e99e17616434f390a7ab4d5aa06acbd98', '8/21/2022', 3677, 'Kassi Stelfax');
-insert into users (hash, reg_time, balance, name) values ('1c691bc29d5ec129da07a33db6de9a3aeced93dc17aa50762be9a8b126d51bec', '6/20/2022', 1283, 'Quinn Swarbrick');
-insert into users (hash, reg_time, balance, name) values ('661c5a7d3dbab8a84881a7dec64eca6152b62acc6d0c0cc09b45a63fc899fed5', '8/31/2022', 5607, 'Mahmud Rickcord');
-insert into users (hash, reg_time, balance, name) values ('ccad4e5b032115c5e596e82b9eefa56933d3d221110cb2d0e44afe9080223614', '5/6/2022', 1311, 'Susanetta Saterthwait');
-insert into users (hash, reg_time, balance, name) values ('ead41f455757f9a2e5ed6e47b54753707e1f1f66293e7f8245d256ba5ffe2bf3', '2/18/2022', 4250, 'Donn Pudding');
-insert into users (hash, reg_time, balance, name) values ('5a622e260eb325faaa50425f0022970d69830aec504bc0fe3ea366c99e6ee332', '8/1/2022', 4753, 'Shel Settle');
-insert into users (hash, reg_time, balance, name) values ('61e24847ea8c0f57ebadfd7ec51f2cab9b75268c55c5b06093e4d848a51e4d9c', '6/19/2022', 6758, 'Marthena Rowberry');
-insert into users (hash, reg_time, balance, name) values ('d93e530a3c64ef1b13c6260e01d5f319b861e4e13e8b0ecdebef224551e5e5d7', '10/23/2022', 3771, 'Godwin Merigon');
-insert into users (hash, reg_time, balance, name) values ('f6edbdce7c2a2c395229bdf78df43ae0dd46f3e38c9c8d925b14f73db42f58e4', '6/3/2022', 9467, 'Joice McGill');
-insert into users (hash, reg_time, balance, name) values ('6c57f27b3d89d984271a95b9364162f63f528a12d8926fa0928c78b03bbd6363', '7/8/2022', 4644, 'Gilburt Walkden');
-insert into users (hash, reg_time, balance, name) values ('923e0ea865c3e0c19a6b88a56d86cece9a183bc7a51d94adbfc99a1029f9af95', '2/23/2022', 1522, 'Gilda Snuggs');
-insert into users (hash, reg_time, balance, name) values ('77897707bb491f97c5366cce51e696ea1719f365b59cf0a545210616cf10f89a', '6/17/2022', 3780, 'Urban Rosgen');
-insert into users (hash, reg_time, balance, name) values ('399cf8d6586fa4b1cdf8f34517fe38fc7ccab61b3cd5dc13ac6de6bee2b113ef', '9/29/2022', 2952, 'Glynn Iskowicz');
-insert into users (hash, reg_time, balance, name) values ('63be3c62adff19c083de5841374bc5a172f0d123ea056f78e439cfc25d2a1345', '11/8/2022', 9724, 'Fairfax Cinelli');
-insert into users (hash, reg_time, balance, name) values ('f27b90846a3470209e84c8689004e1417f3d8a3389d5b1f5488c6a5e3d06a308', '6/10/2022', 9726, 'Yettie Fanthom');
-insert into users (hash, reg_time, balance, name) values ('62b4e4a3cb7735187463e7e485bead8429194d3fdc4ceeeeb30b00684960722a', '6/22/2022', 5756, 'Obed Benardeau');
-insert into users (hash, reg_time, balance, name) values ('ff0df59b02f694f7df09ecfb8e84abb04767f7778f297a99e74d347841831070', '1/28/2022', 4885, 'Claybourne Freestone');
-insert into users (hash, reg_time, balance, name) values ('d0cbdcc51739dd2f8783b20c2cc99685c0ab0d5741eca20f2ae1257b517ea4f6', '7/13/2022', 4297, 'Edik Yglesias');
-insert into users (hash, reg_time, balance, name) values ('dbb846a2cc3cbef5b3c1b567389ddf825cb77a5cb641359e561d6285b9463eeb', '2/15/2022', 1723, 'Lauryn Ginley');
-insert into users (hash, reg_time, balance, name) values ('f56f2c4a0fc7c4cb7b8efce3d8388cbd0657eb7a81047267d93d1bced32f79bf', '12/17/2021', 222, 'Fransisco Passion');
-insert into users (hash, reg_time, balance, name) values ('91bfcab4f6e4783de57090ec6c371853f5f80a8a43e9cd011d3f95c5e7c2ad2b', '2/10/2022', 9267, 'Virginie Shark');
-insert into users (hash, reg_time, balance, name) values ('e3b1366e92eb294fa91d93553416adde3f8b76dfd80f3316b71bdf4f08eaeb47', '1/23/2022', 1646, 'Hortensia McTague');
-insert into users (hash, reg_time, balance, name) values ('2e2260f1b86fb942c0b5ebfb9d2a79af970895feeed7965959080afc9d992c04', '10/15/2022', 6456, 'Steffi Zorzoni');
-insert into users (hash, reg_time, balance, name) values ('dbd088d4f06ab201688b92abe5c79de00a72c2312f7cf5e00bdf0c432e24527f', '8/24/2022', 4162, 'Mateo Sijmons');
-insert into users (hash, reg_time, balance, name) values ('21a1b63617f888e2de44bd748676cb98045defac52e34699596b47b1fd36c896', '5/6/2022', 735, 'Lyssa Gallant');
-insert into users (hash, reg_time, balance, name) values ('11f0f8c8633a76b5bdf166d6a370c7ecb18daa10a3fe7d84c74fedcd6b17feb9', '1/29/2022', 3737, 'Katie Mousby');
-insert into users (hash, reg_time, balance, name) values ('865bf8f8246e2301fc1d82bd1af76eb04df5f1ece365c2d2f6d6c25d5a8ba634', '8/3/2022', 1267, 'Cinderella Pittem');
-insert into users (hash, reg_time, balance, name) values ('83155207635dcce1d825edc7689d2341fd831c5d7d806662a1ebe950a5c3de15', '8/2/2022', 7464, 'Tabb Garbar');
-insert into users (hash, reg_time, balance, name) values ('a87126626ec067faa9e458039c507b4c5284c2131d23d9c30e0a162f9b65a1b7', '8/2/2022', 3702, 'Ilka Brussels');
-insert into users (hash, reg_time, balance, name) values ('d7c2a7bc01c39efce4af668cd8322c3f8b3879993363b1ee9cee9418f741acca', '10/22/2022', 3758, 'Alano Beecraft');
-insert into users (hash, reg_time, balance, name) values ('e6f599dd90d1bc5aa0d6c6c6ef901e18b4325ec7ec6f33304038e03fe3c74475', '7/28/2022', 3490, 'Cari Kerrey');
-insert into users (hash, reg_time, balance, name) values ('698c947582224ef377f5f86c80002ffc8e30f67a2491e61b2d83d901be77e568', '6/12/2022', 7713, 'Laurella Szwandt');
-insert into users (hash, reg_time, balance, name) values ('801f7f4b50bc353ad987ea6c4f0cccac54c6e7ae861164513d16af50b366a2e1', '6/19/2022', 1881, 'Vitoria Scholer');
-insert into users (hash, reg_time, balance, name) values ('7d933c92e36f7746e8ab403e5998819f2c84c70028717fbcfab1f3afe58926b9', '1/12/2022', 4424, 'Shelia Obray');
-insert into users (hash, reg_time, balance, name) values ('a546d5459d6a20f95e1fb07f23e3112392b6052d725c03ba552e9f47e096a17c', '4/11/2022', 3595, 'Chelsy Garrals');
-insert into users (hash, reg_time, balance, name) values ('81f7a857117846428f971874a3651076c13e59480758fe57a73c5d4984f07280', '1/26/2022', 9309, 'Elston Grishaev');
-insert into users (hash, reg_time, balance, name) values ('109491c8b16bad337cea132c6e3af98030455833afab423f97bc67d5753250da', '11/28/2021', 916, 'Kelcey Edgler');
-insert into users (hash, reg_time, balance, name) values ('9971aaacc2ced41e507c287a1539f1befa775fa238789963f95e1619e0491a6d', '4/11/2022', 4249, 'Nannette Fallawe');
-insert into users (hash, reg_time, balance, name) values ('291cd69545b1968ad4a4dc1703cc8d7714c650c8f31536e8c61c8af8d5bed3a7', '12/21/2021', 7647, 'Dinnie Swaisland');
-insert into users (hash, reg_time, balance, name) values ('39b3a7588ad769084034298576a9b4b554ed6abb7145ed1d53b7f55d245802be', '2/11/2022', 2451, 'Celinka Olech');
-insert into users (hash, reg_time, balance, name) values ('ee0c61ad252be3ac2c61fcd8ffac84395b460f19ef5ee6fa8837e22b37aa2206', '8/26/2022', 5801, 'Lamond Willmott');
-insert into users (hash, reg_time, balance, name) values ('65cc4be6d555c68d92b6be7a3e3b6b2137f564e0c2c65e5a2383c0c2557acbf7', '5/19/2022', 5451, 'Beatrice Jerdan');
-insert into users (hash, reg_time, balance, name) values ('383ec218b78a80db78668c63923ae83e71366ff733b9c8786eb8885dafda5fe2', '6/19/2022', 3791, 'Vere Wortt');
-insert into users (hash, reg_time, balance, name) values ('f99763d4e62241f6fdcc85bb14b303c57a8e7216030ff5211b2105f9b975cafd', '7/24/2022', 9921, 'Odie Havik');
-insert into users (hash, reg_time, balance, name) values ('78d9f19e3d4b9c57e04f871512b2430efac4455e6ddf0f2bd4c20446b7cf0387', '4/8/2022', 4749, 'Meriel Voak');
-insert into users (hash, reg_time, balance, name) values ('f2b44fe10e351a52759694036b2c9e2d493ead680be062eccd9407bff2ea3ba5', '10/24/2022', 9452, 'Rachelle Blesing');
-insert into users (hash, reg_time, balance, name) values ('f902625ea318eef02ddc3565ccc39a247e9d09606f8e33391028b2ae546763a3', '11/13/2021', 3886, 'Gilly Tocher');
-insert into users (hash, reg_time, balance, name) values ('c6d6b6fa060a0d44e80522cc56b0c3a5cb55e24f5447c38c578e874e06ac65bd', '6/29/2022', 5969, 'Alanah Cottee');
-insert into users (hash, reg_time, balance, name) values ('5175487d2233f50229e7ad4e22c052ef76553bba5d7edb92e2522c36b863cfc5', '3/10/2022', 5819, 'Torin Wassung');
-insert into users (hash, reg_time, balance, name) values ('570686baf61b6c97b6fcb59a4b900c362a2d06504a0db85b84622632170cba8a', '9/14/2022', 3697, 'Doti Roney');
-insert into users (hash, reg_time, balance, name) values ('699493a88b33b480fa443aa396d08b05db86a8d457034c2fbf6dc42d116b538c', '5/22/2022', 740, 'Elfie Chrispin');
-insert into users (hash, reg_time, balance, name) values ('1d8afcb797d75760fa0ba9b7888195fd2593193acf28f5ea56c949cff5cd6f36', '11/27/2021', 808, 'William Jeays');
-insert into users (hash, reg_time, balance, name) values ('15cbded2c2adec499977c2a6e64f75ec74b58436c8d73f1d1ce6d5178f3d7bab', '1/22/2022', 6548, 'Adolpho Wolvey');
-insert into users (hash, reg_time, balance, name) values ('69e81110423e0b3bcfcbf6dd4a24d4d4376d2ef3d2ec54c81aa9ad809252e0ea', '4/2/2022', 4937, 'Axe Ridgedell');
-insert into users (hash, reg_time, balance, name) values ('ce9c7559ae473bf8006064df5ee73b1bff0ef3e211657fe7fd2a06f7f509ff55', '8/1/2022', 1176, 'Gavin Mosedill');
-insert into users (hash, reg_time, balance, name) values ('01822272e771da067944ec238f604fa1d23343294bbd63d4b9368e2766dec791', '3/31/2022', 8674, 'Callean Waldie');
-insert into users (hash, reg_time, balance, name) values ('401f67bb31d1b88372866f0aa182608477a008cf6f8c8f5d76402f12e5182e9c', '2/24/2022', 7523, 'Bryn Sugden');
-insert into users (hash, reg_time, balance, name) values ('0b50f82e54412aee3d08624ba8c132d405a0dcc04e0c0d896bb63108a46c9457', '7/12/2022', 4230, 'Byron Curds');
-insert into users (hash, reg_time, balance, name) values ('c898a4c39ecac2211748f1e9b048c6250a26a7fbae20471681c8870ca3af5206', '9/13/2022', 5782, 'Nan Baselli');
-insert into users (hash, reg_time, balance, name) values ('7db939481d662b6e6a3e9b350bdee88e93e344deac31b09bd64c97132b7b2665', '2/4/2022', 7550, 'Giselle Robb');
-insert into users (hash, reg_time, balance, name) values ('c1677469120de6cde093f2871937979a3cef83b299ffd4cadf31e860b6b67c6a', '10/14/2022', 6366, 'Amitie Cawley');
-insert into users (hash, reg_time, balance, name) values ('cea2622619fee31efe2d2eb8ad7cff86c5b86c71d9d25fc1cf8876ca8a636404', '12/5/2021', 3434, 'Vern Dreelan');
-insert into users (hash, reg_time, balance, name) values ('1c85772a149c5daca204737f66dc5d50423e46cb67d9843159b40e737e0d2275', '1/20/2022', 9493, 'Rani Saphir');
-insert into users (hash, reg_time, balance, name) values ('f3f11e1c3adc8a282d6be4b6f2dca411d34e7e24de7ef41216110953e3ba4ca0', '7/24/2022', 9167, 'Guinevere Kershaw');
-insert into users (hash, reg_time, balance, name) values ('2bd56de5dbcc1b01c0de5fd206bdc2161d70b49a8f0e5e52619c6d5ca2155e31', '6/22/2022', 2746, 'Francesca De Wolfe');
-insert into users (hash, reg_time, balance, name) values ('592c6f368cb3b55e108034b3af002f7d138de486c4d7c03eb5a3084f680aff60', '4/16/2022', 8816, 'Carlin Noto');
-insert into users (hash, reg_time, balance, name) values ('61bd4596461bfacc2a7548101ad40acbe54bb615af9ffa4598bd2999b8fe85ac', '6/2/2022', 7329, 'Sydelle Earengey');
-insert into users (hash, reg_time, balance, name) values ('6d9c508b4d40be23fcf9bd7607afebb5b6951b2568dc2ec7d461bad8bbcd9606', '5/23/2022', 7502, 'Rasla Baysting');
-insert into users (hash, reg_time, balance, name) values ('d470bd5255c27edc9913ba2e1680df62ed90410cf42fbb86dca1607055d81704', '11/26/2021', 9110, 'Paloma Riddeough');
-insert into users (hash, reg_time, balance, name) values ('12ccc3e84b03c76ec4df4705684ba7399c7471e8d7cf870d03be14c33badf18a', '12/13/2021', 6114, 'Odo Lorey');
-insert into users (hash, reg_time, balance, name) values ('68353ddd033ceb7857116c5311eba8905e8feb76acd73cd06b066f621bd52309', '6/24/2022', 8068, 'Jocelyne Kahen');
+insert into users (hash, reg_time, balance, name)
+values ('7f07f9e8c5f1deed28906a707f22ccfcda8fe56f683a25fb744c3767f764deb4', '5/5/2022', 4083, 'Valdemar Toseland');
+insert into users (hash, reg_time, balance, name)
+values ('003feae192b6c3eab6711f7c4c68389f78ab04760c6d242f156936a1c9def31d', '11/16/2021', 5172, 'Kare Rawe');
+insert into users (hash, reg_time, balance, name)
+values ('5172aba3226b4e314046f9af662d11cca1cbd6be60d4c9e70fa637455cfbfe11', '11/14/2021', 9082, 'Jacqueline Laight');
+insert into users (hash, reg_time, balance, name)
+values ('edd989e1298c95a75eea0fd938a37bf399de5b576a7ee6ca218ca961cd121fc0', '9/17/2022', 6152, 'Barrett Cordy');
+insert into users (hash, reg_time, balance, name)
+values ('054f469a852ecc9a6d9681f416644d3a17ca0a8eb561914280d0fa9eb75f1e53', '2/9/2022', 8026, 'Nelia Akast');
+insert into users (hash, reg_time, balance, name)
+values ('831dfe20352d71ed20d59cab7d75f666266ca21cde45823efac173ab08353ffb', '5/13/2022', 5825, 'Bonny Cuss');
+insert into users (hash, reg_time, balance, name)
+values ('22566d80ddc477f778fa42a7ebd1114f963746b40fdac2fc0a3d76c978407d8a', '3/26/2022', 9657, 'Bill Daniele');
+insert into users (hash, reg_time, balance, name)
+values ('209b9f4febe08e8de5c7db095a86d6f45001aa339ade10ae1dc4d50f2af02f37', '9/20/2022', 7933, 'Bernadina Sedgeman');
+insert into users (hash, reg_time, balance, name)
+values ('a2095364b26bd28b6eab18bd93027969b39d966d658da361eedd0bfb8261bced', '8/30/2022', 6272, 'Malachi Vosse');
+insert into users (hash, reg_time, balance, name)
+values ('964aa19650be3d8454178665223f8ad05e5cd427437f8d1c1aa37af714726a33', '8/13/2022', 1480, 'Prissie Guilloux');
+insert into users (hash, reg_time, balance, name)
+values ('bc1be2f85310dde71265383481004467febb99262d8fa7d66e1a85e103a76df8', '8/24/2022', 6426, 'Niki Walework');
+insert into users (hash, reg_time, balance, name)
+values ('e0e577e4da09e8ce8603ca206076aebea8a13cb1e53bfb40f67317c65547ad1f', '11/22/2021', 8417, 'Allix Knoton');
+insert into users (hash, reg_time, balance, name)
+values ('9871c66fea86d57e5eca94f22df687b4e0b1368ce1723e28843a4f8e682365cf', '1/23/2022', 9562, 'Bud Piddock');
+insert into users (hash, reg_time, balance, name)
+values ('9e39ee0eedba3555f7607af9d9eeb99d0f78e84844d41ae64ed28833c73b5cf8', '11/17/2021', 2925, 'Trevar Losty');
+insert into users (hash, reg_time, balance, name)
+values ('413a1b1e8caeb4f7af983ded2213e0417d0d806be87b466a3992a9c1f80f9420', '8/17/2022', 3886, 'Wayne Drinkeld');
+insert into users (hash, reg_time, balance, name)
+values ('3079e7519669a231e2fbbc8b14c5c44071a5e819c9ce10f7ef452f3062cc354a', '6/20/2022', 57, 'Cheri Elsie');
+insert into users (hash, reg_time, balance, name)
+values ('2891116363ca9766e9e38bf1b4df6d57f57894e5755821f7404944ae44084e84', '1/21/2022', 4544, 'Warner Congrave');
+insert into users (hash, reg_time, balance, name)
+values ('4a90f2ad331e387169604223ce2e06b3219fc6436cb5550f72de9b264d8e220b', '10/19/2022', 5013, 'Lindsey Prestidge');
+insert into users (hash, reg_time, balance, name)
+values ('d956d7251842406d26a45aab9366f4a3c07db0f3389d941fd3ab20f47aff0faa', '4/28/2022', 994, 'Charlene Baudouin');
+insert into users (hash, reg_time, balance, name)
+values ('672eed3be015d1bb82f766da8f52b4c2f8f6c5d45a7a8c35cb1aaf1309d41632', '12/12/2021', 8754, 'Yanaton Minors');
+insert into users (hash, reg_time, balance, name)
+values ('056467e7e934b0f6669579ff9097d2a4b8052bfe3e18f238e5c638903614e391', '1/10/2022', 7044, 'Drusy Santon');
+insert into users (hash, reg_time, balance, name)
+values ('ba8ec7056f316ea49581eb2e4c4c9043b23d8fd57f7bb6f4a51986588a4463d8', '2/9/2022', 7734, 'Clementius Itzkin');
+insert into users (hash, reg_time, balance, name)
+values ('0cab948a99c05ce44342f45d573d816d6d0c1a44dec858eb3695ffee3c639684', '1/27/2022', 3787,
+        'Wallace O''Brollachain');
+insert into users (hash, reg_time, balance, name)
+values ('90047f03d0ec0a48e793c72bdc4447bd19da2be3b591e125a9fe236bf8b81a67', '1/10/2022', 8159, 'Randolph Belin');
+insert into users (hash, reg_time, balance, name)
+values ('e9c4fcbdaaa5e146ceb44de99e08ae61a25a8e286c6ccbb42cc1b7f1cf475a07', '1/17/2022', 936, 'Robinia Wayne');
+insert into users (hash, reg_time, balance, name)
+values ('d71e864682148691636f9df833f96823a81ba22d37849e6995a19c958d8739f2', '11/2/2022', 852, 'Melisandra Dummett');
+insert into users (hash, reg_time, balance, name)
+values ('13354f7b7abdb9507ebf06a4c0da0bb4e5957130be296ed5f71ded23b85fe61c', '12/27/2021', 7283, 'Sarine Aldwich');
+insert into users (hash, reg_time, balance, name)
+values ('6b4ddaa7d5ac11b51ad2f7cc35ae64acc3979c09eef38f502e901048a011f4e6', '9/26/2022', 9724, 'Xena Booton');
+insert into users (hash, reg_time, balance, name)
+values ('457fa590d29db782d7f1fdfbe9d5b5df4f04b42214466e6bbc77fe6127ec2f62', '10/28/2022', 1906, 'Flossie Churcher');
+insert into users (hash, reg_time, balance, name)
+values ('87e012b7e9c8c51b10f1b7751638a52e99e17616434f390a7ab4d5aa06acbd98', '8/21/2022', 3677, 'Kassi Stelfax');
+insert into users (hash, reg_time, balance, name)
+values ('1c691bc29d5ec129da07a33db6de9a3aeced93dc17aa50762be9a8b126d51bec', '6/20/2022', 1283, 'Quinn Swarbrick');
+insert into users (hash, reg_time, balance, name)
+values ('661c5a7d3dbab8a84881a7dec64eca6152b62acc6d0c0cc09b45a63fc899fed5', '8/31/2022', 5607, 'Mahmud Rickcord');
+insert into users (hash, reg_time, balance, name)
+values ('ccad4e5b032115c5e596e82b9eefa56933d3d221110cb2d0e44afe9080223614', '5/6/2022', 1311, 'Susanetta Saterthwait');
+insert into users (hash, reg_time, balance, name)
+values ('ead41f455757f9a2e5ed6e47b54753707e1f1f66293e7f8245d256ba5ffe2bf3', '2/18/2022', 4250, 'Donn Pudding');
+insert into users (hash, reg_time, balance, name)
+values ('5a622e260eb325faaa50425f0022970d69830aec504bc0fe3ea366c99e6ee332', '8/1/2022', 4753, 'Shel Settle');
+insert into users (hash, reg_time, balance, name)
+values ('61e24847ea8c0f57ebadfd7ec51f2cab9b75268c55c5b06093e4d848a51e4d9c', '6/19/2022', 6758, 'Marthena Rowberry');
+insert into users (hash, reg_time, balance, name)
+values ('d93e530a3c64ef1b13c6260e01d5f319b861e4e13e8b0ecdebef224551e5e5d7', '10/23/2022', 3771, 'Godwin Merigon');
+insert into users (hash, reg_time, balance, name)
+values ('f6edbdce7c2a2c395229bdf78df43ae0dd46f3e38c9c8d925b14f73db42f58e4', '6/3/2022', 9467, 'Joice McGill');
+insert into users (hash, reg_time, balance, name)
+values ('6c57f27b3d89d984271a95b9364162f63f528a12d8926fa0928c78b03bbd6363', '7/8/2022', 4644, 'Gilburt Walkden');
+insert into users (hash, reg_time, balance, name)
+values ('923e0ea865c3e0c19a6b88a56d86cece9a183bc7a51d94adbfc99a1029f9af95', '2/23/2022', 1522, 'Gilda Snuggs');
+insert into users (hash, reg_time, balance, name)
+values ('77897707bb491f97c5366cce51e696ea1719f365b59cf0a545210616cf10f89a', '6/17/2022', 3780, 'Urban Rosgen');
+insert into users (hash, reg_time, balance, name)
+values ('399cf8d6586fa4b1cdf8f34517fe38fc7ccab61b3cd5dc13ac6de6bee2b113ef', '9/29/2022', 2952, 'Glynn Iskowicz');
+insert into users (hash, reg_time, balance, name)
+values ('63be3c62adff19c083de5841374bc5a172f0d123ea056f78e439cfc25d2a1345', '11/8/2022', 9724, 'Fairfax Cinelli');
+insert into users (hash, reg_time, balance, name)
+values ('f27b90846a3470209e84c8689004e1417f3d8a3389d5b1f5488c6a5e3d06a308', '6/10/2022', 9726, 'Yettie Fanthom');
+insert into users (hash, reg_time, balance, name)
+values ('62b4e4a3cb7735187463e7e485bead8429194d3fdc4ceeeeb30b00684960722a', '6/22/2022', 5756, 'Obed Benardeau');
+insert into users (hash, reg_time, balance, name)
+values ('ff0df59b02f694f7df09ecfb8e84abb04767f7778f297a99e74d347841831070', '1/28/2022', 4885, 'Claybourne Freestone');
+insert into users (hash, reg_time, balance, name)
+values ('d0cbdcc51739dd2f8783b20c2cc99685c0ab0d5741eca20f2ae1257b517ea4f6', '7/13/2022', 4297, 'Edik Yglesias');
+insert into users (hash, reg_time, balance, name)
+values ('dbb846a2cc3cbef5b3c1b567389ddf825cb77a5cb641359e561d6285b9463eeb', '2/15/2022', 1723, 'Lauryn Ginley');
+insert into users (hash, reg_time, balance, name)
+values ('f56f2c4a0fc7c4cb7b8efce3d8388cbd0657eb7a81047267d93d1bced32f79bf', '12/17/2021', 222, 'Fransisco Passion');
+insert into users (hash, reg_time, balance, name)
+values ('91bfcab4f6e4783de57090ec6c371853f5f80a8a43e9cd011d3f95c5e7c2ad2b', '2/10/2022', 9267, 'Virginie Shark');
+insert into users (hash, reg_time, balance, name)
+values ('e3b1366e92eb294fa91d93553416adde3f8b76dfd80f3316b71bdf4f08eaeb47', '1/23/2022', 1646, 'Hortensia McTague');
+insert into users (hash, reg_time, balance, name)
+values ('2e2260f1b86fb942c0b5ebfb9d2a79af970895feeed7965959080afc9d992c04', '10/15/2022', 6456, 'Steffi Zorzoni');
+insert into users (hash, reg_time, balance, name)
+values ('dbd088d4f06ab201688b92abe5c79de00a72c2312f7cf5e00bdf0c432e24527f', '8/24/2022', 4162, 'Mateo Sijmons');
+insert into users (hash, reg_time, balance, name)
+values ('21a1b63617f888e2de44bd748676cb98045defac52e34699596b47b1fd36c896', '5/6/2022', 735, 'Lyssa Gallant');
+insert into users (hash, reg_time, balance, name)
+values ('11f0f8c8633a76b5bdf166d6a370c7ecb18daa10a3fe7d84c74fedcd6b17feb9', '1/29/2022', 3737, 'Katie Mousby');
+insert into users (hash, reg_time, balance, name)
+values ('865bf8f8246e2301fc1d82bd1af76eb04df5f1ece365c2d2f6d6c25d5a8ba634', '8/3/2022', 1267, 'Cinderella Pittem');
+insert into users (hash, reg_time, balance, name)
+values ('83155207635dcce1d825edc7689d2341fd831c5d7d806662a1ebe950a5c3de15', '8/2/2022', 7464, 'Tabb Garbar');
+insert into users (hash, reg_time, balance, name)
+values ('a87126626ec067faa9e458039c507b4c5284c2131d23d9c30e0a162f9b65a1b7', '8/2/2022', 3702, 'Ilka Brussels');
+insert into users (hash, reg_time, balance, name)
+values ('d7c2a7bc01c39efce4af668cd8322c3f8b3879993363b1ee9cee9418f741acca', '10/22/2022', 3758, 'Alano Beecraft');
+insert into users (hash, reg_time, balance, name)
+values ('e6f599dd90d1bc5aa0d6c6c6ef901e18b4325ec7ec6f33304038e03fe3c74475', '7/28/2022', 3490, 'Cari Kerrey');
+insert into users (hash, reg_time, balance, name)
+values ('698c947582224ef377f5f86c80002ffc8e30f67a2491e61b2d83d901be77e568', '6/12/2022', 7713, 'Laurella Szwandt');
+insert into users (hash, reg_time, balance, name)
+values ('801f7f4b50bc353ad987ea6c4f0cccac54c6e7ae861164513d16af50b366a2e1', '6/19/2022', 1881, 'Vitoria Scholer');
+insert into users (hash, reg_time, balance, name)
+values ('7d933c92e36f7746e8ab403e5998819f2c84c70028717fbcfab1f3afe58926b9', '1/12/2022', 4424, 'Shelia Obray');
+insert into users (hash, reg_time, balance, name)
+values ('a546d5459d6a20f95e1fb07f23e3112392b6052d725c03ba552e9f47e096a17c', '4/11/2022', 3595, 'Chelsy Garrals');
+insert into users (hash, reg_time, balance, name)
+values ('81f7a857117846428f971874a3651076c13e59480758fe57a73c5d4984f07280', '1/26/2022', 9309, 'Elston Grishaev');
+insert into users (hash, reg_time, balance, name)
+values ('109491c8b16bad337cea132c6e3af98030455833afab423f97bc67d5753250da', '11/28/2021', 916, 'Kelcey Edgler');
+insert into users (hash, reg_time, balance, name)
+values ('9971aaacc2ced41e507c287a1539f1befa775fa238789963f95e1619e0491a6d', '4/11/2022', 4249, 'Nannette Fallawe');
+insert into users (hash, reg_time, balance, name)
+values ('291cd69545b1968ad4a4dc1703cc8d7714c650c8f31536e8c61c8af8d5bed3a7', '12/21/2021', 7647, 'Dinnie Swaisland');
+insert into users (hash, reg_time, balance, name)
+values ('39b3a7588ad769084034298576a9b4b554ed6abb7145ed1d53b7f55d245802be', '2/11/2022', 2451, 'Celinka Olech');
+insert into users (hash, reg_time, balance, name)
+values ('ee0c61ad252be3ac2c61fcd8ffac84395b460f19ef5ee6fa8837e22b37aa2206', '8/26/2022', 5801, 'Lamond Willmott');
+insert into users (hash, reg_time, balance, name)
+values ('65cc4be6d555c68d92b6be7a3e3b6b2137f564e0c2c65e5a2383c0c2557acbf7', '5/19/2022', 5451, 'Beatrice Jerdan');
+insert into users (hash, reg_time, balance, name)
+values ('383ec218b78a80db78668c63923ae83e71366ff733b9c8786eb8885dafda5fe2', '6/19/2022', 3791, 'Vere Wortt');
+insert into users (hash, reg_time, balance, name)
+values ('f99763d4e62241f6fdcc85bb14b303c57a8e7216030ff5211b2105f9b975cafd', '7/24/2022', 9921, 'Odie Havik');
+insert into users (hash, reg_time, balance, name)
+values ('78d9f19e3d4b9c57e04f871512b2430efac4455e6ddf0f2bd4c20446b7cf0387', '4/8/2022', 4749, 'Meriel Voak');
+insert into users (hash, reg_time, balance, name)
+values ('f2b44fe10e351a52759694036b2c9e2d493ead680be062eccd9407bff2ea3ba5', '10/24/2022', 9452, 'Rachelle Blesing');
+insert into users (hash, reg_time, balance, name)
+values ('f902625ea318eef02ddc3565ccc39a247e9d09606f8e33391028b2ae546763a3', '11/13/2021', 3886, 'Gilly Tocher');
+insert into users (hash, reg_time, balance, name)
+values ('c6d6b6fa060a0d44e80522cc56b0c3a5cb55e24f5447c38c578e874e06ac65bd', '6/29/2022', 5969, 'Alanah Cottee');
+insert into users (hash, reg_time, balance, name)
+values ('5175487d2233f50229e7ad4e22c052ef76553bba5d7edb92e2522c36b863cfc5', '3/10/2022', 5819, 'Torin Wassung');
+insert into users (hash, reg_time, balance, name)
+values ('570686baf61b6c97b6fcb59a4b900c362a2d06504a0db85b84622632170cba8a', '9/14/2022', 3697, 'Doti Roney');
+insert into users (hash, reg_time, balance, name)
+values ('699493a88b33b480fa443aa396d08b05db86a8d457034c2fbf6dc42d116b538c', '5/22/2022', 740, 'Elfie Chrispin');
+insert into users (hash, reg_time, balance, name)
+values ('1d8afcb797d75760fa0ba9b7888195fd2593193acf28f5ea56c949cff5cd6f36', '11/27/2021', 808, 'William Jeays');
+insert into users (hash, reg_time, balance, name)
+values ('15cbded2c2adec499977c2a6e64f75ec74b58436c8d73f1d1ce6d5178f3d7bab', '1/22/2022', 6548, 'Adolpho Wolvey');
+insert into users (hash, reg_time, balance, name)
+values ('69e81110423e0b3bcfcbf6dd4a24d4d4376d2ef3d2ec54c81aa9ad809252e0ea', '4/2/2022', 4937, 'Axe Ridgedell');
+insert into users (hash, reg_time, balance, name)
+values ('ce9c7559ae473bf8006064df5ee73b1bff0ef3e211657fe7fd2a06f7f509ff55', '8/1/2022', 1176, 'Gavin Mosedill');
+insert into users (hash, reg_time, balance, name)
+values ('01822272e771da067944ec238f604fa1d23343294bbd63d4b9368e2766dec791', '3/31/2022', 8674, 'Callean Waldie');
+insert into users (hash, reg_time, balance, name)
+values ('401f67bb31d1b88372866f0aa182608477a008cf6f8c8f5d76402f12e5182e9c', '2/24/2022', 7523, 'Bryn Sugden');
+insert into users (hash, reg_time, balance, name)
+values ('0b50f82e54412aee3d08624ba8c132d405a0dcc04e0c0d896bb63108a46c9457', '7/12/2022', 4230, 'Byron Curds');
+insert into users (hash, reg_time, balance, name)
+values ('c898a4c39ecac2211748f1e9b048c6250a26a7fbae20471681c8870ca3af5206', '9/13/2022', 5782, 'Nan Baselli');
+insert into users (hash, reg_time, balance, name)
+values ('7db939481d662b6e6a3e9b350bdee88e93e344deac31b09bd64c97132b7b2665', '2/4/2022', 7550, 'Giselle Robb');
+insert into users (hash, reg_time, balance, name)
+values ('c1677469120de6cde093f2871937979a3cef83b299ffd4cadf31e860b6b67c6a', '10/14/2022', 6366, 'Amitie Cawley');
+insert into users (hash, reg_time, balance, name)
+values ('cea2622619fee31efe2d2eb8ad7cff86c5b86c71d9d25fc1cf8876ca8a636404', '12/5/2021', 3434, 'Vern Dreelan');
+insert into users (hash, reg_time, balance, name)
+values ('1c85772a149c5daca204737f66dc5d50423e46cb67d9843159b40e737e0d2275', '1/20/2022', 9493, 'Rani Saphir');
+insert into users (hash, reg_time, balance, name)
+values ('f3f11e1c3adc8a282d6be4b6f2dca411d34e7e24de7ef41216110953e3ba4ca0', '7/24/2022', 9167, 'Guinevere Kershaw');
+insert into users (hash, reg_time, balance, name)
+values ('2bd56de5dbcc1b01c0de5fd206bdc2161d70b49a8f0e5e52619c6d5ca2155e31', '6/22/2022', 2746, 'Francesca De Wolfe');
+insert into users (hash, reg_time, balance, name)
+values ('592c6f368cb3b55e108034b3af002f7d138de486c4d7c03eb5a3084f680aff60', '4/16/2022', 8816, 'Carlin Noto');
+insert into users (hash, reg_time, balance, name)
+values ('61bd4596461bfacc2a7548101ad40acbe54bb615af9ffa4598bd2999b8fe85ac', '6/2/2022', 7329, 'Sydelle Earengey');
+insert into users (hash, reg_time, balance, name)
+values ('6d9c508b4d40be23fcf9bd7607afebb5b6951b2568dc2ec7d461bad8bbcd9606', '5/23/2022', 7502, 'Rasla Baysting');
+insert into users (hash, reg_time, balance, name)
+values ('d470bd5255c27edc9913ba2e1680df62ed90410cf42fbb86dca1607055d81704', '11/26/2021', 9110, 'Paloma Riddeough');
+insert into users (hash, reg_time, balance, name)
+values ('12ccc3e84b03c76ec4df4705684ba7399c7471e8d7cf870d03be14c33badf18a', '12/13/2021', 6114, 'Odo Lorey');
+insert into users (hash, reg_time, balance, name)
+values ('68353ddd033ceb7857116c5311eba8905e8feb76acd73cd06b066f621bd52309', '6/24/2022', 8068, 'Jocelyne Kahen');
 
-insert into book2user (time, type_id, book_id, user_id) values ('6/15/2022', 4, 232, 57);
-insert into book2user (time, type_id, book_id, user_id) values ('12/8/2021', 1, 563, 22);
-insert into book2user (time, type_id, book_id, user_id) values ('8/8/2022', 5, 985, 15);
-insert into book2user (time, type_id, book_id, user_id) values ('6/12/2022', 1, 481, 22);
-insert into book2user (time, type_id, book_id, user_id) values ('8/28/2022', 2, 362, 100);
-insert into book2user (time, type_id, book_id, user_id) values ('10/28/2022', 3, 240, 100);
-insert into book2user (time, type_id, book_id, user_id) values ('8/18/2022', 5, 223, 45);
-insert into book2user (time, type_id, book_id, user_id) values ('5/9/2022', 1, 5, 34);
-insert into book2user (time, type_id, book_id, user_id) values ('3/26/2022', 4, 532, 30);
-insert into book2user (time, type_id, book_id, user_id) values ('5/17/2022', 4, 867, 45);
-insert into book2user (time, type_id, book_id, user_id) values ('5/22/2022', 3, 758, 96);
-insert into book2user (time, type_id, book_id, user_id) values ('5/12/2022', 4, 667, 63);
-insert into book2user (time, type_id, book_id, user_id) values ('4/16/2022', 2, 198, 56);
-insert into book2user (time, type_id, book_id, user_id) values ('11/12/2021', 3, 460, 94);
-insert into book2user (time, type_id, book_id, user_id) values ('2/7/2022', 1, 328, 86);
-insert into book2user (time, type_id, book_id, user_id) values ('7/20/2022', 5, 993, 51);
-insert into book2user (time, type_id, book_id, user_id) values ('9/30/2022', 3, 651, 68);
-insert into book2user (time, type_id, book_id, user_id) values ('6/20/2022', 3, 286, 57);
-insert into book2user (time, type_id, book_id, user_id) values ('7/31/2022', 5, 632, 32);
-insert into book2user (time, type_id, book_id, user_id) values ('7/7/2022', 1, 642, 1);
-insert into book2user (time, type_id, book_id, user_id) values ('7/25/2022', 4, 497, 60);
-insert into book2user (time, type_id, book_id, user_id) values ('12/7/2021', 3, 980, 95);
-insert into book2user (time, type_id, book_id, user_id) values ('1/8/2022', 5, 687, 70);
-insert into book2user (time, type_id, book_id, user_id) values ('12/12/2021', 1, 609, 38);
-insert into book2user (time, type_id, book_id, user_id) values ('4/8/2022', 1, 753, 31);
-insert into book2user (time, type_id, book_id, user_id) values ('11/17/2021', 1, 466, 7);
-insert into book2user (time, type_id, book_id, user_id) values ('11/1/2022', 4, 240, 76);
-insert into book2user (time, type_id, book_id, user_id) values ('2/11/2022', 2, 156, 52);
-insert into book2user (time, type_id, book_id, user_id) values ('4/26/2022', 1, 455, 62);
-insert into book2user (time, type_id, book_id, user_id) values ('7/29/2022', 5, 327, 91);
-insert into book2user (time, type_id, book_id, user_id) values ('12/29/2021', 4, 10, 3);
-insert into book2user (time, type_id, book_id, user_id) values ('1/30/2022', 2, 111, 72);
-insert into book2user (time, type_id, book_id, user_id) values ('4/8/2022', 2, 102, 86);
-insert into book2user (time, type_id, book_id, user_id) values ('5/21/2022', 2, 944, 84);
-insert into book2user (time, type_id, book_id, user_id) values ('1/21/2022', 5, 677, 26);
-insert into book2user (time, type_id, book_id, user_id) values ('3/6/2022', 4, 325, 71);
-insert into book2user (time, type_id, book_id, user_id) values ('3/28/2022', 5, 480, 78);
-insert into book2user (time, type_id, book_id, user_id) values ('12/18/2021', 2, 629, 41);
-insert into book2user (time, type_id, book_id, user_id) values ('5/28/2022', 2, 389, 94);
-insert into book2user (time, type_id, book_id, user_id) values ('10/8/2022', 1, 93, 17);
-insert into book2user (time, type_id, book_id, user_id) values ('4/5/2022', 4, 196, 63);
-insert into book2user (time, type_id, book_id, user_id) values ('5/23/2022', 2, 954, 65);
-insert into book2user (time, type_id, book_id, user_id) values ('3/17/2022', 4, 355, 97);
-insert into book2user (time, type_id, book_id, user_id) values ('12/12/2021', 2, 17, 12);
-insert into book2user (time, type_id, book_id, user_id) values ('1/28/2022', 1, 824, 62);
-insert into book2user (time, type_id, book_id, user_id) values ('4/8/2022', 1, 675, 93);
-insert into book2user (time, type_id, book_id, user_id) values ('2/8/2022', 1, 968, 54);
-insert into book2user (time, type_id, book_id, user_id) values ('11/24/2021', 1, 264, 24);
-insert into book2user (time, type_id, book_id, user_id) values ('7/15/2022', 1, 271, 45);
-insert into book2user (time, type_id, book_id, user_id) values ('2/14/2022', 5, 152, 96);
-insert into book2user (time, type_id, book_id, user_id) values ('12/26/2021', 5, 747, 90);
-insert into book2user (time, type_id, book_id, user_id) values ('10/12/2022', 1, 602, 79);
-insert into book2user (time, type_id, book_id, user_id) values ('7/13/2022', 2, 76, 84);
-insert into book2user (time, type_id, book_id, user_id) values ('5/22/2022', 3, 793, 86);
-insert into book2user (time, type_id, book_id, user_id) values ('7/6/2022', 5, 753, 33);
-insert into book2user (time, type_id, book_id, user_id) values ('1/18/2022', 1, 67, 45);
-insert into book2user (time, type_id, book_id, user_id) values ('5/4/2022', 3, 323, 85);
-insert into book2user (time, type_id, book_id, user_id) values ('1/2/2022', 5, 656, 1);
-insert into book2user (time, type_id, book_id, user_id) values ('2/26/2022', 1, 390, 56);
-insert into book2user (time, type_id, book_id, user_id) values ('8/31/2022', 2, 971, 85);
-insert into book2user (time, type_id, book_id, user_id) values ('10/28/2022', 5, 878, 16);
-insert into book2user (time, type_id, book_id, user_id) values ('5/24/2022', 3, 400, 40);
-insert into book2user (time, type_id, book_id, user_id) values ('1/17/2022', 1, 109, 45);
-insert into book2user (time, type_id, book_id, user_id) values ('2/17/2022', 5, 753, 19);
-insert into book2user (time, type_id, book_id, user_id) values ('9/21/2022', 2, 964, 93);
-insert into book2user (time, type_id, book_id, user_id) values ('1/4/2022', 5, 312, 46);
-insert into book2user (time, type_id, book_id, user_id) values ('6/12/2022', 1, 268, 85);
-insert into book2user (time, type_id, book_id, user_id) values ('4/15/2022', 5, 559, 44);
-insert into book2user (time, type_id, book_id, user_id) values ('8/24/2022', 2, 405, 74);
-insert into book2user (time, type_id, book_id, user_id) values ('8/20/2022', 4, 320, 73);
-insert into book2user (time, type_id, book_id, user_id) values ('12/12/2021', 3, 147, 53);
-insert into book2user (time, type_id, book_id, user_id) values ('10/5/2022', 2, 392, 37);
-insert into book2user (time, type_id, book_id, user_id) values ('6/11/2022', 1, 922, 37);
-insert into book2user (time, type_id, book_id, user_id) values ('11/21/2021', 1, 575, 50);
-insert into book2user (time, type_id, book_id, user_id) values ('8/26/2022', 5, 90, 79);
-insert into book2user (time, type_id, book_id, user_id) values ('1/13/2022', 4, 267, 77);
-insert into book2user (time, type_id, book_id, user_id) values ('8/13/2022', 3, 53, 53);
-insert into book2user (time, type_id, book_id, user_id) values ('7/30/2022', 5, 425, 70);
-insert into book2user (time, type_id, book_id, user_id) values ('3/11/2022', 4, 116, 39);
-insert into book2user (time, type_id, book_id, user_id) values ('9/13/2022', 4, 434, 91);
-insert into book2user (time, type_id, book_id, user_id) values ('7/2/2022', 5, 44, 34);
-insert into book2user (time, type_id, book_id, user_id) values ('9/24/2022', 1, 512, 91);
-insert into book2user (time, type_id, book_id, user_id) values ('6/26/2022', 3, 372, 20);
-insert into book2user (time, type_id, book_id, user_id) values ('4/7/2022', 2, 63, 82);
-insert into book2user (time, type_id, book_id, user_id) values ('9/29/2022', 2, 168, 11);
-insert into book2user (time, type_id, book_id, user_id) values ('1/25/2022', 1, 526, 89);
-insert into book2user (time, type_id, book_id, user_id) values ('2/20/2022', 4, 53, 10);
-insert into book2user (time, type_id, book_id, user_id) values ('1/1/2022', 4, 493, 7);
-insert into book2user (time, type_id, book_id, user_id) values ('10/21/2022', 4, 900, 27);
-insert into book2user (time, type_id, book_id, user_id) values ('3/10/2022', 3, 78, 49);
-insert into book2user (time, type_id, book_id, user_id) values ('1/2/2022', 1, 869, 68);
-insert into book2user (time, type_id, book_id, user_id) values ('3/1/2022', 2, 208, 67);
-insert into book2user (time, type_id, book_id, user_id) values ('11/26/2021', 3, 792, 68);
-insert into book2user (time, type_id, book_id, user_id) values ('8/30/2022', 1, 142, 64);
-insert into book2user (time, type_id, book_id, user_id) values ('10/1/2022', 5, 552, 29);
-insert into book2user (time, type_id, book_id, user_id) values ('5/3/2022', 2, 108, 44);
-insert into book2user (time, type_id, book_id, user_id) values ('7/7/2022', 5, 663, 65);
-insert into book2user (time, type_id, book_id, user_id) values ('9/5/2022', 3, 722, 65);
-insert into book2user (time, type_id, book_id, user_id) values ('8/19/2022', 3, 250, 57);
-insert into book2user (time, type_id, book_id, user_id) values ('1/6/2022', 5, 869, 9);
-insert into book2user (time, type_id, book_id, user_id) values ('8/23/2022', 2, 639, 98);
-insert into book2user (time, type_id, book_id, user_id) values ('4/12/2022', 4, 748, 81);
-insert into book2user (time, type_id, book_id, user_id) values ('11/9/2022', 2, 914, 87);
-insert into book2user (time, type_id, book_id, user_id) values ('12/30/2021', 4, 885, 65);
-insert into book2user (time, type_id, book_id, user_id) values ('5/1/2022', 5, 757, 99);
-insert into book2user (time, type_id, book_id, user_id) values ('9/13/2022', 2, 125, 90);
-insert into book2user (time, type_id, book_id, user_id) values ('10/16/2022', 4, 460, 69);
-insert into book2user (time, type_id, book_id, user_id) values ('9/26/2022', 5, 774, 33);
-insert into book2user (time, type_id, book_id, user_id) values ('10/6/2022', 3, 385, 82);
-insert into book2user (time, type_id, book_id, user_id) values ('4/2/2022', 2, 246, 41);
-insert into book2user (time, type_id, book_id, user_id) values ('5/18/2022', 1, 491, 6);
-insert into book2user (time, type_id, book_id, user_id) values ('4/8/2022', 1, 340, 86);
-insert into book2user (time, type_id, book_id, user_id) values ('12/8/2021', 5, 807, 57);
-insert into book2user (time, type_id, book_id, user_id) values ('10/16/2022', 3, 880, 9);
-insert into book2user (time, type_id, book_id, user_id) values ('12/29/2021', 3, 616, 61);
-insert into book2user (time, type_id, book_id, user_id) values ('4/8/2022', 5, 399, 65);
-insert into book2user (time, type_id, book_id, user_id) values ('4/28/2022', 4, 900, 26);
-insert into book2user (time, type_id, book_id, user_id) values ('12/26/2021', 1, 581, 84);
-insert into book2user (time, type_id, book_id, user_id) values ('5/8/2022', 4, 269, 3);
-insert into book2user (time, type_id, book_id, user_id) values ('8/4/2022', 4, 700, 47);
-insert into book2user (time, type_id, book_id, user_id) values ('4/23/2022', 3, 972, 10);
-insert into book2user (time, type_id, book_id, user_id) values ('3/3/2022', 2, 26, 75);
-insert into book2user (time, type_id, book_id, user_id) values ('1/14/2022', 1, 783, 65);
-insert into book2user (time, type_id, book_id, user_id) values ('8/10/2022', 3, 724, 92);
-insert into book2user (time, type_id, book_id, user_id) values ('11/28/2021', 5, 156, 4);
-insert into book2user (time, type_id, book_id, user_id) values ('6/5/2022', 2, 695, 62);
-insert into book2user (time, type_id, book_id, user_id) values ('1/11/2022', 1, 353, 96);
-insert into book2user (time, type_id, book_id, user_id) values ('11/29/2021', 4, 264, 75);
-insert into book2user (time, type_id, book_id, user_id) values ('5/1/2022', 2, 588, 75);
-insert into book2user (time, type_id, book_id, user_id) values ('5/7/2022', 5, 87, 74);
-insert into book2user (time, type_id, book_id, user_id) values ('10/29/2022', 1, 275, 23);
-insert into book2user (time, type_id, book_id, user_id) values ('12/14/2021', 4, 201, 31);
-insert into book2user (time, type_id, book_id, user_id) values ('5/8/2022', 4, 328, 99);
-insert into book2user (time, type_id, book_id, user_id) values ('5/5/2022', 3, 878, 1);
-insert into book2user (time, type_id, book_id, user_id) values ('7/11/2022', 3, 585, 27);
-insert into book2user (time, type_id, book_id, user_id) values ('12/18/2021', 4, 73, 7);
-insert into book2user (time, type_id, book_id, user_id) values ('5/29/2022', 2, 67, 95);
-insert into book2user (time, type_id, book_id, user_id) values ('11/10/2022', 1, 106, 36);
-insert into book2user (time, type_id, book_id, user_id) values ('7/27/2022', 5, 323, 17);
-insert into book2user (time, type_id, book_id, user_id) values ('2/3/2022', 4, 414, 56);
-insert into book2user (time, type_id, book_id, user_id) values ('5/10/2022', 1, 939, 86);
-insert into book2user (time, type_id, book_id, user_id) values ('2/11/2022', 3, 407, 78);
-insert into book2user (time, type_id, book_id, user_id) values ('11/23/2021', 5, 941, 46);
-insert into book2user (time, type_id, book_id, user_id) values ('2/27/2022', 5, 875, 59);
-insert into book2user (time, type_id, book_id, user_id) values ('3/31/2022', 1, 920, 59);
-insert into book2user (time, type_id, book_id, user_id) values ('9/12/2022', 4, 47, 95);
-insert into book2user (time, type_id, book_id, user_id) values ('12/1/2021', 5, 91, 37);
-insert into book2user (time, type_id, book_id, user_id) values ('6/4/2022', 2, 602, 94);
-insert into book2user (time, type_id, book_id, user_id) values ('8/11/2022', 4, 911, 53);
-insert into book2user (time, type_id, book_id, user_id) values ('8/29/2022', 3, 177, 56);
-insert into book2user (time, type_id, book_id, user_id) values ('12/17/2021', 1, 667, 34);
-insert into book2user (time, type_id, book_id, user_id) values ('2/23/2022', 4, 125, 82);
-insert into book2user (time, type_id, book_id, user_id) values ('3/3/2022', 1, 810, 71);
-insert into book2user (time, type_id, book_id, user_id) values ('3/2/2022', 4, 625, 74);
-insert into book2user (time, type_id, book_id, user_id) values ('8/31/2022', 1, 32, 100);
-insert into book2user (time, type_id, book_id, user_id) values ('8/16/2022', 5, 306, 92);
-insert into book2user (time, type_id, book_id, user_id) values ('4/28/2022', 3, 721, 99);
-insert into book2user (time, type_id, book_id, user_id) values ('5/25/2022', 3, 491, 13);
-insert into book2user (time, type_id, book_id, user_id) values ('11/2/2022', 4, 939, 47);
-insert into book2user (time, type_id, book_id, user_id) values ('9/6/2022', 3, 695, 64);
-insert into book2user (time, type_id, book_id, user_id) values ('6/27/2022', 2, 395, 20);
-insert into book2user (time, type_id, book_id, user_id) values ('10/3/2022', 3, 585, 20);
-insert into book2user (time, type_id, book_id, user_id) values ('6/17/2022', 4, 720, 74);
-insert into book2user (time, type_id, book_id, user_id) values ('7/31/2022', 3, 296, 76);
-insert into book2user (time, type_id, book_id, user_id) values ('4/25/2022', 1, 320, 93);
-insert into book2user (time, type_id, book_id, user_id) values ('12/26/2021', 3, 404, 65);
-insert into book2user (time, type_id, book_id, user_id) values ('8/11/2022', 4, 578, 14);
-insert into book2user (time, type_id, book_id, user_id) values ('5/21/2022', 1, 991, 2);
-insert into book2user (time, type_id, book_id, user_id) values ('5/15/2022', 3, 353, 4);
-insert into book2user (time, type_id, book_id, user_id) values ('3/22/2022', 5, 289, 3);
-insert into book2user (time, type_id, book_id, user_id) values ('12/6/2021', 1, 952, 98);
-insert into book2user (time, type_id, book_id, user_id) values ('9/25/2022', 5, 616, 81);
-insert into book2user (time, type_id, book_id, user_id) values ('5/3/2022', 1, 739, 26);
-insert into book2user (time, type_id, book_id, user_id) values ('2/11/2022', 2, 216, 20);
-insert into book2user (time, type_id, book_id, user_id) values ('4/24/2022', 1, 976, 31);
-insert into book2user (time, type_id, book_id, user_id) values ('2/26/2022', 3, 578, 93);
-insert into book2user (time, type_id, book_id, user_id) values ('6/3/2022', 3, 906, 37);
-insert into book2user (time, type_id, book_id, user_id) values ('6/9/2022', 1, 483, 16);
-insert into book2user (time, type_id, book_id, user_id) values ('5/28/2022', 1, 911, 12);
-insert into book2user (time, type_id, book_id, user_id) values ('5/18/2022', 2, 634, 62);
-insert into book2user (time, type_id, book_id, user_id) values ('11/22/2021', 3, 593, 22);
-insert into book2user (time, type_id, book_id, user_id) values ('5/14/2022', 4, 620, 23);
-insert into book2user (time, type_id, book_id, user_id) values ('6/4/2022', 2, 477, 99);
-insert into book2user (time, type_id, book_id, user_id) values ('9/27/2022', 1, 380, 21);
-insert into book2user (time, type_id, book_id, user_id) values ('2/10/2022', 3, 17, 57);
-insert into book2user (time, type_id, book_id, user_id) values ('6/23/2022', 2, 355, 32);
-insert into book2user (time, type_id, book_id, user_id) values ('3/30/2022', 1, 477, 84);
-insert into book2user (time, type_id, book_id, user_id) values ('11/25/2021', 4, 280, 89);
-insert into book2user (time, type_id, book_id, user_id) values ('8/14/2022', 1, 369, 86);
-insert into book2user (time, type_id, book_id, user_id) values ('7/16/2022', 1, 592, 52);
-insert into book2user (time, type_id, book_id, user_id) values ('4/14/2022', 2, 317, 100);
-insert into book2user (time, type_id, book_id, user_id) values ('3/3/2022', 3, 752, 85);
-insert into book2user (time, type_id, book_id, user_id) values ('9/25/2022', 1, 306, 16);
-insert into book2user (time, type_id, book_id, user_id) values ('7/8/2022', 1, 774, 14);
-insert into book2user (time, type_id, book_id, user_id) values ('7/31/2022', 2, 999, 22);
-insert into book2user (time, type_id, book_id, user_id) values ('10/3/2022', 4, 84, 5);
-insert into book2user (time, type_id, book_id, user_id) values ('5/31/2022', 3, 539, 76);
-insert into book2user (time, type_id, book_id, user_id) values ('10/21/2022', 2, 774, 6);
-insert into book2user (time, type_id, book_id, user_id) values ('8/31/2022', 4, 50, 61);
-insert into book2user (time, type_id, book_id, user_id) values ('6/8/2022', 2, 745, 98);
-insert into book2user (time, type_id, book_id, user_id) values ('3/24/2022', 1, 578, 43);
-insert into book2user (time, type_id, book_id, user_id) values ('5/23/2022', 1, 222, 52);
-insert into book2user (time, type_id, book_id, user_id) values ('1/4/2022', 1, 155, 69);
-insert into book2user (time, type_id, book_id, user_id) values ('10/17/2022', 4, 242, 96);
-insert into book2user (time, type_id, book_id, user_id) values ('4/30/2022', 1, 203, 46);
-insert into book2user (time, type_id, book_id, user_id) values ('12/16/2021', 4, 123, 23);
-insert into book2user (time, type_id, book_id, user_id) values ('11/27/2021', 2, 721, 55);
-insert into book2user (time, type_id, book_id, user_id) values ('2/16/2022', 2, 439, 42);
-insert into book2user (time, type_id, book_id, user_id) values ('6/27/2022', 1, 585, 18);
-insert into book2user (time, type_id, book_id, user_id) values ('11/11/2022', 5, 717, 45);
-insert into book2user (time, type_id, book_id, user_id) values ('4/24/2022', 4, 771, 20);
-insert into book2user (time, type_id, book_id, user_id) values ('5/12/2022', 5, 787, 56);
-insert into book2user (time, type_id, book_id, user_id) values ('8/29/2022', 3, 558, 80);
-insert into book2user (time, type_id, book_id, user_id) values ('6/2/2022', 2, 843, 81);
-insert into book2user (time, type_id, book_id, user_id) values ('11/30/2021', 1, 975, 35);
-insert into book2user (time, type_id, book_id, user_id) values ('12/15/2021', 1, 996, 98);
-insert into book2user (time, type_id, book_id, user_id) values ('8/22/2022', 2, 986, 72);
-insert into book2user (time, type_id, book_id, user_id) values ('8/20/2022', 2, 689, 81);
-insert into book2user (time, type_id, book_id, user_id) values ('10/29/2022', 4, 412, 6);
-insert into book2user (time, type_id, book_id, user_id) values ('7/12/2022', 2, 698, 20);
-insert into book2user (time, type_id, book_id, user_id) values ('10/2/2022', 2, 574, 19);
-insert into book2user (time, type_id, book_id, user_id) values ('3/12/2022', 5, 330, 81);
-insert into book2user (time, type_id, book_id, user_id) values ('11/19/2021', 2, 500, 42);
-insert into book2user (time, type_id, book_id, user_id) values ('9/2/2022', 5, 285, 7);
-insert into book2user (time, type_id, book_id, user_id) values ('6/16/2022', 3, 734, 61);
-insert into book2user (time, type_id, book_id, user_id) values ('6/20/2022', 4, 136, 38);
-insert into book2user (time, type_id, book_id, user_id) values ('11/28/2021', 1, 477, 98);
-insert into book2user (time, type_id, book_id, user_id) values ('7/8/2022', 5, 367, 22);
-insert into book2user (time, type_id, book_id, user_id) values ('2/14/2022', 2, 548, 49);
-insert into book2user (time, type_id, book_id, user_id) values ('1/9/2022', 1, 574, 96);
-insert into book2user (time, type_id, book_id, user_id) values ('3/19/2022', 2, 470, 76);
-insert into book2user (time, type_id, book_id, user_id) values ('7/4/2022', 1, 880, 16);
-insert into book2user (time, type_id, book_id, user_id) values ('9/6/2022', 2, 572, 54);
-insert into book2user (time, type_id, book_id, user_id) values ('9/24/2022', 1, 593, 73);
-insert into book2user (time, type_id, book_id, user_id) values ('9/26/2022', 4, 441, 57);
-insert into book2user (time, type_id, book_id, user_id) values ('8/15/2022', 3, 322, 62);
-insert into book2user (time, type_id, book_id, user_id) values ('7/18/2022', 1, 700, 38);
-insert into book2user (time, type_id, book_id, user_id) values ('7/19/2022', 5, 397, 3);
-insert into book2user (time, type_id, book_id, user_id) values ('7/4/2022', 3, 399, 64);
-insert into book2user (time, type_id, book_id, user_id) values ('7/13/2022', 3, 634, 26);
-insert into book2user (time, type_id, book_id, user_id) values ('1/6/2022', 4, 556, 85);
-insert into book2user (time, type_id, book_id, user_id) values ('7/16/2022', 2, 476, 81);
-insert into book2user (time, type_id, book_id, user_id) values ('7/4/2022', 2, 468, 37);
-insert into book2user (time, type_id, book_id, user_id) values ('9/23/2022', 1, 72, 56);
-insert into book2user (time, type_id, book_id, user_id) values ('7/9/2022', 1, 356, 57);
-insert into book2user (time, type_id, book_id, user_id) values ('11/17/2021', 3, 51, 77);
-insert into book2user (time, type_id, book_id, user_id) values ('11/14/2021', 3, 615, 58);
-insert into book2user (time, type_id, book_id, user_id) values ('3/30/2022', 1, 478, 31);
-insert into book2user (time, type_id, book_id, user_id) values ('2/24/2022', 3, 383, 34);
-insert into book2user (time, type_id, book_id, user_id) values ('12/7/2021', 5, 405, 75);
-insert into book2user (time, type_id, book_id, user_id) values ('11/25/2021', 4, 45, 62);
-insert into book2user (time, type_id, book_id, user_id) values ('3/3/2022', 1, 588, 82);
-insert into book2user (time, type_id, book_id, user_id) values ('1/16/2022', 2, 405, 36);
-insert into book2user (time, type_id, book_id, user_id) values ('6/6/2022', 2, 988, 95);
-insert into book2user (time, type_id, book_id, user_id) values ('11/5/2022', 5, 133, 94);
-insert into book2user (time, type_id, book_id, user_id) values ('9/28/2022', 5, 56, 33);
-insert into book2user (time, type_id, book_id, user_id) values ('1/15/2022', 5, 796, 70);
-insert into book2user (time, type_id, book_id, user_id) values ('4/8/2022', 2, 225, 16);
-insert into book2user (time, type_id, book_id, user_id) values ('10/31/2022', 4, 223, 13);
-insert into book2user (time, type_id, book_id, user_id) values ('6/30/2022', 5, 98, 29);
-insert into book2user (time, type_id, book_id, user_id) values ('5/26/2022', 4, 726, 23);
-insert into book2user (time, type_id, book_id, user_id) values ('5/20/2022', 3, 886, 64);
-insert into book2user (time, type_id, book_id, user_id) values ('2/18/2022', 1, 805, 83);
-insert into book2user (time, type_id, book_id, user_id) values ('2/16/2022', 5, 966, 99);
-insert into book2user (time, type_id, book_id, user_id) values ('9/29/2022', 5, 609, 25);
-insert into book2user (time, type_id, book_id, user_id) values ('10/30/2022', 2, 657, 51);
-insert into book2user (time, type_id, book_id, user_id) values ('7/13/2022', 1, 905, 89);
-insert into book2user (time, type_id, book_id, user_id) values ('2/11/2022', 5, 911, 75);
-insert into book2user (time, type_id, book_id, user_id) values ('9/10/2022', 3, 774, 4);
-insert into book2user (time, type_id, book_id, user_id) values ('6/5/2022', 4, 867, 14);
-insert into book2user (time, type_id, book_id, user_id) values ('1/15/2022', 4, 117, 93);
-insert into book2user (time, type_id, book_id, user_id) values ('9/13/2022', 4, 962, 86);
-insert into book2user (time, type_id, book_id, user_id) values ('3/13/2022', 1, 893, 92);
-insert into book2user (time, type_id, book_id, user_id) values ('11/23/2021', 5, 973, 64);
-insert into book2user (time, type_id, book_id, user_id) values ('9/3/2022', 5, 809, 35);
-insert into book2user (time, type_id, book_id, user_id) values ('3/31/2022', 4, 443, 31);
-insert into book2user (time, type_id, book_id, user_id) values ('9/10/2022', 3, 343, 11);
-insert into book2user (time, type_id, book_id, user_id) values ('5/16/2022', 5, 666, 37);
-insert into book2user (time, type_id, book_id, user_id) values ('8/7/2022', 3, 197, 98);
-insert into book2user (time, type_id, book_id, user_id) values ('3/7/2022', 5, 457, 91);
-insert into book2user (time, type_id, book_id, user_id) values ('8/2/2022', 5, 318, 12);
-insert into book2user (time, type_id, book_id, user_id) values ('9/19/2022', 4, 804, 48);
-insert into book2user (time, type_id, book_id, user_id) values ('7/9/2022', 4, 151, 33);
-insert into book2user (time, type_id, book_id, user_id) values ('5/21/2022', 4, 115, 78);
-insert into book2user (time, type_id, book_id, user_id) values ('9/22/2022', 2, 344, 45);
-insert into book2user (time, type_id, book_id, user_id) values ('1/21/2022', 4, 157, 88);
-insert into book2user (time, type_id, book_id, user_id) values ('3/1/2022', 4, 203, 16);
-insert into book2user (time, type_id, book_id, user_id) values ('6/21/2022', 1, 585, 46);
-insert into book2user (time, type_id, book_id, user_id) values ('7/25/2022', 1, 766, 95);
-insert into book2user (time, type_id, book_id, user_id) values ('10/11/2022', 2, 568, 95);
-insert into book2user (time, type_id, book_id, user_id) values ('1/18/2022', 3, 765, 92);
-insert into book2user (time, type_id, book_id, user_id) values ('5/16/2022', 1, 776, 44);
-insert into book2user (time, type_id, book_id, user_id) values ('11/11/2022', 5, 466, 1);
-insert into book2user (time, type_id, book_id, user_id) values ('4/29/2022', 1, 366, 68);
-insert into book2user (time, type_id, book_id, user_id) values ('12/22/2021', 2, 210, 5);
-insert into book2user (time, type_id, book_id, user_id) values ('4/13/2022', 4, 152, 74);
-insert into book2user (time, type_id, book_id, user_id) values ('2/20/2022', 2, 874, 17);
-insert into book2user (time, type_id, book_id, user_id) values ('4/23/2022', 2, 677, 11);
-insert into book2user (time, type_id, book_id, user_id) values ('10/12/2022', 4, 376, 100);
-insert into book2user (time, type_id, book_id, user_id) values ('9/8/2022', 3, 337, 32);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/15/2022', 4, 232, 57);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/8/2021', 1, 563, 22);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/8/2022', 5, 985, 15);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/12/2022', 1, 481, 22);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/28/2022', 2, 362, 100);
+insert into book2user (time, type_id, book_id, user_id)
+values ('10/28/2022', 3, 240, 100);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/18/2022', 5, 223, 45);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/9/2022', 1, 5, 34);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/26/2022', 4, 532, 30);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/17/2022', 4, 867, 45);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/22/2022', 3, 758, 96);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/12/2022', 4, 667, 63);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/16/2022', 2, 198, 56);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/12/2021', 3, 460, 94);
+insert into book2user (time, type_id, book_id, user_id)
+values ('2/7/2022', 1, 328, 86);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/20/2022', 5, 993, 51);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/30/2022', 3, 651, 68);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/20/2022', 3, 286, 57);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/31/2022', 5, 632, 32);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/7/2022', 1, 642, 1);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/25/2022', 4, 497, 60);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/7/2021', 3, 980, 95);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/8/2022', 5, 687, 70);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/12/2021', 1, 609, 38);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/8/2022', 1, 753, 31);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/17/2021', 1, 466, 7);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/1/2022', 4, 240, 76);
+insert into book2user (time, type_id, book_id, user_id)
+values ('2/11/2022', 2, 156, 52);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/26/2022', 1, 455, 62);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/29/2022', 5, 327, 91);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/29/2021', 4, 10, 3);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/30/2022', 2, 111, 72);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/8/2022', 2, 102, 86);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/21/2022', 2, 944, 84);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/21/2022', 5, 677, 26);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/6/2022', 4, 325, 71);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/28/2022', 5, 480, 78);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/18/2021', 2, 629, 41);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/28/2022', 2, 389, 94);
+insert into book2user (time, type_id, book_id, user_id)
+values ('10/8/2022', 1, 93, 17);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/5/2022', 4, 196, 63);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/23/2022', 2, 954, 65);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/17/2022', 4, 355, 97);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/12/2021', 2, 17, 12);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/28/2022', 1, 824, 62);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/8/2022', 1, 675, 93);
+insert into book2user (time, type_id, book_id, user_id)
+values ('2/8/2022', 1, 968, 54);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/24/2021', 1, 264, 24);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/15/2022', 1, 271, 45);
+insert into book2user (time, type_id, book_id, user_id)
+values ('2/14/2022', 5, 152, 96);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/26/2021', 5, 747, 90);
+insert into book2user (time, type_id, book_id, user_id)
+values ('10/12/2022', 1, 602, 79);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/13/2022', 2, 76, 84);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/22/2022', 3, 793, 86);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/6/2022', 5, 753, 33);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/18/2022', 1, 67, 45);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/4/2022', 3, 323, 85);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/2/2022', 5, 656, 1);
+insert into book2user (time, type_id, book_id, user_id)
+values ('2/26/2022', 1, 390, 56);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/31/2022', 2, 971, 85);
+insert into book2user (time, type_id, book_id, user_id)
+values ('10/28/2022', 5, 878, 16);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/24/2022', 3, 400, 40);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/17/2022', 1, 109, 45);
+insert into book2user (time, type_id, book_id, user_id)
+values ('2/17/2022', 5, 753, 19);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/21/2022', 2, 964, 93);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/4/2022', 5, 312, 46);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/12/2022', 1, 268, 85);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/15/2022', 5, 559, 44);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/24/2022', 2, 405, 74);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/20/2022', 4, 320, 73);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/12/2021', 3, 147, 53);
+insert into book2user (time, type_id, book_id, user_id)
+values ('10/5/2022', 2, 392, 37);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/11/2022', 1, 922, 37);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/21/2021', 1, 575, 50);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/26/2022', 5, 90, 79);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/13/2022', 4, 267, 77);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/13/2022', 3, 53, 53);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/30/2022', 5, 425, 70);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/11/2022', 4, 116, 39);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/13/2022', 4, 434, 91);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/2/2022', 5, 44, 34);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/24/2022', 1, 512, 91);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/26/2022', 3, 372, 20);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/7/2022', 2, 63, 82);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/29/2022', 2, 168, 11);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/25/2022', 1, 526, 89);
+insert into book2user (time, type_id, book_id, user_id)
+values ('2/20/2022', 4, 53, 10);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/1/2022', 4, 493, 7);
+insert into book2user (time, type_id, book_id, user_id)
+values ('10/21/2022', 4, 900, 27);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/10/2022', 3, 78, 49);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/2/2022', 1, 869, 68);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/1/2022', 2, 208, 67);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/26/2021', 3, 792, 68);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/30/2022', 1, 142, 64);
+insert into book2user (time, type_id, book_id, user_id)
+values ('10/1/2022', 5, 552, 29);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/3/2022', 2, 108, 44);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/7/2022', 5, 663, 65);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/5/2022', 3, 722, 65);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/19/2022', 3, 250, 57);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/6/2022', 5, 869, 9);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/23/2022', 2, 639, 98);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/12/2022', 4, 748, 81);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/9/2022', 2, 914, 87);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/30/2021', 4, 885, 65);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/1/2022', 5, 757, 99);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/13/2022', 2, 125, 90);
+insert into book2user (time, type_id, book_id, user_id)
+values ('10/16/2022', 4, 460, 69);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/26/2022', 5, 774, 33);
+insert into book2user (time, type_id, book_id, user_id)
+values ('10/6/2022', 3, 385, 82);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/2/2022', 2, 246, 41);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/18/2022', 1, 491, 6);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/8/2022', 1, 340, 86);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/8/2021', 5, 807, 57);
+insert into book2user (time, type_id, book_id, user_id)
+values ('10/16/2022', 3, 880, 9);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/29/2021', 3, 616, 61);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/8/2022', 5, 399, 65);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/28/2022', 4, 900, 26);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/26/2021', 1, 581, 84);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/8/2022', 4, 269, 3);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/4/2022', 4, 700, 47);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/23/2022', 3, 972, 10);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/3/2022', 2, 26, 75);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/14/2022', 1, 783, 65);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/10/2022', 3, 724, 92);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/28/2021', 5, 156, 4);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/5/2022', 2, 695, 62);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/11/2022', 1, 353, 96);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/29/2021', 4, 264, 75);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/1/2022', 2, 588, 75);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/7/2022', 5, 87, 74);
+insert into book2user (time, type_id, book_id, user_id)
+values ('10/29/2022', 1, 275, 23);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/14/2021', 4, 201, 31);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/8/2022', 4, 328, 99);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/5/2022', 3, 878, 1);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/11/2022', 3, 585, 27);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/18/2021', 4, 73, 7);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/29/2022', 2, 67, 95);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/10/2022', 1, 106, 36);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/27/2022', 5, 323, 17);
+insert into book2user (time, type_id, book_id, user_id)
+values ('2/3/2022', 4, 414, 56);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/10/2022', 1, 939, 86);
+insert into book2user (time, type_id, book_id, user_id)
+values ('2/11/2022', 3, 407, 78);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/23/2021', 5, 941, 46);
+insert into book2user (time, type_id, book_id, user_id)
+values ('2/27/2022', 5, 875, 59);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/31/2022', 1, 920, 59);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/12/2022', 4, 47, 95);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/1/2021', 5, 91, 37);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/4/2022', 2, 602, 94);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/11/2022', 4, 911, 53);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/29/2022', 3, 177, 56);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/17/2021', 1, 667, 34);
+insert into book2user (time, type_id, book_id, user_id)
+values ('2/23/2022', 4, 125, 82);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/3/2022', 1, 810, 71);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/2/2022', 4, 625, 74);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/31/2022', 1, 32, 100);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/16/2022', 5, 306, 92);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/28/2022', 3, 721, 99);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/25/2022', 3, 491, 13);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/2/2022', 4, 939, 47);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/6/2022', 3, 695, 64);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/27/2022', 2, 395, 20);
+insert into book2user (time, type_id, book_id, user_id)
+values ('10/3/2022', 3, 585, 20);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/17/2022', 4, 720, 74);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/31/2022', 3, 296, 76);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/25/2022', 1, 320, 93);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/26/2021', 3, 404, 65);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/11/2022', 4, 578, 14);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/21/2022', 1, 991, 2);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/15/2022', 3, 353, 4);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/22/2022', 5, 289, 3);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/6/2021', 1, 952, 98);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/25/2022', 5, 616, 81);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/3/2022', 1, 739, 26);
+insert into book2user (time, type_id, book_id, user_id)
+values ('2/11/2022', 2, 216, 20);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/24/2022', 1, 976, 31);
+insert into book2user (time, type_id, book_id, user_id)
+values ('2/26/2022', 3, 578, 93);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/3/2022', 3, 906, 37);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/9/2022', 1, 483, 16);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/28/2022', 1, 911, 12);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/18/2022', 2, 634, 62);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/22/2021', 3, 593, 22);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/14/2022', 4, 620, 23);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/4/2022', 2, 477, 99);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/27/2022', 1, 380, 21);
+insert into book2user (time, type_id, book_id, user_id)
+values ('2/10/2022', 3, 17, 57);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/23/2022', 2, 355, 32);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/30/2022', 1, 477, 84);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/25/2021', 4, 280, 89);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/14/2022', 1, 369, 86);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/16/2022', 1, 592, 52);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/14/2022', 2, 317, 100);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/3/2022', 3, 752, 85);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/25/2022', 1, 306, 16);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/8/2022', 1, 774, 14);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/31/2022', 2, 999, 22);
+insert into book2user (time, type_id, book_id, user_id)
+values ('10/3/2022', 4, 84, 5);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/31/2022', 3, 539, 76);
+insert into book2user (time, type_id, book_id, user_id)
+values ('10/21/2022', 2, 774, 6);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/31/2022', 4, 50, 61);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/8/2022', 2, 745, 98);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/24/2022', 1, 578, 43);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/23/2022', 1, 222, 52);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/4/2022', 1, 155, 69);
+insert into book2user (time, type_id, book_id, user_id)
+values ('10/17/2022', 4, 242, 96);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/30/2022', 1, 203, 46);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/16/2021', 4, 123, 23);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/27/2021', 2, 721, 55);
+insert into book2user (time, type_id, book_id, user_id)
+values ('2/16/2022', 2, 439, 42);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/27/2022', 1, 585, 18);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/11/2022', 5, 717, 45);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/24/2022', 4, 771, 20);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/12/2022', 5, 787, 56);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/29/2022', 3, 558, 80);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/2/2022', 2, 843, 81);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/30/2021', 1, 975, 35);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/15/2021', 1, 996, 98);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/22/2022', 2, 986, 72);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/20/2022', 2, 689, 81);
+insert into book2user (time, type_id, book_id, user_id)
+values ('10/29/2022', 4, 412, 6);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/12/2022', 2, 698, 20);
+insert into book2user (time, type_id, book_id, user_id)
+values ('10/2/2022', 2, 574, 19);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/12/2022', 5, 330, 81);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/19/2021', 2, 500, 42);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/2/2022', 5, 285, 7);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/16/2022', 3, 734, 61);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/20/2022', 4, 136, 38);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/28/2021', 1, 477, 98);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/8/2022', 5, 367, 22);
+insert into book2user (time, type_id, book_id, user_id)
+values ('2/14/2022', 2, 548, 49);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/9/2022', 1, 574, 96);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/19/2022', 2, 470, 76);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/4/2022', 1, 880, 16);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/6/2022', 2, 572, 54);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/24/2022', 1, 593, 73);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/26/2022', 4, 441, 57);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/15/2022', 3, 322, 62);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/18/2022', 1, 700, 38);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/19/2022', 5, 397, 3);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/4/2022', 3, 399, 64);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/13/2022', 3, 634, 26);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/6/2022', 4, 556, 85);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/16/2022', 2, 476, 81);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/4/2022', 2, 468, 37);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/23/2022', 1, 72, 56);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/9/2022', 1, 356, 57);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/17/2021', 3, 51, 77);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/14/2021', 3, 615, 58);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/30/2022', 1, 478, 31);
+insert into book2user (time, type_id, book_id, user_id)
+values ('2/24/2022', 3, 383, 34);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/7/2021', 5, 405, 75);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/25/2021', 4, 45, 62);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/3/2022', 1, 588, 82);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/16/2022', 2, 405, 36);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/6/2022', 2, 988, 95);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/5/2022', 5, 133, 94);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/28/2022', 5, 56, 33);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/15/2022', 5, 796, 70);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/8/2022', 2, 225, 16);
+insert into book2user (time, type_id, book_id, user_id)
+values ('10/31/2022', 4, 223, 13);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/30/2022', 5, 98, 29);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/26/2022', 4, 726, 23);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/20/2022', 3, 886, 64);
+insert into book2user (time, type_id, book_id, user_id)
+values ('2/18/2022', 1, 805, 83);
+insert into book2user (time, type_id, book_id, user_id)
+values ('2/16/2022', 5, 966, 99);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/29/2022', 5, 609, 25);
+insert into book2user (time, type_id, book_id, user_id)
+values ('10/30/2022', 2, 657, 51);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/13/2022', 1, 905, 89);
+insert into book2user (time, type_id, book_id, user_id)
+values ('2/11/2022', 5, 911, 75);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/10/2022', 3, 774, 4);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/5/2022', 4, 867, 14);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/15/2022', 4, 117, 93);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/13/2022', 4, 962, 86);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/13/2022', 1, 893, 92);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/23/2021', 5, 973, 64);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/3/2022', 5, 809, 35);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/31/2022', 4, 443, 31);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/10/2022', 3, 343, 11);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/16/2022', 5, 666, 37);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/7/2022', 3, 197, 98);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/7/2022', 5, 457, 91);
+insert into book2user (time, type_id, book_id, user_id)
+values ('8/2/2022', 5, 318, 12);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/19/2022', 4, 804, 48);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/9/2022', 4, 151, 33);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/21/2022', 4, 115, 78);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/22/2022', 2, 344, 45);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/21/2022', 4, 157, 88);
+insert into book2user (time, type_id, book_id, user_id)
+values ('3/1/2022', 4, 203, 16);
+insert into book2user (time, type_id, book_id, user_id)
+values ('6/21/2022', 1, 585, 46);
+insert into book2user (time, type_id, book_id, user_id)
+values ('7/25/2022', 1, 766, 95);
+insert into book2user (time, type_id, book_id, user_id)
+values ('10/11/2022', 2, 568, 95);
+insert into book2user (time, type_id, book_id, user_id)
+values ('1/18/2022', 3, 765, 92);
+insert into book2user (time, type_id, book_id, user_id)
+values ('5/16/2022', 1, 776, 44);
+insert into book2user (time, type_id, book_id, user_id)
+values ('11/11/2022', 5, 466, 1);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/29/2022', 1, 366, 68);
+insert into book2user (time, type_id, book_id, user_id)
+values ('12/22/2021', 2, 210, 5);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/13/2022', 4, 152, 74);
+insert into book2user (time, type_id, book_id, user_id)
+values ('2/20/2022', 2, 874, 17);
+insert into book2user (time, type_id, book_id, user_id)
+values ('4/23/2022', 2, 677, 11);
+insert into book2user (time, type_id, book_id, user_id)
+values ('10/12/2022', 4, 376, 100);
+insert into book2user (time, type_id, book_id, user_id)
+values ('9/8/2022', 3, 337, 32);
 
-insert into carts (book_id, user_id) values (680, 24);
-insert into carts (book_id, user_id) values (531, 67);
-insert into carts (book_id, user_id) values (510, 14);
-insert into carts (book_id, user_id) values (3, 57);
-insert into carts (book_id, user_id) values (550, 36);
-insert into carts (book_id, user_id) values (721, 77);
-insert into carts (book_id, user_id) values (329, 81);
-insert into carts (book_id, user_id) values (712, 41);
-insert into carts (book_id, user_id) values (937, 65);
-insert into carts (book_id, user_id) values (624, 65);
-insert into carts (book_id, user_id) values (197, 4);
-insert into carts (book_id, user_id) values (811, 48);
-insert into carts (book_id, user_id) values (105, 11);
-insert into carts (book_id, user_id) values (258, 4);
-insert into carts (book_id, user_id) values (964, 63);
-insert into carts (book_id, user_id) values (575, 97);
-insert into carts (book_id, user_id) values (306, 83);
-insert into carts (book_id, user_id) values (642, 64);
-insert into carts (book_id, user_id) values (990, 72);
-insert into carts (book_id, user_id) values (70, 15);
-insert into carts (book_id, user_id) values (688, 49);
-insert into carts (book_id, user_id) values (16, 83);
-insert into carts (book_id, user_id) values (235, 68);
-insert into carts (book_id, user_id) values (53, 27);
-insert into carts (book_id, user_id) values (355, 100);
-insert into carts (book_id, user_id) values (57, 40);
-insert into carts (book_id, user_id) values (143, 85);
-insert into carts (book_id, user_id) values (349, 24);
-insert into carts (book_id, user_id) values (952, 36);
-insert into carts (book_id, user_id) values (342, 73);
-insert into carts (book_id, user_id) values (682, 1);
-insert into carts (book_id, user_id) values (413, 20);
-insert into carts (book_id, user_id) values (98, 42);
-insert into carts (book_id, user_id) values (566, 10);
-insert into carts (book_id, user_id) values (143, 76);
-insert into carts (book_id, user_id) values (770, 41);
-insert into carts (book_id, user_id) values (970, 67);
-insert into carts (book_id, user_id) values (892, 34);
-insert into carts (book_id, user_id) values (696, 93);
-insert into carts (book_id, user_id) values (849, 63);
-insert into carts (book_id, user_id) values (339, 51);
-insert into carts (book_id, user_id) values (550, 96);
-insert into carts (book_id, user_id) values (649, 21);
-insert into carts (book_id, user_id) values (362, 23);
-insert into carts (book_id, user_id) values (738, 55);
-insert into carts (book_id, user_id) values (661, 4);
-insert into carts (book_id, user_id) values (358, 47);
-insert into carts (book_id, user_id) values (715, 64);
-insert into carts (book_id, user_id) values (482, 50);
-insert into carts (book_id, user_id) values (265, 92);
-insert into carts (book_id, user_id) values (630, 29);
-insert into carts (book_id, user_id) values (328, 67);
-insert into carts (book_id, user_id) values (25, 77);
-insert into carts (book_id, user_id) values (193, 61);
-insert into carts (book_id, user_id) values (711, 82);
-insert into carts (book_id, user_id) values (121, 80);
-insert into carts (book_id, user_id) values (6, 92);
-insert into carts (book_id, user_id) values (677, 15);
-insert into carts (book_id, user_id) values (94, 65);
-insert into carts (book_id, user_id) values (899, 13);
-insert into carts (book_id, user_id) values (914, 18);
-insert into carts (book_id, user_id) values (586, 99);
-insert into carts (book_id, user_id) values (957, 98);
-insert into carts (book_id, user_id) values (91, 4);
-insert into carts (book_id, user_id) values (796, 62);
-insert into carts (book_id, user_id) values (819, 24);
-insert into carts (book_id, user_id) values (259, 78);
-insert into carts (book_id, user_id) values (904, 63);
-insert into carts (book_id, user_id) values (606, 15);
-insert into carts (book_id, user_id) values (902, 18);
-insert into carts (book_id, user_id) values (551, 86);
-insert into carts (book_id, user_id) values (720, 40);
-insert into carts (book_id, user_id) values (769, 91);
-insert into carts (book_id, user_id) values (9, 46);
-insert into carts (book_id, user_id) values (196, 11);
-insert into carts (book_id, user_id) values (95, 38);
-insert into carts (book_id, user_id) values (963, 95);
-insert into carts (book_id, user_id) values (476, 58);
-insert into carts (book_id, user_id) values (507, 6);
-insert into carts (book_id, user_id) values (412, 40);
-insert into carts (book_id, user_id) values (488, 1);
-insert into carts (book_id, user_id) values (227, 63);
-insert into carts (book_id, user_id) values (250, 83);
-insert into carts (book_id, user_id) values (655, 55);
-insert into carts (book_id, user_id) values (233, 31);
-insert into carts (book_id, user_id) values (358, 73);
-insert into carts (book_id, user_id) values (498, 61);
-insert into carts (book_id, user_id) values (607, 55);
-insert into carts (book_id, user_id) values (149, 96);
-insert into carts (book_id, user_id) values (955, 50);
-insert into carts (book_id, user_id) values (564, 30);
-insert into carts (book_id, user_id) values (444, 80);
-insert into carts (book_id, user_id) values (528, 25);
-insert into carts (book_id, user_id) values (15, 31);
-insert into carts (book_id, user_id) values (532, 63);
-insert into carts (book_id, user_id) values (656, 16);
-insert into carts (book_id, user_id) values (625, 56);
-insert into carts (book_id, user_id) values (326, 28);
-insert into carts (book_id, user_id) values (511, 14);
-insert into carts (book_id, user_id) values (383, 22);
-insert into carts (book_id, user_id) values (470, 7);
-insert into carts (book_id, user_id) values (825, 33);
-insert into carts (book_id, user_id) values (429, 85);
-insert into carts (book_id, user_id) values (166, 61);
-insert into carts (book_id, user_id) values (337, 61);
-insert into carts (book_id, user_id) values (663, 50);
-insert into carts (book_id, user_id) values (674, 25);
-insert into carts (book_id, user_id) values (440, 78);
-insert into carts (book_id, user_id) values (717, 69);
-insert into carts (book_id, user_id) values (404, 28);
-insert into carts (book_id, user_id) values (825, 45);
-insert into carts (book_id, user_id) values (902, 58);
-insert into carts (book_id, user_id) values (784, 23);
-insert into carts (book_id, user_id) values (938, 22);
-insert into carts (book_id, user_id) values (657, 63);
-insert into carts (book_id, user_id) values (644, 73);
-insert into carts (book_id, user_id) values (456, 82);
-insert into carts (book_id, user_id) values (311, 83);
-insert into carts (book_id, user_id) values (868, 15);
-insert into carts (book_id, user_id) values (615, 46);
-insert into carts (book_id, user_id) values (129, 84);
-insert into carts (book_id, user_id) values (460, 70);
-insert into carts (book_id, user_id) values (833, 75);
-insert into carts (book_id, user_id) values (486, 79);
-insert into carts (book_id, user_id) values (253, 3);
-insert into carts (book_id, user_id) values (393, 31);
-insert into carts (book_id, user_id) values (259, 92);
-insert into carts (book_id, user_id) values (406, 73);
-insert into carts (book_id, user_id) values (545, 69);
-insert into carts (book_id, user_id) values (204, 67);
-insert into carts (book_id, user_id) values (208, 96);
-insert into carts (book_id, user_id) values (667, 59);
-insert into carts (book_id, user_id) values (248, 62);
-insert into carts (book_id, user_id) values (152, 90);
-insert into carts (book_id, user_id) values (403, 58);
-insert into carts (book_id, user_id) values (680, 39);
-insert into carts (book_id, user_id) values (893, 19);
-insert into carts (book_id, user_id) values (158, 61);
-insert into carts (book_id, user_id) values (407, 82);
-insert into carts (book_id, user_id) values (556, 16);
-insert into carts (book_id, user_id) values (198, 62);
-insert into carts (book_id, user_id) values (476, 79);
-insert into carts (book_id, user_id) values (552, 23);
-insert into carts (book_id, user_id) values (601, 20);
-insert into carts (book_id, user_id) values (934, 54);
-insert into carts (book_id, user_id) values (759, 52);
-insert into carts (book_id, user_id) values (123, 10);
-insert into carts (book_id, user_id) values (388, 57);
-insert into carts (book_id, user_id) values (200, 10);
-insert into carts (book_id, user_id) values (950, 78);
-insert into carts (book_id, user_id) values (974, 100);
-insert into carts (book_id, user_id) values (384, 94);
-insert into carts (book_id, user_id) values (775, 85);
-insert into carts (book_id, user_id) values (536, 22);
-insert into carts (book_id, user_id) values (233, 74);
-insert into carts (book_id, user_id) values (768, 90);
-insert into carts (book_id, user_id) values (999, 44);
-insert into carts (book_id, user_id) values (157, 55);
-insert into carts (book_id, user_id) values (832, 39);
-insert into carts (book_id, user_id) values (842, 87);
-insert into carts (book_id, user_id) values (548, 54);
-insert into carts (book_id, user_id) values (742, 10);
-insert into carts (book_id, user_id) values (447, 76);
-insert into carts (book_id, user_id) values (185, 100);
-insert into carts (book_id, user_id) values (199, 92);
-insert into carts (book_id, user_id) values (899, 54);
-insert into carts (book_id, user_id) values (498, 39);
-insert into carts (book_id, user_id) values (58, 47);
-insert into carts (book_id, user_id) values (639, 58);
-insert into carts (book_id, user_id) values (633, 56);
-insert into carts (book_id, user_id) values (239, 99);
-insert into carts (book_id, user_id) values (571, 79);
-insert into carts (book_id, user_id) values (79, 74);
-insert into carts (book_id, user_id) values (165, 59);
-insert into carts (book_id, user_id) values (191, 99);
-insert into carts (book_id, user_id) values (802, 88);
-insert into carts (book_id, user_id) values (516, 91);
-insert into carts (book_id, user_id) values (89, 27);
-insert into carts (book_id, user_id) values (701, 82);
-insert into carts (book_id, user_id) values (518, 13);
-insert into carts (book_id, user_id) values (319, 43);
-insert into carts (book_id, user_id) values (476, 79);
-insert into carts (book_id, user_id) values (49, 78);
-insert into carts (book_id, user_id) values (744, 62);
-insert into carts (book_id, user_id) values (107, 7);
-insert into carts (book_id, user_id) values (331, 31);
-insert into carts (book_id, user_id) values (442, 24);
-insert into carts (book_id, user_id) values (591, 83);
-insert into carts (book_id, user_id) values (278, 73);
-insert into carts (book_id, user_id) values (829, 91);
-insert into carts (book_id, user_id) values (273, 83);
-insert into carts (book_id, user_id) values (874, 11);
-insert into carts (book_id, user_id) values (140, 51);
-insert into carts (book_id, user_id) values (810, 4);
-insert into carts (book_id, user_id) values (798, 78);
-insert into carts (book_id, user_id) values (334, 42);
-insert into carts (book_id, user_id) values (177, 42);
-insert into carts (book_id, user_id) values (966, 44);
-insert into carts (book_id, user_id) values (464, 12);
-insert into carts (book_id, user_id) values (994, 57);
-insert into carts (book_id, user_id) values (436, 74);
-insert into carts (book_id, user_id) values (172, 30);
-insert into carts (book_id, user_id) values (488, 15);
-insert into carts (book_id, user_id) values (735, 81);
-insert into carts (book_id, user_id) values (876, 32);
-insert into carts (book_id, user_id) values (11, 42);
-insert into carts (book_id, user_id) values (913, 50);
-insert into carts (book_id, user_id) values (364, 57);
-insert into carts (book_id, user_id) values (806, 56);
-insert into carts (book_id, user_id) values (453, 77);
-insert into carts (book_id, user_id) values (250, 63);
-insert into carts (book_id, user_id) values (614, 15);
-insert into carts (book_id, user_id) values (313, 88);
-insert into carts (book_id, user_id) values (771, 2);
-insert into carts (book_id, user_id) values (376, 100);
-insert into carts (book_id, user_id) values (469, 64);
-insert into carts (book_id, user_id) values (356, 13);
-insert into carts (book_id, user_id) values (340, 83);
-insert into carts (book_id, user_id) values (191, 5);
-insert into carts (book_id, user_id) values (357, 37);
-insert into carts (book_id, user_id) values (951, 66);
-insert into carts (book_id, user_id) values (68, 81);
-insert into carts (book_id, user_id) values (38, 45);
-insert into carts (book_id, user_id) values (848, 27);
-insert into carts (book_id, user_id) values (304, 60);
-insert into carts (book_id, user_id) values (764, 18);
-insert into carts (book_id, user_id) values (419, 73);
-insert into carts (book_id, user_id) values (492, 4);
-insert into carts (book_id, user_id) values (318, 58);
-insert into carts (book_id, user_id) values (598, 85);
-insert into carts (book_id, user_id) values (60, 93);
-insert into carts (book_id, user_id) values (735, 1);
-insert into carts (book_id, user_id) values (417, 50);
-insert into carts (book_id, user_id) values (640, 100);
-insert into carts (book_id, user_id) values (125, 94);
-insert into carts (book_id, user_id) values (578, 86);
-insert into carts (book_id, user_id) values (680, 42);
-insert into carts (book_id, user_id) values (987, 57);
-insert into carts (book_id, user_id) values (398, 20);
-insert into carts (book_id, user_id) values (680, 4);
-insert into carts (book_id, user_id) values (287, 44);
-insert into carts (book_id, user_id) values (724, 76);
-insert into carts (book_id, user_id) values (391, 13);
-insert into carts (book_id, user_id) values (704, 65);
-insert into carts (book_id, user_id) values (182, 66);
-insert into carts (book_id, user_id) values (307, 44);
-insert into carts (book_id, user_id) values (845, 66);
-insert into carts (book_id, user_id) values (394, 50);
-insert into carts (book_id, user_id) values (404, 1);
-insert into carts (book_id, user_id) values (755, 56);
-insert into carts (book_id, user_id) values (171, 5);
-insert into carts (book_id, user_id) values (922, 54);
-insert into carts (book_id, user_id) values (714, 67);
-insert into carts (book_id, user_id) values (589, 10);
-insert into carts (book_id, user_id) values (90, 32);
-insert into carts (book_id, user_id) values (345, 22);
-insert into carts (book_id, user_id) values (911, 42);
-insert into carts (book_id, user_id) values (82, 67);
-insert into carts (book_id, user_id) values (160, 45);
-insert into carts (book_id, user_id) values (384, 40);
-insert into carts (book_id, user_id) values (306, 18);
-insert into carts (book_id, user_id) values (742, 97);
-insert into carts (book_id, user_id) values (64, 77);
-insert into carts (book_id, user_id) values (520, 6);
-insert into carts (book_id, user_id) values (961, 59);
-insert into carts (book_id, user_id) values (429, 16);
-insert into carts (book_id, user_id) values (651, 87);
-insert into carts (book_id, user_id) values (367, 98);
-insert into carts (book_id, user_id) values (691, 77);
-insert into carts (book_id, user_id) values (740, 86);
-insert into carts (book_id, user_id) values (686, 19);
-insert into carts (book_id, user_id) values (550, 97);
-insert into carts (book_id, user_id) values (901, 74);
-insert into carts (book_id, user_id) values (758, 13);
-insert into carts (book_id, user_id) values (871, 29);
-insert into carts (book_id, user_id) values (601, 91);
-insert into carts (book_id, user_id) values (540, 71);
-insert into carts (book_id, user_id) values (87, 18);
-insert into carts (book_id, user_id) values (838, 57);
-insert into carts (book_id, user_id) values (930, 62);
-insert into carts (book_id, user_id) values (296, 39);
-insert into carts (book_id, user_id) values (10, 98);
-insert into carts (book_id, user_id) values (151, 84);
-insert into carts (book_id, user_id) values (665, 96);
-insert into carts (book_id, user_id) values (787, 52);
-insert into carts (book_id, user_id) values (659, 18);
-insert into carts (book_id, user_id) values (86, 80);
-insert into carts (book_id, user_id) values (780, 79);
-insert into carts (book_id, user_id) values (689, 31);
-insert into carts (book_id, user_id) values (66, 26);
-insert into carts (book_id, user_id) values (589, 38);
-insert into carts (book_id, user_id) values (806, 74);
-insert into carts (book_id, user_id) values (852, 82);
-insert into carts (book_id, user_id) values (821, 55);
-insert into carts (book_id, user_id) values (817, 71);
-insert into carts (book_id, user_id) values (206, 20);
-insert into carts (book_id, user_id) values (911, 16);
-insert into carts (book_id, user_id) values (555, 77);
-insert into carts (book_id, user_id) values (767, 41);
-insert into carts (book_id, user_id) values (551, 53);
+insert into carts (book_id, user_id)
+values (680, 24);
+insert into carts (book_id, user_id)
+values (531, 67);
+insert into carts (book_id, user_id)
+values (510, 14);
+insert into carts (book_id, user_id)
+values (3, 57);
+insert into carts (book_id, user_id)
+values (550, 36);
+insert into carts (book_id, user_id)
+values (721, 77);
+insert into carts (book_id, user_id)
+values (329, 81);
+insert into carts (book_id, user_id)
+values (712, 41);
+insert into carts (book_id, user_id)
+values (937, 65);
+insert into carts (book_id, user_id)
+values (624, 65);
+insert into carts (book_id, user_id)
+values (197, 4);
+insert into carts (book_id, user_id)
+values (811, 48);
+insert into carts (book_id, user_id)
+values (105, 11);
+insert into carts (book_id, user_id)
+values (258, 4);
+insert into carts (book_id, user_id)
+values (964, 63);
+insert into carts (book_id, user_id)
+values (575, 97);
+insert into carts (book_id, user_id)
+values (306, 83);
+insert into carts (book_id, user_id)
+values (642, 64);
+insert into carts (book_id, user_id)
+values (990, 72);
+insert into carts (book_id, user_id)
+values (70, 15);
+insert into carts (book_id, user_id)
+values (688, 49);
+insert into carts (book_id, user_id)
+values (16, 83);
+insert into carts (book_id, user_id)
+values (235, 68);
+insert into carts (book_id, user_id)
+values (53, 27);
+insert into carts (book_id, user_id)
+values (355, 100);
+insert into carts (book_id, user_id)
+values (57, 40);
+insert into carts (book_id, user_id)
+values (143, 85);
+insert into carts (book_id, user_id)
+values (349, 24);
+insert into carts (book_id, user_id)
+values (952, 36);
+insert into carts (book_id, user_id)
+values (342, 73);
+insert into carts (book_id, user_id)
+values (682, 1);
+insert into carts (book_id, user_id)
+values (413, 20);
+insert into carts (book_id, user_id)
+values (98, 42);
+insert into carts (book_id, user_id)
+values (566, 10);
+insert into carts (book_id, user_id)
+values (143, 76);
+insert into carts (book_id, user_id)
+values (770, 41);
+insert into carts (book_id, user_id)
+values (970, 67);
+insert into carts (book_id, user_id)
+values (892, 34);
+insert into carts (book_id, user_id)
+values (696, 93);
+insert into carts (book_id, user_id)
+values (849, 63);
+insert into carts (book_id, user_id)
+values (339, 51);
+insert into carts (book_id, user_id)
+values (550, 96);
+insert into carts (book_id, user_id)
+values (649, 21);
+insert into carts (book_id, user_id)
+values (362, 23);
+insert into carts (book_id, user_id)
+values (738, 55);
+insert into carts (book_id, user_id)
+values (661, 4);
+insert into carts (book_id, user_id)
+values (358, 47);
+insert into carts (book_id, user_id)
+values (715, 64);
+insert into carts (book_id, user_id)
+values (482, 50);
+insert into carts (book_id, user_id)
+values (265, 92);
+insert into carts (book_id, user_id)
+values (630, 29);
+insert into carts (book_id, user_id)
+values (328, 67);
+insert into carts (book_id, user_id)
+values (25, 77);
+insert into carts (book_id, user_id)
+values (193, 61);
+insert into carts (book_id, user_id)
+values (711, 82);
+insert into carts (book_id, user_id)
+values (121, 80);
+insert into carts (book_id, user_id)
+values (6, 92);
+insert into carts (book_id, user_id)
+values (677, 15);
+insert into carts (book_id, user_id)
+values (94, 65);
+insert into carts (book_id, user_id)
+values (899, 13);
+insert into carts (book_id, user_id)
+values (914, 18);
+insert into carts (book_id, user_id)
+values (586, 99);
+insert into carts (book_id, user_id)
+values (957, 98);
+insert into carts (book_id, user_id)
+values (91, 4);
+insert into carts (book_id, user_id)
+values (796, 62);
+insert into carts (book_id, user_id)
+values (819, 24);
+insert into carts (book_id, user_id)
+values (259, 78);
+insert into carts (book_id, user_id)
+values (904, 63);
+insert into carts (book_id, user_id)
+values (606, 15);
+insert into carts (book_id, user_id)
+values (902, 18);
+insert into carts (book_id, user_id)
+values (551, 86);
+insert into carts (book_id, user_id)
+values (720, 40);
+insert into carts (book_id, user_id)
+values (769, 91);
+insert into carts (book_id, user_id)
+values (9, 46);
+insert into carts (book_id, user_id)
+values (196, 11);
+insert into carts (book_id, user_id)
+values (95, 38);
+insert into carts (book_id, user_id)
+values (963, 95);
+insert into carts (book_id, user_id)
+values (476, 58);
+insert into carts (book_id, user_id)
+values (507, 6);
+insert into carts (book_id, user_id)
+values (412, 40);
+insert into carts (book_id, user_id)
+values (488, 1);
+insert into carts (book_id, user_id)
+values (227, 63);
+insert into carts (book_id, user_id)
+values (250, 83);
+insert into carts (book_id, user_id)
+values (655, 55);
+insert into carts (book_id, user_id)
+values (233, 31);
+insert into carts (book_id, user_id)
+values (358, 73);
+insert into carts (book_id, user_id)
+values (498, 61);
+insert into carts (book_id, user_id)
+values (607, 55);
+insert into carts (book_id, user_id)
+values (149, 96);
+insert into carts (book_id, user_id)
+values (955, 50);
+insert into carts (book_id, user_id)
+values (564, 30);
+insert into carts (book_id, user_id)
+values (444, 80);
+insert into carts (book_id, user_id)
+values (528, 25);
+insert into carts (book_id, user_id)
+values (15, 31);
+insert into carts (book_id, user_id)
+values (532, 63);
+insert into carts (book_id, user_id)
+values (656, 16);
+insert into carts (book_id, user_id)
+values (625, 56);
+insert into carts (book_id, user_id)
+values (326, 28);
+insert into carts (book_id, user_id)
+values (511, 14);
+insert into carts (book_id, user_id)
+values (383, 22);
+insert into carts (book_id, user_id)
+values (470, 7);
+insert into carts (book_id, user_id)
+values (825, 33);
+insert into carts (book_id, user_id)
+values (429, 85);
+insert into carts (book_id, user_id)
+values (166, 61);
+insert into carts (book_id, user_id)
+values (337, 61);
+insert into carts (book_id, user_id)
+values (663, 50);
+insert into carts (book_id, user_id)
+values (674, 25);
+insert into carts (book_id, user_id)
+values (440, 78);
+insert into carts (book_id, user_id)
+values (717, 69);
+insert into carts (book_id, user_id)
+values (404, 28);
+insert into carts (book_id, user_id)
+values (825, 45);
+insert into carts (book_id, user_id)
+values (902, 58);
+insert into carts (book_id, user_id)
+values (784, 23);
+insert into carts (book_id, user_id)
+values (938, 22);
+insert into carts (book_id, user_id)
+values (657, 63);
+insert into carts (book_id, user_id)
+values (644, 73);
+insert into carts (book_id, user_id)
+values (456, 82);
+insert into carts (book_id, user_id)
+values (311, 83);
+insert into carts (book_id, user_id)
+values (868, 15);
+insert into carts (book_id, user_id)
+values (615, 46);
+insert into carts (book_id, user_id)
+values (129, 84);
+insert into carts (book_id, user_id)
+values (460, 70);
+insert into carts (book_id, user_id)
+values (833, 75);
+insert into carts (book_id, user_id)
+values (486, 79);
+insert into carts (book_id, user_id)
+values (253, 3);
+insert into carts (book_id, user_id)
+values (393, 31);
+insert into carts (book_id, user_id)
+values (259, 92);
+insert into carts (book_id, user_id)
+values (406, 73);
+insert into carts (book_id, user_id)
+values (545, 69);
+insert into carts (book_id, user_id)
+values (204, 67);
+insert into carts (book_id, user_id)
+values (208, 96);
+insert into carts (book_id, user_id)
+values (667, 59);
+insert into carts (book_id, user_id)
+values (248, 62);
+insert into carts (book_id, user_id)
+values (152, 90);
+insert into carts (book_id, user_id)
+values (403, 58);
+insert into carts (book_id, user_id)
+values (680, 39);
+insert into carts (book_id, user_id)
+values (893, 19);
+insert into carts (book_id, user_id)
+values (158, 61);
+insert into carts (book_id, user_id)
+values (407, 82);
+insert into carts (book_id, user_id)
+values (556, 16);
+insert into carts (book_id, user_id)
+values (198, 62);
+insert into carts (book_id, user_id)
+values (476, 79);
+insert into carts (book_id, user_id)
+values (552, 23);
+insert into carts (book_id, user_id)
+values (601, 20);
+insert into carts (book_id, user_id)
+values (934, 54);
+insert into carts (book_id, user_id)
+values (759, 52);
+insert into carts (book_id, user_id)
+values (123, 10);
+insert into carts (book_id, user_id)
+values (388, 57);
+insert into carts (book_id, user_id)
+values (200, 10);
+insert into carts (book_id, user_id)
+values (950, 78);
+insert into carts (book_id, user_id)
+values (974, 100);
+insert into carts (book_id, user_id)
+values (384, 94);
+insert into carts (book_id, user_id)
+values (775, 85);
+insert into carts (book_id, user_id)
+values (536, 22);
+insert into carts (book_id, user_id)
+values (233, 74);
+insert into carts (book_id, user_id)
+values (768, 90);
+insert into carts (book_id, user_id)
+values (999, 44);
+insert into carts (book_id, user_id)
+values (157, 55);
+insert into carts (book_id, user_id)
+values (832, 39);
+insert into carts (book_id, user_id)
+values (842, 87);
+insert into carts (book_id, user_id)
+values (548, 54);
+insert into carts (book_id, user_id)
+values (742, 10);
+insert into carts (book_id, user_id)
+values (447, 76);
+insert into carts (book_id, user_id)
+values (185, 100);
+insert into carts (book_id, user_id)
+values (199, 92);
+insert into carts (book_id, user_id)
+values (899, 54);
+insert into carts (book_id, user_id)
+values (498, 39);
+insert into carts (book_id, user_id)
+values (58, 47);
+insert into carts (book_id, user_id)
+values (639, 58);
+insert into carts (book_id, user_id)
+values (633, 56);
+insert into carts (book_id, user_id)
+values (239, 99);
+insert into carts (book_id, user_id)
+values (571, 79);
+insert into carts (book_id, user_id)
+values (79, 74);
+insert into carts (book_id, user_id)
+values (165, 59);
+insert into carts (book_id, user_id)
+values (191, 99);
+insert into carts (book_id, user_id)
+values (802, 88);
+insert into carts (book_id, user_id)
+values (516, 91);
+insert into carts (book_id, user_id)
+values (89, 27);
+insert into carts (book_id, user_id)
+values (701, 82);
+insert into carts (book_id, user_id)
+values (518, 13);
+insert into carts (book_id, user_id)
+values (319, 43);
+insert into carts (book_id, user_id)
+values (476, 79);
+insert into carts (book_id, user_id)
+values (49, 78);
+insert into carts (book_id, user_id)
+values (744, 62);
+insert into carts (book_id, user_id)
+values (107, 7);
+insert into carts (book_id, user_id)
+values (331, 31);
+insert into carts (book_id, user_id)
+values (442, 24);
+insert into carts (book_id, user_id)
+values (591, 83);
+insert into carts (book_id, user_id)
+values (278, 73);
+insert into carts (book_id, user_id)
+values (829, 91);
+insert into carts (book_id, user_id)
+values (273, 83);
+insert into carts (book_id, user_id)
+values (874, 11);
+insert into carts (book_id, user_id)
+values (140, 51);
+insert into carts (book_id, user_id)
+values (810, 4);
+insert into carts (book_id, user_id)
+values (798, 78);
+insert into carts (book_id, user_id)
+values (334, 42);
+insert into carts (book_id, user_id)
+values (177, 42);
+insert into carts (book_id, user_id)
+values (966, 44);
+insert into carts (book_id, user_id)
+values (464, 12);
+insert into carts (book_id, user_id)
+values (994, 57);
+insert into carts (book_id, user_id)
+values (436, 74);
+insert into carts (book_id, user_id)
+values (172, 30);
+insert into carts (book_id, user_id)
+values (488, 15);
+insert into carts (book_id, user_id)
+values (735, 81);
+insert into carts (book_id, user_id)
+values (876, 32);
+insert into carts (book_id, user_id)
+values (11, 42);
+insert into carts (book_id, user_id)
+values (913, 50);
+insert into carts (book_id, user_id)
+values (364, 57);
+insert into carts (book_id, user_id)
+values (806, 56);
+insert into carts (book_id, user_id)
+values (453, 77);
+insert into carts (book_id, user_id)
+values (250, 63);
+insert into carts (book_id, user_id)
+values (614, 15);
+insert into carts (book_id, user_id)
+values (313, 88);
+insert into carts (book_id, user_id)
+values (771, 2);
+insert into carts (book_id, user_id)
+values (376, 100);
+insert into carts (book_id, user_id)
+values (469, 64);
+insert into carts (book_id, user_id)
+values (356, 13);
+insert into carts (book_id, user_id)
+values (340, 83);
+insert into carts (book_id, user_id)
+values (191, 5);
+insert into carts (book_id, user_id)
+values (357, 37);
+insert into carts (book_id, user_id)
+values (951, 66);
+insert into carts (book_id, user_id)
+values (68, 81);
+insert into carts (book_id, user_id)
+values (38, 45);
+insert into carts (book_id, user_id)
+values (848, 27);
+insert into carts (book_id, user_id)
+values (304, 60);
+insert into carts (book_id, user_id)
+values (764, 18);
+insert into carts (book_id, user_id)
+values (419, 73);
+insert into carts (book_id, user_id)
+values (492, 4);
+insert into carts (book_id, user_id)
+values (318, 58);
+insert into carts (book_id, user_id)
+values (598, 85);
+insert into carts (book_id, user_id)
+values (60, 93);
+insert into carts (book_id, user_id)
+values (735, 1);
+insert into carts (book_id, user_id)
+values (417, 50);
+insert into carts (book_id, user_id)
+values (640, 100);
+insert into carts (book_id, user_id)
+values (125, 94);
+insert into carts (book_id, user_id)
+values (578, 86);
+insert into carts (book_id, user_id)
+values (680, 42);
+insert into carts (book_id, user_id)
+values (987, 57);
+insert into carts (book_id, user_id)
+values (398, 20);
+insert into carts (book_id, user_id)
+values (680, 4);
+insert into carts (book_id, user_id)
+values (287, 44);
+insert into carts (book_id, user_id)
+values (724, 76);
+insert into carts (book_id, user_id)
+values (391, 13);
+insert into carts (book_id, user_id)
+values (704, 65);
+insert into carts (book_id, user_id)
+values (182, 66);
+insert into carts (book_id, user_id)
+values (307, 44);
+insert into carts (book_id, user_id)
+values (845, 66);
+insert into carts (book_id, user_id)
+values (394, 50);
+insert into carts (book_id, user_id)
+values (404, 1);
+insert into carts (book_id, user_id)
+values (755, 56);
+insert into carts (book_id, user_id)
+values (171, 5);
+insert into carts (book_id, user_id)
+values (922, 54);
+insert into carts (book_id, user_id)
+values (714, 67);
+insert into carts (book_id, user_id)
+values (589, 10);
+insert into carts (book_id, user_id)
+values (90, 32);
+insert into carts (book_id, user_id)
+values (345, 22);
+insert into carts (book_id, user_id)
+values (911, 42);
+insert into carts (book_id, user_id)
+values (82, 67);
+insert into carts (book_id, user_id)
+values (160, 45);
+insert into carts (book_id, user_id)
+values (384, 40);
+insert into carts (book_id, user_id)
+values (306, 18);
+insert into carts (book_id, user_id)
+values (742, 97);
+insert into carts (book_id, user_id)
+values (64, 77);
+insert into carts (book_id, user_id)
+values (520, 6);
+insert into carts (book_id, user_id)
+values (961, 59);
+insert into carts (book_id, user_id)
+values (429, 16);
+insert into carts (book_id, user_id)
+values (651, 87);
+insert into carts (book_id, user_id)
+values (367, 98);
+insert into carts (book_id, user_id)
+values (691, 77);
+insert into carts (book_id, user_id)
+values (740, 86);
+insert into carts (book_id, user_id)
+values (686, 19);
+insert into carts (book_id, user_id)
+values (550, 97);
+insert into carts (book_id, user_id)
+values (901, 74);
+insert into carts (book_id, user_id)
+values (758, 13);
+insert into carts (book_id, user_id)
+values (871, 29);
+insert into carts (book_id, user_id)
+values (601, 91);
+insert into carts (book_id, user_id)
+values (540, 71);
+insert into carts (book_id, user_id)
+values (87, 18);
+insert into carts (book_id, user_id)
+values (838, 57);
+insert into carts (book_id, user_id)
+values (930, 62);
+insert into carts (book_id, user_id)
+values (296, 39);
+insert into carts (book_id, user_id)
+values (10, 98);
+insert into carts (book_id, user_id)
+values (151, 84);
+insert into carts (book_id, user_id)
+values (665, 96);
+insert into carts (book_id, user_id)
+values (787, 52);
+insert into carts (book_id, user_id)
+values (659, 18);
+insert into carts (book_id, user_id)
+values (86, 80);
+insert into carts (book_id, user_id)
+values (780, 79);
+insert into carts (book_id, user_id)
+values (689, 31);
+insert into carts (book_id, user_id)
+values (66, 26);
+insert into carts (book_id, user_id)
+values (589, 38);
+insert into carts (book_id, user_id)
+values (806, 74);
+insert into carts (book_id, user_id)
+values (852, 82);
+insert into carts (book_id, user_id)
+values (821, 55);
+insert into carts (book_id, user_id)
+values (817, 71);
+insert into carts (book_id, user_id)
+values (206, 20);
+insert into carts (book_id, user_id)
+values (911, 16);
+insert into carts (book_id, user_id)
+values (555, 77);
+insert into carts (book_id, user_id)
+values (767, 41);
+insert into carts (book_id, user_id)
+values (551, 53);
 
-insert into deferred_books (book_id, user_id) values (606, 92);
-insert into deferred_books (book_id, user_id) values (93, 50);
-insert into deferred_books (book_id, user_id) values (296, 15);
-insert into deferred_books (book_id, user_id) values (610, 24);
-insert into deferred_books (book_id, user_id) values (558, 82);
-insert into deferred_books (book_id, user_id) values (366, 93);
-insert into deferred_books (book_id, user_id) values (365, 72);
-insert into deferred_books (book_id, user_id) values (287, 72);
-insert into deferred_books (book_id, user_id) values (554, 31);
-insert into deferred_books (book_id, user_id) values (77, 95);
-insert into deferred_books (book_id, user_id) values (887, 79);
-insert into deferred_books (book_id, user_id) values (975, 86);
-insert into deferred_books (book_id, user_id) values (988, 69);
-insert into deferred_books (book_id, user_id) values (277, 78);
-insert into deferred_books (book_id, user_id) values (724, 70);
-insert into deferred_books (book_id, user_id) values (500, 69);
-insert into deferred_books (book_id, user_id) values (114, 75);
-insert into deferred_books (book_id, user_id) values (910, 70);
-insert into deferred_books (book_id, user_id) values (686, 58);
-insert into deferred_books (book_id, user_id) values (428, 14);
-insert into deferred_books (book_id, user_id) values (47, 91);
-insert into deferred_books (book_id, user_id) values (369, 25);
-insert into deferred_books (book_id, user_id) values (293, 98);
-insert into deferred_books (book_id, user_id) values (977, 68);
-insert into deferred_books (book_id, user_id) values (346, 42);
-insert into deferred_books (book_id, user_id) values (892, 57);
-insert into deferred_books (book_id, user_id) values (255, 60);
-insert into deferred_books (book_id, user_id) values (875, 94);
-insert into deferred_books (book_id, user_id) values (582, 52);
-insert into deferred_books (book_id, user_id) values (779, 29);
-insert into deferred_books (book_id, user_id) values (281, 52);
-insert into deferred_books (book_id, user_id) values (972, 93);
-insert into deferred_books (book_id, user_id) values (500, 54);
-insert into deferred_books (book_id, user_id) values (757, 77);
-insert into deferred_books (book_id, user_id) values (737, 82);
-insert into deferred_books (book_id, user_id) values (115, 90);
-insert into deferred_books (book_id, user_id) values (708, 84);
-insert into deferred_books (book_id, user_id) values (86, 63);
-insert into deferred_books (book_id, user_id) values (32, 89);
-insert into deferred_books (book_id, user_id) values (114, 11);
-insert into deferred_books (book_id, user_id) values (374, 53);
-insert into deferred_books (book_id, user_id) values (932, 30);
-insert into deferred_books (book_id, user_id) values (863, 59);
-insert into deferred_books (book_id, user_id) values (230, 21);
-insert into deferred_books (book_id, user_id) values (680, 99);
-insert into deferred_books (book_id, user_id) values (303, 60);
-insert into deferred_books (book_id, user_id) values (339, 46);
-insert into deferred_books (book_id, user_id) values (334, 65);
-insert into deferred_books (book_id, user_id) values (703, 19);
-insert into deferred_books (book_id, user_id) values (274, 54);
-insert into deferred_books (book_id, user_id) values (971, 77);
-insert into deferred_books (book_id, user_id) values (786, 76);
-insert into deferred_books (book_id, user_id) values (404, 6);
-insert into deferred_books (book_id, user_id) values (240, 73);
-insert into deferred_books (book_id, user_id) values (697, 74);
-insert into deferred_books (book_id, user_id) values (738, 40);
-insert into deferred_books (book_id, user_id) values (664, 5);
-insert into deferred_books (book_id, user_id) values (992, 10);
-insert into deferred_books (book_id, user_id) values (595, 27);
-insert into deferred_books (book_id, user_id) values (154, 96);
-insert into deferred_books (book_id, user_id) values (915, 60);
-insert into deferred_books (book_id, user_id) values (687, 32);
-insert into deferred_books (book_id, user_id) values (829, 11);
-insert into deferred_books (book_id, user_id) values (716, 26);
-insert into deferred_books (book_id, user_id) values (429, 60);
-insert into deferred_books (book_id, user_id) values (670, 100);
-insert into deferred_books (book_id, user_id) values (518, 6);
-insert into deferred_books (book_id, user_id) values (32, 4);
-insert into deferred_books (book_id, user_id) values (757, 13);
-insert into deferred_books (book_id, user_id) values (152, 35);
-insert into deferred_books (book_id, user_id) values (395, 25);
-insert into deferred_books (book_id, user_id) values (675, 74);
-insert into deferred_books (book_id, user_id) values (467, 10);
-insert into deferred_books (book_id, user_id) values (913, 2);
-insert into deferred_books (book_id, user_id) values (337, 74);
-insert into deferred_books (book_id, user_id) values (860, 47);
-insert into deferred_books (book_id, user_id) values (555, 39);
-insert into deferred_books (book_id, user_id) values (884, 27);
-insert into deferred_books (book_id, user_id) values (265, 59);
-insert into deferred_books (book_id, user_id) values (649, 19);
-insert into deferred_books (book_id, user_id) values (139, 24);
-insert into deferred_books (book_id, user_id) values (542, 44);
-insert into deferred_books (book_id, user_id) values (670, 24);
-insert into deferred_books (book_id, user_id) values (875, 21);
-insert into deferred_books (book_id, user_id) values (571, 30);
-insert into deferred_books (book_id, user_id) values (42, 9);
-insert into deferred_books (book_id, user_id) values (275, 96);
-insert into deferred_books (book_id, user_id) values (395, 30);
-insert into deferred_books (book_id, user_id) values (169, 57);
-insert into deferred_books (book_id, user_id) values (812, 55);
-insert into deferred_books (book_id, user_id) values (161, 32);
-insert into deferred_books (book_id, user_id) values (445, 55);
-insert into deferred_books (book_id, user_id) values (683, 75);
-insert into deferred_books (book_id, user_id) values (755, 32);
-insert into deferred_books (book_id, user_id) values (223, 26);
-insert into deferred_books (book_id, user_id) values (593, 17);
-insert into deferred_books (book_id, user_id) values (941, 86);
-insert into deferred_books (book_id, user_id) values (126, 24);
-insert into deferred_books (book_id, user_id) values (476, 52);
-insert into deferred_books (book_id, user_id) values (439, 74);
-insert into deferred_books (book_id, user_id) values (623, 28);
-insert into deferred_books (book_id, user_id) values (1, 99);
-insert into deferred_books (book_id, user_id) values (1000, 100);
-insert into deferred_books (book_id, user_id) values (608, 56);
-insert into deferred_books (book_id, user_id) values (933, 38);
-insert into deferred_books (book_id, user_id) values (586, 1);
-insert into deferred_books (book_id, user_id) values (213, 1);
-insert into deferred_books (book_id, user_id) values (191, 2);
-insert into deferred_books (book_id, user_id) values (962, 68);
-insert into deferred_books (book_id, user_id) values (404, 39);
-insert into deferred_books (book_id, user_id) values (90, 18);
-insert into deferred_books (book_id, user_id) values (264, 42);
-insert into deferred_books (book_id, user_id) values (61, 46);
-insert into deferred_books (book_id, user_id) values (402, 57);
-insert into deferred_books (book_id, user_id) values (971, 88);
-insert into deferred_books (book_id, user_id) values (10, 14);
-insert into deferred_books (book_id, user_id) values (473, 98);
-insert into deferred_books (book_id, user_id) values (773, 72);
-insert into deferred_books (book_id, user_id) values (749, 100);
-insert into deferred_books (book_id, user_id) values (422, 69);
-insert into deferred_books (book_id, user_id) values (961, 99);
-insert into deferred_books (book_id, user_id) values (794, 56);
-insert into deferred_books (book_id, user_id) values (937, 98);
-insert into deferred_books (book_id, user_id) values (417, 51);
-insert into deferred_books (book_id, user_id) values (182, 70);
-insert into deferred_books (book_id, user_id) values (141, 39);
-insert into deferred_books (book_id, user_id) values (19, 41);
-insert into deferred_books (book_id, user_id) values (178, 58);
-insert into deferred_books (book_id, user_id) values (125, 62);
-insert into deferred_books (book_id, user_id) values (124, 50);
-insert into deferred_books (book_id, user_id) values (967, 13);
-insert into deferred_books (book_id, user_id) values (823, 87);
-insert into deferred_books (book_id, user_id) values (859, 23);
-insert into deferred_books (book_id, user_id) values (45, 35);
-insert into deferred_books (book_id, user_id) values (990, 85);
-insert into deferred_books (book_id, user_id) values (437, 18);
-insert into deferred_books (book_id, user_id) values (602, 47);
-insert into deferred_books (book_id, user_id) values (265, 58);
-insert into deferred_books (book_id, user_id) values (649, 65);
-insert into deferred_books (book_id, user_id) values (668, 37);
-insert into deferred_books (book_id, user_id) values (903, 9);
-insert into deferred_books (book_id, user_id) values (308, 33);
-insert into deferred_books (book_id, user_id) values (994, 80);
-insert into deferred_books (book_id, user_id) values (217, 59);
-insert into deferred_books (book_id, user_id) values (951, 65);
-insert into deferred_books (book_id, user_id) values (280, 4);
-insert into deferred_books (book_id, user_id) values (424, 33);
-insert into deferred_books (book_id, user_id) values (419, 89);
-insert into deferred_books (book_id, user_id) values (500, 49);
-insert into deferred_books (book_id, user_id) values (873, 65);
-insert into deferred_books (book_id, user_id) values (671, 26);
-insert into deferred_books (book_id, user_id) values (845, 35);
-insert into deferred_books (book_id, user_id) values (50, 80);
-insert into deferred_books (book_id, user_id) values (937, 16);
-insert into deferred_books (book_id, user_id) values (288, 15);
-insert into deferred_books (book_id, user_id) values (237, 28);
-insert into deferred_books (book_id, user_id) values (36, 83);
-insert into deferred_books (book_id, user_id) values (792, 99);
-insert into deferred_books (book_id, user_id) values (982, 41);
-insert into deferred_books (book_id, user_id) values (615, 35);
-insert into deferred_books (book_id, user_id) values (179, 2);
-insert into deferred_books (book_id, user_id) values (350, 4);
-insert into deferred_books (book_id, user_id) values (265, 82);
-insert into deferred_books (book_id, user_id) values (757, 50);
-insert into deferred_books (book_id, user_id) values (156, 41);
-insert into deferred_books (book_id, user_id) values (299, 88);
-insert into deferred_books (book_id, user_id) values (45, 6);
-insert into deferred_books (book_id, user_id) values (58, 54);
-insert into deferred_books (book_id, user_id) values (520, 56);
-insert into deferred_books (book_id, user_id) values (776, 68);
-insert into deferred_books (book_id, user_id) values (291, 86);
-insert into deferred_books (book_id, user_id) values (399, 59);
-insert into deferred_books (book_id, user_id) values (829, 50);
-insert into deferred_books (book_id, user_id) values (559, 100);
-insert into deferred_books (book_id, user_id) values (971, 35);
-insert into deferred_books (book_id, user_id) values (725, 79);
-insert into deferred_books (book_id, user_id) values (796, 19);
-insert into deferred_books (book_id, user_id) values (627, 27);
-insert into deferred_books (book_id, user_id) values (63, 22);
-insert into deferred_books (book_id, user_id) values (571, 25);
-insert into deferred_books (book_id, user_id) values (305, 61);
-insert into deferred_books (book_id, user_id) values (231, 70);
-insert into deferred_books (book_id, user_id) values (133, 1);
-insert into deferred_books (book_id, user_id) values (432, 51);
-insert into deferred_books (book_id, user_id) values (264, 5);
-insert into deferred_books (book_id, user_id) values (332, 11);
-insert into deferred_books (book_id, user_id) values (236, 52);
-insert into deferred_books (book_id, user_id) values (970, 93);
-insert into deferred_books (book_id, user_id) values (988, 95);
-insert into deferred_books (book_id, user_id) values (796, 44);
-insert into deferred_books (book_id, user_id) values (904, 30);
-insert into deferred_books (book_id, user_id) values (341, 65);
-insert into deferred_books (book_id, user_id) values (549, 76);
-insert into deferred_books (book_id, user_id) values (745, 95);
-insert into deferred_books (book_id, user_id) values (122, 14);
-insert into deferred_books (book_id, user_id) values (786, 44);
-insert into deferred_books (book_id, user_id) values (38, 2);
-insert into deferred_books (book_id, user_id) values (848, 91);
-insert into deferred_books (book_id, user_id) values (550, 51);
-insert into deferred_books (book_id, user_id) values (662, 5);
-insert into deferred_books (book_id, user_id) values (207, 10);
-insert into deferred_books (book_id, user_id) values (255, 57);
-insert into deferred_books (book_id, user_id) values (85, 80);
-insert into deferred_books (book_id, user_id) values (914, 34);
-insert into deferred_books (book_id, user_id) values (497, 6);
-insert into deferred_books (book_id, user_id) values (339, 81);
-insert into deferred_books (book_id, user_id) values (866, 77);
-insert into deferred_books (book_id, user_id) values (581, 69);
-insert into deferred_books (book_id, user_id) values (897, 73);
-insert into deferred_books (book_id, user_id) values (273, 18);
-insert into deferred_books (book_id, user_id) values (783, 89);
-insert into deferred_books (book_id, user_id) values (673, 75);
-insert into deferred_books (book_id, user_id) values (525, 30);
-insert into deferred_books (book_id, user_id) values (831, 13);
-insert into deferred_books (book_id, user_id) values (521, 70);
-insert into deferred_books (book_id, user_id) values (782, 44);
-insert into deferred_books (book_id, user_id) values (745, 56);
-insert into deferred_books (book_id, user_id) values (394, 29);
-insert into deferred_books (book_id, user_id) values (474, 2);
-insert into deferred_books (book_id, user_id) values (373, 20);
-insert into deferred_books (book_id, user_id) values (827, 29);
-insert into deferred_books (book_id, user_id) values (173, 78);
-insert into deferred_books (book_id, user_id) values (415, 71);
-insert into deferred_books (book_id, user_id) values (780, 73);
-insert into deferred_books (book_id, user_id) values (351, 21);
-insert into deferred_books (book_id, user_id) values (314, 32);
-insert into deferred_books (book_id, user_id) values (885, 67);
-insert into deferred_books (book_id, user_id) values (973, 59);
-insert into deferred_books (book_id, user_id) values (510, 85);
-insert into deferred_books (book_id, user_id) values (417, 1);
-insert into deferred_books (book_id, user_id) values (197, 10);
-insert into deferred_books (book_id, user_id) values (266, 59);
-insert into deferred_books (book_id, user_id) values (880, 29);
-insert into deferred_books (book_id, user_id) values (160, 54);
-insert into deferred_books (book_id, user_id) values (647, 92);
-insert into deferred_books (book_id, user_id) values (499, 58);
-insert into deferred_books (book_id, user_id) values (514, 36);
-insert into deferred_books (book_id, user_id) values (177, 81);
-insert into deferred_books (book_id, user_id) values (952, 50);
-insert into deferred_books (book_id, user_id) values (379, 13);
-insert into deferred_books (book_id, user_id) values (774, 48);
-insert into deferred_books (book_id, user_id) values (874, 71);
-insert into deferred_books (book_id, user_id) values (919, 80);
-insert into deferred_books (book_id, user_id) values (704, 42);
-insert into deferred_books (book_id, user_id) values (408, 2);
-insert into deferred_books (book_id, user_id) values (886, 68);
-insert into deferred_books (book_id, user_id) values (485, 61);
-insert into deferred_books (book_id, user_id) values (632, 63);
-insert into deferred_books (book_id, user_id) values (960, 28);
-insert into deferred_books (book_id, user_id) values (684, 14);
-insert into deferred_books (book_id, user_id) values (627, 80);
-insert into deferred_books (book_id, user_id) values (229, 7);
-insert into deferred_books (book_id, user_id) values (506, 28);
-insert into deferred_books (book_id, user_id) values (699, 90);
-insert into deferred_books (book_id, user_id) values (236, 52);
-insert into deferred_books (book_id, user_id) values (499, 98);
-insert into deferred_books (book_id, user_id) values (420, 75);
-insert into deferred_books (book_id, user_id) values (652, 38);
-insert into deferred_books (book_id, user_id) values (103, 67);
-insert into deferred_books (book_id, user_id) values (516, 28);
-insert into deferred_books (book_id, user_id) values (609, 14);
-insert into deferred_books (book_id, user_id) values (377, 76);
-insert into deferred_books (book_id, user_id) values (646, 1);
-insert into deferred_books (book_id, user_id) values (225, 65);
-insert into deferred_books (book_id, user_id) values (110, 44);
-insert into deferred_books (book_id, user_id) values (355, 48);
-insert into deferred_books (book_id, user_id) values (611, 52);
-insert into deferred_books (book_id, user_id) values (307, 26);
-insert into deferred_books (book_id, user_id) values (44, 52);
-insert into deferred_books (book_id, user_id) values (90, 78);
-insert into deferred_books (book_id, user_id) values (623, 43);
-insert into deferred_books (book_id, user_id) values (196, 89);
-insert into deferred_books (book_id, user_id) values (659, 9);
-insert into deferred_books (book_id, user_id) values (227, 25);
-insert into deferred_books (book_id, user_id) values (787, 64);
-insert into deferred_books (book_id, user_id) values (502, 68);
-insert into deferred_books (book_id, user_id) values (651, 4);
-insert into deferred_books (book_id, user_id) values (314, 21);
-insert into deferred_books (book_id, user_id) values (110, 33);
-insert into deferred_books (book_id, user_id) values (672, 1);
-insert into deferred_books (book_id, user_id) values (103, 67);
-insert into deferred_books (book_id, user_id) values (431, 33);
-insert into deferred_books (book_id, user_id) values (229, 11);
-insert into deferred_books (book_id, user_id) values (992, 77);
-insert into deferred_books (book_id, user_id) values (783, 94);
-insert into deferred_books (book_id, user_id) values (519, 9);
-insert into deferred_books (book_id, user_id) values (714, 22);
-insert into deferred_books (book_id, user_id) values (448, 73);
-insert into deferred_books (book_id, user_id) values (634, 25);
-insert into deferred_books (book_id, user_id) values (287, 77);
-insert into deferred_books (book_id, user_id) values (365, 31);
-insert into deferred_books (book_id, user_id) values (707, 71);
-insert into deferred_books (book_id, user_id) values (456, 21);
-insert into deferred_books (book_id, user_id) values (985, 99);
-insert into deferred_books (book_id, user_id) values (356, 19);
-insert into deferred_books (book_id, user_id) values (554, 58);
-insert into deferred_books (book_id, user_id) values (849, 27);
-insert into deferred_books (book_id, user_id) values (311, 2);
-insert into deferred_books (book_id, user_id) values (608, 19);
-insert into deferred_books (book_id, user_id) values (599, 93);
+insert into deferred_books (book_id, user_id)
+values (606, 92);
+insert into deferred_books (book_id, user_id)
+values (93, 50);
+insert into deferred_books (book_id, user_id)
+values (296, 15);
+insert into deferred_books (book_id, user_id)
+values (610, 24);
+insert into deferred_books (book_id, user_id)
+values (558, 82);
+insert into deferred_books (book_id, user_id)
+values (366, 93);
+insert into deferred_books (book_id, user_id)
+values (365, 72);
+insert into deferred_books (book_id, user_id)
+values (287, 72);
+insert into deferred_books (book_id, user_id)
+values (554, 31);
+insert into deferred_books (book_id, user_id)
+values (77, 95);
+insert into deferred_books (book_id, user_id)
+values (887, 79);
+insert into deferred_books (book_id, user_id)
+values (975, 86);
+insert into deferred_books (book_id, user_id)
+values (988, 69);
+insert into deferred_books (book_id, user_id)
+values (277, 78);
+insert into deferred_books (book_id, user_id)
+values (724, 70);
+insert into deferred_books (book_id, user_id)
+values (500, 69);
+insert into deferred_books (book_id, user_id)
+values (114, 75);
+insert into deferred_books (book_id, user_id)
+values (910, 70);
+insert into deferred_books (book_id, user_id)
+values (686, 58);
+insert into deferred_books (book_id, user_id)
+values (428, 14);
+insert into deferred_books (book_id, user_id)
+values (47, 91);
+insert into deferred_books (book_id, user_id)
+values (369, 25);
+insert into deferred_books (book_id, user_id)
+values (293, 98);
+insert into deferred_books (book_id, user_id)
+values (977, 68);
+insert into deferred_books (book_id, user_id)
+values (346, 42);
+insert into deferred_books (book_id, user_id)
+values (892, 57);
+insert into deferred_books (book_id, user_id)
+values (255, 60);
+insert into deferred_books (book_id, user_id)
+values (875, 94);
+insert into deferred_books (book_id, user_id)
+values (582, 52);
+insert into deferred_books (book_id, user_id)
+values (779, 29);
+insert into deferred_books (book_id, user_id)
+values (281, 52);
+insert into deferred_books (book_id, user_id)
+values (972, 93);
+insert into deferred_books (book_id, user_id)
+values (500, 54);
+insert into deferred_books (book_id, user_id)
+values (757, 77);
+insert into deferred_books (book_id, user_id)
+values (737, 82);
+insert into deferred_books (book_id, user_id)
+values (115, 90);
+insert into deferred_books (book_id, user_id)
+values (708, 84);
+insert into deferred_books (book_id, user_id)
+values (86, 63);
+insert into deferred_books (book_id, user_id)
+values (32, 89);
+insert into deferred_books (book_id, user_id)
+values (114, 11);
+insert into deferred_books (book_id, user_id)
+values (374, 53);
+insert into deferred_books (book_id, user_id)
+values (932, 30);
+insert into deferred_books (book_id, user_id)
+values (863, 59);
+insert into deferred_books (book_id, user_id)
+values (230, 21);
+insert into deferred_books (book_id, user_id)
+values (680, 99);
+insert into deferred_books (book_id, user_id)
+values (303, 60);
+insert into deferred_books (book_id, user_id)
+values (339, 46);
+insert into deferred_books (book_id, user_id)
+values (334, 65);
+insert into deferred_books (book_id, user_id)
+values (703, 19);
+insert into deferred_books (book_id, user_id)
+values (274, 54);
+insert into deferred_books (book_id, user_id)
+values (971, 77);
+insert into deferred_books (book_id, user_id)
+values (786, 76);
+insert into deferred_books (book_id, user_id)
+values (404, 6);
+insert into deferred_books (book_id, user_id)
+values (240, 73);
+insert into deferred_books (book_id, user_id)
+values (697, 74);
+insert into deferred_books (book_id, user_id)
+values (738, 40);
+insert into deferred_books (book_id, user_id)
+values (664, 5);
+insert into deferred_books (book_id, user_id)
+values (992, 10);
+insert into deferred_books (book_id, user_id)
+values (595, 27);
+insert into deferred_books (book_id, user_id)
+values (154, 96);
+insert into deferred_books (book_id, user_id)
+values (915, 60);
+insert into deferred_books (book_id, user_id)
+values (687, 32);
+insert into deferred_books (book_id, user_id)
+values (829, 11);
+insert into deferred_books (book_id, user_id)
+values (716, 26);
+insert into deferred_books (book_id, user_id)
+values (429, 60);
+insert into deferred_books (book_id, user_id)
+values (670, 100);
+insert into deferred_books (book_id, user_id)
+values (518, 6);
+insert into deferred_books (book_id, user_id)
+values (32, 4);
+insert into deferred_books (book_id, user_id)
+values (757, 13);
+insert into deferred_books (book_id, user_id)
+values (152, 35);
+insert into deferred_books (book_id, user_id)
+values (395, 25);
+insert into deferred_books (book_id, user_id)
+values (675, 74);
+insert into deferred_books (book_id, user_id)
+values (467, 10);
+insert into deferred_books (book_id, user_id)
+values (913, 2);
+insert into deferred_books (book_id, user_id)
+values (337, 74);
+insert into deferred_books (book_id, user_id)
+values (860, 47);
+insert into deferred_books (book_id, user_id)
+values (555, 39);
+insert into deferred_books (book_id, user_id)
+values (884, 27);
+insert into deferred_books (book_id, user_id)
+values (265, 59);
+insert into deferred_books (book_id, user_id)
+values (649, 19);
+insert into deferred_books (book_id, user_id)
+values (139, 24);
+insert into deferred_books (book_id, user_id)
+values (542, 44);
+insert into deferred_books (book_id, user_id)
+values (670, 24);
+insert into deferred_books (book_id, user_id)
+values (875, 21);
+insert into deferred_books (book_id, user_id)
+values (571, 30);
+insert into deferred_books (book_id, user_id)
+values (42, 9);
+insert into deferred_books (book_id, user_id)
+values (275, 96);
+insert into deferred_books (book_id, user_id)
+values (395, 30);
+insert into deferred_books (book_id, user_id)
+values (169, 57);
+insert into deferred_books (book_id, user_id)
+values (812, 55);
+insert into deferred_books (book_id, user_id)
+values (161, 32);
+insert into deferred_books (book_id, user_id)
+values (445, 55);
+insert into deferred_books (book_id, user_id)
+values (683, 75);
+insert into deferred_books (book_id, user_id)
+values (755, 32);
+insert into deferred_books (book_id, user_id)
+values (223, 26);
+insert into deferred_books (book_id, user_id)
+values (593, 17);
+insert into deferred_books (book_id, user_id)
+values (941, 86);
+insert into deferred_books (book_id, user_id)
+values (126, 24);
+insert into deferred_books (book_id, user_id)
+values (476, 52);
+insert into deferred_books (book_id, user_id)
+values (439, 74);
+insert into deferred_books (book_id, user_id)
+values (623, 28);
+insert into deferred_books (book_id, user_id)
+values (1, 99);
+insert into deferred_books (book_id, user_id)
+values (1000, 100);
+insert into deferred_books (book_id, user_id)
+values (608, 56);
+insert into deferred_books (book_id, user_id)
+values (933, 38);
+insert into deferred_books (book_id, user_id)
+values (586, 1);
+insert into deferred_books (book_id, user_id)
+values (213, 1);
+insert into deferred_books (book_id, user_id)
+values (191, 2);
+insert into deferred_books (book_id, user_id)
+values (962, 68);
+insert into deferred_books (book_id, user_id)
+values (404, 39);
+insert into deferred_books (book_id, user_id)
+values (90, 18);
+insert into deferred_books (book_id, user_id)
+values (264, 42);
+insert into deferred_books (book_id, user_id)
+values (61, 46);
+insert into deferred_books (book_id, user_id)
+values (402, 57);
+insert into deferred_books (book_id, user_id)
+values (971, 88);
+insert into deferred_books (book_id, user_id)
+values (10, 14);
+insert into deferred_books (book_id, user_id)
+values (473, 98);
+insert into deferred_books (book_id, user_id)
+values (773, 72);
+insert into deferred_books (book_id, user_id)
+values (749, 100);
+insert into deferred_books (book_id, user_id)
+values (422, 69);
+insert into deferred_books (book_id, user_id)
+values (961, 99);
+insert into deferred_books (book_id, user_id)
+values (794, 56);
+insert into deferred_books (book_id, user_id)
+values (937, 98);
+insert into deferred_books (book_id, user_id)
+values (417, 51);
+insert into deferred_books (book_id, user_id)
+values (182, 70);
+insert into deferred_books (book_id, user_id)
+values (141, 39);
+insert into deferred_books (book_id, user_id)
+values (19, 41);
+insert into deferred_books (book_id, user_id)
+values (178, 58);
+insert into deferred_books (book_id, user_id)
+values (125, 62);
+insert into deferred_books (book_id, user_id)
+values (124, 50);
+insert into deferred_books (book_id, user_id)
+values (967, 13);
+insert into deferred_books (book_id, user_id)
+values (823, 87);
+insert into deferred_books (book_id, user_id)
+values (859, 23);
+insert into deferred_books (book_id, user_id)
+values (45, 35);
+insert into deferred_books (book_id, user_id)
+values (990, 85);
+insert into deferred_books (book_id, user_id)
+values (437, 18);
+insert into deferred_books (book_id, user_id)
+values (602, 47);
+insert into deferred_books (book_id, user_id)
+values (265, 58);
+insert into deferred_books (book_id, user_id)
+values (649, 65);
+insert into deferred_books (book_id, user_id)
+values (668, 37);
+insert into deferred_books (book_id, user_id)
+values (903, 9);
+insert into deferred_books (book_id, user_id)
+values (308, 33);
+insert into deferred_books (book_id, user_id)
+values (994, 80);
+insert into deferred_books (book_id, user_id)
+values (217, 59);
+insert into deferred_books (book_id, user_id)
+values (951, 65);
+insert into deferred_books (book_id, user_id)
+values (280, 4);
+insert into deferred_books (book_id, user_id)
+values (424, 33);
+insert into deferred_books (book_id, user_id)
+values (419, 89);
+insert into deferred_books (book_id, user_id)
+values (500, 49);
+insert into deferred_books (book_id, user_id)
+values (873, 65);
+insert into deferred_books (book_id, user_id)
+values (671, 26);
+insert into deferred_books (book_id, user_id)
+values (845, 35);
+insert into deferred_books (book_id, user_id)
+values (50, 80);
+insert into deferred_books (book_id, user_id)
+values (937, 16);
+insert into deferred_books (book_id, user_id)
+values (288, 15);
+insert into deferred_books (book_id, user_id)
+values (237, 28);
+insert into deferred_books (book_id, user_id)
+values (36, 83);
+insert into deferred_books (book_id, user_id)
+values (792, 99);
+insert into deferred_books (book_id, user_id)
+values (982, 41);
+insert into deferred_books (book_id, user_id)
+values (615, 35);
+insert into deferred_books (book_id, user_id)
+values (179, 2);
+insert into deferred_books (book_id, user_id)
+values (350, 4);
+insert into deferred_books (book_id, user_id)
+values (265, 82);
+insert into deferred_books (book_id, user_id)
+values (757, 50);
+insert into deferred_books (book_id, user_id)
+values (156, 41);
+insert into deferred_books (book_id, user_id)
+values (299, 88);
+insert into deferred_books (book_id, user_id)
+values (45, 6);
+insert into deferred_books (book_id, user_id)
+values (58, 54);
+insert into deferred_books (book_id, user_id)
+values (520, 56);
+insert into deferred_books (book_id, user_id)
+values (776, 68);
+insert into deferred_books (book_id, user_id)
+values (291, 86);
+insert into deferred_books (book_id, user_id)
+values (399, 59);
+insert into deferred_books (book_id, user_id)
+values (829, 50);
+insert into deferred_books (book_id, user_id)
+values (559, 100);
+insert into deferred_books (book_id, user_id)
+values (971, 35);
+insert into deferred_books (book_id, user_id)
+values (725, 79);
+insert into deferred_books (book_id, user_id)
+values (796, 19);
+insert into deferred_books (book_id, user_id)
+values (627, 27);
+insert into deferred_books (book_id, user_id)
+values (63, 22);
+insert into deferred_books (book_id, user_id)
+values (571, 25);
+insert into deferred_books (book_id, user_id)
+values (305, 61);
+insert into deferred_books (book_id, user_id)
+values (231, 70);
+insert into deferred_books (book_id, user_id)
+values (133, 1);
+insert into deferred_books (book_id, user_id)
+values (432, 51);
+insert into deferred_books (book_id, user_id)
+values (264, 5);
+insert into deferred_books (book_id, user_id)
+values (332, 11);
+insert into deferred_books (book_id, user_id)
+values (236, 52);
+insert into deferred_books (book_id, user_id)
+values (970, 93);
+insert into deferred_books (book_id, user_id)
+values (988, 95);
+insert into deferred_books (book_id, user_id)
+values (796, 44);
+insert into deferred_books (book_id, user_id)
+values (904, 30);
+insert into deferred_books (book_id, user_id)
+values (341, 65);
+insert into deferred_books (book_id, user_id)
+values (549, 76);
+insert into deferred_books (book_id, user_id)
+values (745, 95);
+insert into deferred_books (book_id, user_id)
+values (122, 14);
+insert into deferred_books (book_id, user_id)
+values (786, 44);
+insert into deferred_books (book_id, user_id)
+values (38, 2);
+insert into deferred_books (book_id, user_id)
+values (848, 91);
+insert into deferred_books (book_id, user_id)
+values (550, 51);
+insert into deferred_books (book_id, user_id)
+values (662, 5);
+insert into deferred_books (book_id, user_id)
+values (207, 10);
+insert into deferred_books (book_id, user_id)
+values (255, 57);
+insert into deferred_books (book_id, user_id)
+values (85, 80);
+insert into deferred_books (book_id, user_id)
+values (914, 34);
+insert into deferred_books (book_id, user_id)
+values (497, 6);
+insert into deferred_books (book_id, user_id)
+values (339, 81);
+insert into deferred_books (book_id, user_id)
+values (866, 77);
+insert into deferred_books (book_id, user_id)
+values (581, 69);
+insert into deferred_books (book_id, user_id)
+values (897, 73);
+insert into deferred_books (book_id, user_id)
+values (273, 18);
+insert into deferred_books (book_id, user_id)
+values (783, 89);
+insert into deferred_books (book_id, user_id)
+values (673, 75);
+insert into deferred_books (book_id, user_id)
+values (525, 30);
+insert into deferred_books (book_id, user_id)
+values (831, 13);
+insert into deferred_books (book_id, user_id)
+values (521, 70);
+insert into deferred_books (book_id, user_id)
+values (782, 44);
+insert into deferred_books (book_id, user_id)
+values (745, 56);
+insert into deferred_books (book_id, user_id)
+values (394, 29);
+insert into deferred_books (book_id, user_id)
+values (474, 2);
+insert into deferred_books (book_id, user_id)
+values (373, 20);
+insert into deferred_books (book_id, user_id)
+values (827, 29);
+insert into deferred_books (book_id, user_id)
+values (173, 78);
+insert into deferred_books (book_id, user_id)
+values (415, 71);
+insert into deferred_books (book_id, user_id)
+values (780, 73);
+insert into deferred_books (book_id, user_id)
+values (351, 21);
+insert into deferred_books (book_id, user_id)
+values (314, 32);
+insert into deferred_books (book_id, user_id)
+values (885, 67);
+insert into deferred_books (book_id, user_id)
+values (973, 59);
+insert into deferred_books (book_id, user_id)
+values (510, 85);
+insert into deferred_books (book_id, user_id)
+values (417, 1);
+insert into deferred_books (book_id, user_id)
+values (197, 10);
+insert into deferred_books (book_id, user_id)
+values (266, 59);
+insert into deferred_books (book_id, user_id)
+values (880, 29);
+insert into deferred_books (book_id, user_id)
+values (160, 54);
+insert into deferred_books (book_id, user_id)
+values (647, 92);
+insert into deferred_books (book_id, user_id)
+values (499, 58);
+insert into deferred_books (book_id, user_id)
+values (514, 36);
+insert into deferred_books (book_id, user_id)
+values (177, 81);
+insert into deferred_books (book_id, user_id)
+values (952, 50);
+insert into deferred_books (book_id, user_id)
+values (379, 13);
+insert into deferred_books (book_id, user_id)
+values (774, 48);
+insert into deferred_books (book_id, user_id)
+values (874, 71);
+insert into deferred_books (book_id, user_id)
+values (919, 80);
+insert into deferred_books (book_id, user_id)
+values (704, 42);
+insert into deferred_books (book_id, user_id)
+values (408, 2);
+insert into deferred_books (book_id, user_id)
+values (886, 68);
+insert into deferred_books (book_id, user_id)
+values (485, 61);
+insert into deferred_books (book_id, user_id)
+values (632, 63);
+insert into deferred_books (book_id, user_id)
+values (960, 28);
+insert into deferred_books (book_id, user_id)
+values (684, 14);
+insert into deferred_books (book_id, user_id)
+values (627, 80);
+insert into deferred_books (book_id, user_id)
+values (229, 7);
+insert into deferred_books (book_id, user_id)
+values (506, 28);
+insert into deferred_books (book_id, user_id)
+values (699, 90);
+insert into deferred_books (book_id, user_id)
+values (236, 52);
+insert into deferred_books (book_id, user_id)
+values (499, 98);
+insert into deferred_books (book_id, user_id)
+values (420, 75);
+insert into deferred_books (book_id, user_id)
+values (652, 38);
+insert into deferred_books (book_id, user_id)
+values (103, 67);
+insert into deferred_books (book_id, user_id)
+values (516, 28);
+insert into deferred_books (book_id, user_id)
+values (609, 14);
+insert into deferred_books (book_id, user_id)
+values (377, 76);
+insert into deferred_books (book_id, user_id)
+values (646, 1);
+insert into deferred_books (book_id, user_id)
+values (225, 65);
+insert into deferred_books (book_id, user_id)
+values (110, 44);
+insert into deferred_books (book_id, user_id)
+values (355, 48);
+insert into deferred_books (book_id, user_id)
+values (611, 52);
+insert into deferred_books (book_id, user_id)
+values (307, 26);
+insert into deferred_books (book_id, user_id)
+values (44, 52);
+insert into deferred_books (book_id, user_id)
+values (90, 78);
+insert into deferred_books (book_id, user_id)
+values (623, 43);
+insert into deferred_books (book_id, user_id)
+values (196, 89);
+insert into deferred_books (book_id, user_id)
+values (659, 9);
+insert into deferred_books (book_id, user_id)
+values (227, 25);
+insert into deferred_books (book_id, user_id)
+values (787, 64);
+insert into deferred_books (book_id, user_id)
+values (502, 68);
+insert into deferred_books (book_id, user_id)
+values (651, 4);
+insert into deferred_books (book_id, user_id)
+values (314, 21);
+insert into deferred_books (book_id, user_id)
+values (110, 33);
+insert into deferred_books (book_id, user_id)
+values (672, 1);
+insert into deferred_books (book_id, user_id)
+values (103, 67);
+insert into deferred_books (book_id, user_id)
+values (431, 33);
+insert into deferred_books (book_id, user_id)
+values (229, 11);
+insert into deferred_books (book_id, user_id)
+values (992, 77);
+insert into deferred_books (book_id, user_id)
+values (783, 94);
+insert into deferred_books (book_id, user_id)
+values (519, 9);
+insert into deferred_books (book_id, user_id)
+values (714, 22);
+insert into deferred_books (book_id, user_id)
+values (448, 73);
+insert into deferred_books (book_id, user_id)
+values (634, 25);
+insert into deferred_books (book_id, user_id)
+values (287, 77);
+insert into deferred_books (book_id, user_id)
+values (365, 31);
+insert into deferred_books (book_id, user_id)
+values (707, 71);
+insert into deferred_books (book_id, user_id)
+values (456, 21);
+insert into deferred_books (book_id, user_id)
+values (985, 99);
+insert into deferred_books (book_id, user_id)
+values (356, 19);
+insert into deferred_books (book_id, user_id)
+values (554, 58);
+insert into deferred_books (book_id, user_id)
+values (849, 27);
+insert into deferred_books (book_id, user_id)
+values (311, 2);
+insert into deferred_books (book_id, user_id)
+values (608, 19);
+insert into deferred_books (book_id, user_id)
+values (599, 93);
+
+insert into tags (name, slug)
+values ('nisl duis', 'nisl-duis');
+insert into tags (name, slug)
+values ('cras pellentesque volutpat', 'cras-pellentesque-volutpat');
+insert into tags (name, slug)
+values ('eros elementum pellentesque', 'eros-elementum-pellentesque');
+insert into tags (name, slug)
+values ('nibh fusce', 'nibh-fusce');
+insert into tags (name, slug)
+values ('primis in', 'primis-in');
+insert into tags (name, slug)
+values ('hendrerit', 'hendrerit');
+insert into tags (name, slug)
+values ('non quam', 'non-quam');
+insert into tags (name, slug)
+values ('vulputate vitae', 'vulputate-vitae');
+insert into tags (name, slug)
+values ('sapien dignissim vestibulum', 'sapien-dignissim-vestibulum');
+insert into tags (name, slug)
+values ('integer pede', 'integer-pede');
+insert into tags (name, slug)
+values ('eu', 'eu');
+insert into tags (name, slug)
+values ('sagittis', 'sagittis');
+insert into tags (name, slug)
+values ('neque sapien', 'neque-sapien');
+insert into tags (name, slug)
+values ('ut rhoncus aliquet', 'ut-rhoncus-aliquet');
+insert into tags (name, slug)
+values ('integer ac leo', 'integer-ac-leo');
+insert into tags (name, slug)
+values ('ut erat curabitur', 'ut-erat-curabitur');
+insert into tags (name, slug)
+values ('amet', 'amet');
+insert into tags (name, slug)
+values ('sit amet', 'sit-amet');
+insert into tags (name, slug)
+values ('etiam pretium iaculis', 'etiam-pretium-iaculis');
+insert into tags (name, slug)
+values ('sodales', 'sodales');
+insert into tags (name, slug)
+values ('dolor vel est', 'dolor-vel-est');
+insert into tags (name, slug)
+values ('ultrices posuere cubilia', 'ultrices-posuere-cubilia');
+insert into tags (name, slug)
+values ('imperdiet et commodo', 'imperdiet-et-commodo');
+insert into tags (name, slug)
+values ('magna at nunc', 'magna-at-nunc');
+insert into tags (name, slug)
+values ('accumsan tortor quis', 'accumsan-tortor-quis');
+insert into tags (name, slug)
+values ('cursus', 'cursus');
+insert into tags (name, slug)
+values ('convallis duis consequat', 'convallis-duis-consequat');
+insert into tags (name, slug)
+values ('ac nulla', 'ac-nulla');
+insert into tags (name, slug)
+values ('et', 'et');
+insert into tags (name, slug)
+values ('vulputate ut ultrices', 'vulputate-ut-ultrices');
+
+insert into book2tag (tag_id, book_id)
+values (6, 955);
+insert into book2tag (tag_id, book_id)
+values (4, 28);
+insert into book2tag (tag_id, book_id)
+values (11, 732);
+insert into book2tag (tag_id, book_id)
+values (4, 921);
+insert into book2tag (tag_id, book_id)
+values (23, 369);
+insert into book2tag (tag_id, book_id)
+values (26, 726);
+insert into book2tag (tag_id, book_id)
+values (15, 266);
+insert into book2tag (tag_id, book_id)
+values (12, 331);
+insert into book2tag (tag_id, book_id)
+values (16, 436);
+insert into book2tag (tag_id, book_id)
+values (20, 112);
+insert into book2tag (tag_id, book_id)
+values (25, 3);
+insert into book2tag (tag_id, book_id)
+values (6, 261);
+insert into book2tag (tag_id, book_id)
+values (9, 443);
+insert into book2tag (tag_id, book_id)
+values (26, 917);
+insert into book2tag (tag_id, book_id)
+values (25, 890);
+insert into book2tag (tag_id, book_id)
+values (5, 651);
+insert into book2tag (tag_id, book_id)
+values (7, 843);
+insert into book2tag (tag_id, book_id)
+values (12, 768);
+insert into book2tag (tag_id, book_id)
+values (19, 590);
+insert into book2tag (tag_id, book_id)
+values (9, 831);
+insert into book2tag (tag_id, book_id)
+values (12, 699);
+insert into book2tag (tag_id, book_id)
+values (6, 796);
+insert into book2tag (tag_id, book_id)
+values (13, 961);
+insert into book2tag (tag_id, book_id)
+values (27, 172);
+insert into book2tag (tag_id, book_id)
+values (12, 417);
+insert into book2tag (tag_id, book_id)
+values (10, 398);
+insert into book2tag (tag_id, book_id)
+values (14, 381);
+insert into book2tag (tag_id, book_id)
+values (20, 484);
+insert into book2tag (tag_id, book_id)
+values (1, 647);
+insert into book2tag (tag_id, book_id)
+values (8, 301);
+insert into book2tag (tag_id, book_id)
+values (30, 113);
+insert into book2tag (tag_id, book_id)
+values (24, 211);
+insert into book2tag (tag_id, book_id)
+values (23, 732);
+insert into book2tag (tag_id, book_id)
+values (8, 275);
+insert into book2tag (tag_id, book_id)
+values (19, 268);
+insert into book2tag (tag_id, book_id)
+values (5, 910);
+insert into book2tag (tag_id, book_id)
+values (20, 555);
+insert into book2tag (tag_id, book_id)
+values (8, 199);
+insert into book2tag (tag_id, book_id)
+values (7, 68);
+insert into book2tag (tag_id, book_id)
+values (6, 295);
+insert into book2tag (tag_id, book_id)
+values (12, 971);
+insert into book2tag (tag_id, book_id)
+values (9, 182);
+insert into book2tag (tag_id, book_id)
+values (6, 404);
+insert into book2tag (tag_id, book_id)
+values (19, 547);
+insert into book2tag (tag_id, book_id)
+values (26, 198);
+insert into book2tag (tag_id, book_id)
+values (29, 657);
+insert into book2tag (tag_id, book_id)
+values (6, 151);
+insert into book2tag (tag_id, book_id)
+values (10, 935);
+insert into book2tag (tag_id, book_id)
+values (25, 75);
+insert into book2tag (tag_id, book_id)
+values (18, 32);
+insert into book2tag (tag_id, book_id)
+values (16, 677);
+insert into book2tag (tag_id, book_id)
+values (13, 320);
+insert into book2tag (tag_id, book_id)
+values (14, 114);
+insert into book2tag (tag_id, book_id)
+values (1, 535);
+insert into book2tag (tag_id, book_id)
+values (27, 37);
+insert into book2tag (tag_id, book_id)
+values (22, 636);
+insert into book2tag (tag_id, book_id)
+values (28, 846);
+insert into book2tag (tag_id, book_id)
+values (2, 887);
+insert into book2tag (tag_id, book_id)
+values (13, 734);
+insert into book2tag (tag_id, book_id)
+values (8, 548);
+insert into book2tag (tag_id, book_id)
+values (4, 161);
+insert into book2tag (tag_id, book_id)
+values (9, 796);
+insert into book2tag (tag_id, book_id)
+values (29, 414);
+insert into book2tag (tag_id, book_id)
+values (16, 749);
+insert into book2tag (tag_id, book_id)
+values (20, 784);
+insert into book2tag (tag_id, book_id)
+values (28, 419);
+insert into book2tag (tag_id, book_id)
+values (16, 535);
+insert into book2tag (tag_id, book_id)
+values (25, 523);
+insert into book2tag (tag_id, book_id)
+values (9, 759);
+insert into book2tag (tag_id, book_id)
+values (15, 854);
+insert into book2tag (tag_id, book_id)
+values (23, 358);
+insert into book2tag (tag_id, book_id)
+values (26, 382);
+insert into book2tag (tag_id, book_id)
+values (2, 582);
+insert into book2tag (tag_id, book_id)
+values (19, 848);
+insert into book2tag (tag_id, book_id)
+values (13, 463);
+insert into book2tag (tag_id, book_id)
+values (13, 410);
+insert into book2tag (tag_id, book_id)
+values (16, 983);
+insert into book2tag (tag_id, book_id)
+values (8, 81);
+insert into book2tag (tag_id, book_id)
+values (22, 41);
+insert into book2tag (tag_id, book_id)
+values (12, 181);
+insert into book2tag (tag_id, book_id)
+values (12, 268);
+insert into book2tag (tag_id, book_id)
+values (5, 260);
+insert into book2tag (tag_id, book_id)
+values (14, 896);
+insert into book2tag (tag_id, book_id)
+values (27, 324);
+insert into book2tag (tag_id, book_id)
+values (9, 492);
+insert into book2tag (tag_id, book_id)
+values (11, 544);
+insert into book2tag (tag_id, book_id)
+values (22, 971);
+insert into book2tag (tag_id, book_id)
+values (7, 866);
+insert into book2tag (tag_id, book_id)
+values (5, 988);
+insert into book2tag (tag_id, book_id)
+values (23, 761);
+insert into book2tag (tag_id, book_id)
+values (17, 395);
+insert into book2tag (tag_id, book_id)
+values (14, 542);
+insert into book2tag (tag_id, book_id)
+values (2, 56);
+insert into book2tag (tag_id, book_id)
+values (16, 437);
+insert into book2tag (tag_id, book_id)
+values (11, 474);
+insert into book2tag (tag_id, book_id)
+values (8, 401);
+insert into book2tag (tag_id, book_id)
+values (21, 380);
+insert into book2tag (tag_id, book_id)
+values (14, 641);
+insert into book2tag (tag_id, book_id)
+values (19, 91);
+insert into book2tag (tag_id, book_id)
+values (28, 139);
+insert into book2tag (tag_id, book_id)
+values (2, 592);
+insert into book2tag (tag_id, book_id)
+values (3, 462);
+insert into book2tag (tag_id, book_id)
+values (14, 983);
+insert into book2tag (tag_id, book_id)
+values (2, 454);
+insert into book2tag (tag_id, book_id)
+values (25, 811);
+insert into book2tag (tag_id, book_id)
+values (5, 985);
+insert into book2tag (tag_id, book_id)
+values (10, 800);
+insert into book2tag (tag_id, book_id)
+values (1, 411);
+insert into book2tag (tag_id, book_id)
+values (16, 313);
+insert into book2tag (tag_id, book_id)
+values (10, 886);
+insert into book2tag (tag_id, book_id)
+values (11, 792);
+insert into book2tag (tag_id, book_id)
+values (27, 129);
+insert into book2tag (tag_id, book_id)
+values (21, 632);
+insert into book2tag (tag_id, book_id)
+values (18, 682);
+insert into book2tag (tag_id, book_id)
+values (6, 764);
+insert into book2tag (tag_id, book_id)
+values (2, 722);
+insert into book2tag (tag_id, book_id)
+values (3, 687);
+insert into book2tag (tag_id, book_id)
+values (7, 378);
+insert into book2tag (tag_id, book_id)
+values (23, 509);
+insert into book2tag (tag_id, book_id)
+values (16, 480);
+insert into book2tag (tag_id, book_id)
+values (26, 426);
+insert into book2tag (tag_id, book_id)
+values (18, 214);
+insert into book2tag (tag_id, book_id)
+values (12, 570);
+insert into book2tag (tag_id, book_id)
+values (14, 134);
+insert into book2tag (tag_id, book_id)
+values (27, 238);
+insert into book2tag (tag_id, book_id)
+values (2, 897);
+insert into book2tag (tag_id, book_id)
+values (5, 504);
+insert into book2tag (tag_id, book_id)
+values (30, 234);
+insert into book2tag (tag_id, book_id)
+values (22, 527);
+insert into book2tag (tag_id, book_id)
+values (3, 211);
+insert into book2tag (tag_id, book_id)
+values (2, 202);
+insert into book2tag (tag_id, book_id)
+values (10, 84);
+insert into book2tag (tag_id, book_id)
+values (19, 660);
+insert into book2tag (tag_id, book_id)
+values (22, 716);
+insert into book2tag (tag_id, book_id)
+values (30, 517);
+insert into book2tag (tag_id, book_id)
+values (29, 620);
+insert into book2tag (tag_id, book_id)
+values (20, 288);
+insert into book2tag (tag_id, book_id)
+values (2, 743);
+insert into book2tag (tag_id, book_id)
+values (8, 596);
+insert into book2tag (tag_id, book_id)
+values (27, 510);
+insert into book2tag (tag_id, book_id)
+values (19, 81);
+insert into book2tag (tag_id, book_id)
+values (5, 71);
+insert into book2tag (tag_id, book_id)
+values (17, 548);
+insert into book2tag (tag_id, book_id)
+values (16, 10);
+insert into book2tag (tag_id, book_id)
+values (29, 349);
+insert into book2tag (tag_id, book_id)
+values (1, 103);
+insert into book2tag (tag_id, book_id)
+values (13, 569);
+insert into book2tag (tag_id, book_id)
+values (29, 494);
+insert into book2tag (tag_id, book_id)
+values (3, 223);
+insert into book2tag (tag_id, book_id)
+values (25, 957);
+insert into book2tag (tag_id, book_id)
+values (21, 555);
+insert into book2tag (tag_id, book_id)
+values (17, 182);
+insert into book2tag (tag_id, book_id)
+values (10, 749);
+insert into book2tag (tag_id, book_id)
+values (2, 294);
+insert into book2tag (tag_id, book_id)
+values (10, 986);
+insert into book2tag (tag_id, book_id)
+values (16, 834);
+insert into book2tag (tag_id, book_id)
+values (2, 391);
+insert into book2tag (tag_id, book_id)
+values (17, 547);
+insert into book2tag (tag_id, book_id)
+values (15, 531);
+insert into book2tag (tag_id, book_id)
+values (26, 694);
+insert into book2tag (tag_id, book_id)
+values (11, 964);
+insert into book2tag (tag_id, book_id)
+values (13, 529);
+insert into book2tag (tag_id, book_id)
+values (28, 239);
+insert into book2tag (tag_id, book_id)
+values (2, 984);
+insert into book2tag (tag_id, book_id)
+values (12, 788);
+insert into book2tag (tag_id, book_id)
+values (27, 436);
+insert into book2tag (tag_id, book_id)
+values (26, 787);
+insert into book2tag (tag_id, book_id)
+values (16, 71);
+insert into book2tag (tag_id, book_id)
+values (5, 137);
+insert into book2tag (tag_id, book_id)
+values (1, 191);
+insert into book2tag (tag_id, book_id)
+values (26, 360);
+insert into book2tag (tag_id, book_id)
+values (15, 186);
+insert into book2tag (tag_id, book_id)
+values (20, 19);
+insert into book2tag (tag_id, book_id)
+values (29, 336);
+insert into book2tag (tag_id, book_id)
+values (6, 617);
+insert into book2tag (tag_id, book_id)
+values (3, 175);
+insert into book2tag (tag_id, book_id)
+values (13, 904);
+insert into book2tag (tag_id, book_id)
+values (12, 163);
+insert into book2tag (tag_id, book_id)
+values (16, 310);
+insert into book2tag (tag_id, book_id)
+values (7, 530);
+insert into book2tag (tag_id, book_id)
+values (4, 63);
+insert into book2tag (tag_id, book_id)
+values (26, 856);
+insert into book2tag (tag_id, book_id)
+values (13, 271);
+insert into book2tag (tag_id, book_id)
+values (16, 679);
+insert into book2tag (tag_id, book_id)
+values (22, 181);
+insert into book2tag (tag_id, book_id)
+values (29, 23);
+insert into book2tag (tag_id, book_id)
+values (20, 632);
+insert into book2tag (tag_id, book_id)
+values (23, 880);
+insert into book2tag (tag_id, book_id)
+values (21, 442);
+insert into book2tag (tag_id, book_id)
+values (11, 687);
+insert into book2tag (tag_id, book_id)
+values (13, 277);
+insert into book2tag (tag_id, book_id)
+values (10, 971);
+insert into book2tag (tag_id, book_id)
+values (29, 603);
+insert into book2tag (tag_id, book_id)
+values (6, 610);
+insert into book2tag (tag_id, book_id)
+values (3, 621);
+insert into book2tag (tag_id, book_id)
+values (23, 489);
+insert into book2tag (tag_id, book_id)
+values (15, 178);
+insert into book2tag (tag_id, book_id)
+values (14, 26);
+insert into book2tag (tag_id, book_id)
+values (12, 789);
+insert into book2tag (tag_id, book_id)
+values (10, 375);
+insert into book2tag (tag_id, book_id)
+values (4, 433);
+insert into book2tag (tag_id, book_id)
+values (19, 500);
+insert into book2tag (tag_id, book_id)
+values (2, 221);
+insert into book2tag (tag_id, book_id)
+values (2, 350);
+insert into book2tag (tag_id, book_id)
+values (7, 388);
+insert into book2tag (tag_id, book_id)
+values (13, 826);
+insert into book2tag (tag_id, book_id)
+values (14, 907);
+insert into book2tag (tag_id, book_id)
+values (27, 535);
+insert into book2tag (tag_id, book_id)
+values (4, 530);
+insert into book2tag (tag_id, book_id)
+values (30, 184);
+insert into book2tag (tag_id, book_id)
+values (4, 274);
+insert into book2tag (tag_id, book_id)
+values (3, 109);
+insert into book2tag (tag_id, book_id)
+values (2, 606);
+insert into book2tag (tag_id, book_id)
+values (28, 660);
+insert into book2tag (tag_id, book_id)
+values (6, 771);
+insert into book2tag (tag_id, book_id)
+values (21, 856);
+insert into book2tag (tag_id, book_id)
+values (11, 383);
+insert into book2tag (tag_id, book_id)
+values (22, 842);
+insert into book2tag (tag_id, book_id)
+values (30, 343);
+insert into book2tag (tag_id, book_id)
+values (7, 280);
+insert into book2tag (tag_id, book_id)
+values (22, 557);
+insert into book2tag (tag_id, book_id)
+values (18, 103);
+insert into book2tag (tag_id, book_id)
+values (28, 65);
+insert into book2tag (tag_id, book_id)
+values (3, 664);
+insert into book2tag (tag_id, book_id)
+values (22, 300);
+insert into book2tag (tag_id, book_id)
+values (7, 523);
+insert into book2tag (tag_id, book_id)
+values (4, 533);
+insert into book2tag (tag_id, book_id)
+values (8, 267);
+insert into book2tag (tag_id, book_id)
+values (22, 259);
+insert into book2tag (tag_id, book_id)
+values (12, 187);
+insert into book2tag (tag_id, book_id)
+values (16, 867);
+insert into book2tag (tag_id, book_id)
+values (2, 641);
+insert into book2tag (tag_id, book_id)
+values (18, 579);
+insert into book2tag (tag_id, book_id)
+values (7, 278);
+insert into book2tag (tag_id, book_id)
+values (11, 414);
+insert into book2tag (tag_id, book_id)
+values (28, 733);
+insert into book2tag (tag_id, book_id)
+values (11, 960);
+insert into book2tag (tag_id, book_id)
+values (25, 220);
+insert into book2tag (tag_id, book_id)
+values (10, 462);
+insert into book2tag (tag_id, book_id)
+values (13, 994);
+insert into book2tag (tag_id, book_id)
+values (1, 498);
+insert into book2tag (tag_id, book_id)
+values (28, 492);
+insert into book2tag (tag_id, book_id)
+values (28, 998);
+insert into book2tag (tag_id, book_id)
+values (15, 519);
+insert into book2tag (tag_id, book_id)
+values (30, 100);
+insert into book2tag (tag_id, book_id)
+values (9, 29);
+insert into book2tag (tag_id, book_id)
+values (25, 405);
+insert into book2tag (tag_id, book_id)
+values (24, 181);
+insert into book2tag (tag_id, book_id)
+values (21, 817);
+insert into book2tag (tag_id, book_id)
+values (1, 690);
+insert into book2tag (tag_id, book_id)
+values (28, 375);
+insert into book2tag (tag_id, book_id)
+values (26, 497);
+insert into book2tag (tag_id, book_id)
+values (30, 301);
+insert into book2tag (tag_id, book_id)
+values (11, 191);
+insert into book2tag (tag_id, book_id)
+values (13, 616);
+insert into book2tag (tag_id, book_id)
+values (1, 297);
+insert into book2tag (tag_id, book_id)
+values (30, 964);
+insert into book2tag (tag_id, book_id)
+values (7, 120);
+insert into book2tag (tag_id, book_id)
+values (5, 510);
+insert into book2tag (tag_id, book_id)
+values (26, 903);
+insert into book2tag (tag_id, book_id)
+values (3, 295);
+insert into book2tag (tag_id, book_id)
+values (5, 340);
+insert into book2tag (tag_id, book_id)
+values (19, 64);
+insert into book2tag (tag_id, book_id)
+values (28, 328);
+insert into book2tag (tag_id, book_id)
+values (10, 44);
+insert into book2tag (tag_id, book_id)
+values (19, 723);
+insert into book2tag (tag_id, book_id)
+values (3, 860);
+insert into book2tag (tag_id, book_id)
+values (23, 69);
+insert into book2tag (tag_id, book_id)
+values (14, 441);
+insert into book2tag (tag_id, book_id)
+values (16, 593);
+insert into book2tag (tag_id, book_id)
+values (19, 839);
+insert into book2tag (tag_id, book_id)
+values (12, 197);
+insert into book2tag (tag_id, book_id)
+values (2, 97);
+insert into book2tag (tag_id, book_id)
+values (9, 61);
+insert into book2tag (tag_id, book_id)
+values (7, 741);
+insert into book2tag (tag_id, book_id)
+values (25, 644);
+insert into book2tag (tag_id, book_id)
+values (6, 696);
+insert into book2tag (tag_id, book_id)
+values (23, 315);
+insert into book2tag (tag_id, book_id)
+values (3, 954);
+insert into book2tag (tag_id, book_id)
+values (23, 248);
+insert into book2tag (tag_id, book_id)
+values (16, 809);
+insert into book2tag (tag_id, book_id)
+values (12, 379);
+insert into book2tag (tag_id, book_id)
+values (3, 420);
+insert into book2tag (tag_id, book_id)
+values (4, 60);
+insert into book2tag (tag_id, book_id)
+values (9, 882);
+insert into book2tag (tag_id, book_id)
+values (25, 259);
+insert into book2tag (tag_id, book_id)
+values (22, 327);
+insert into book2tag (tag_id, book_id)
+values (13, 230);
+insert into book2tag (tag_id, book_id)
+values (5, 995);
+insert into book2tag (tag_id, book_id)
+values (20, 2);
+insert into book2tag (tag_id, book_id)
+values (30, 681);
+insert into book2tag (tag_id, book_id)
+values (20, 238);
+insert into book2tag (tag_id, book_id)
+values (12, 95);
+insert into book2tag (tag_id, book_id)
+values (3, 154);
+insert into book2tag (tag_id, book_id)
+values (17, 538);
+insert into book2tag (tag_id, book_id)
+values (29, 780);
+insert into book2tag (tag_id, book_id)
+values (26, 517);
+insert into book2tag (tag_id, book_id)
+values (23, 458);
+insert into book2tag (tag_id, book_id)
+values (18, 620);
+insert into book2tag (tag_id, book_id)
+values (3, 527);
+insert into book2tag (tag_id, book_id)
+values (14, 949);
+insert into book2tag (tag_id, book_id)
+values (21, 389);
+insert into book2tag (tag_id, book_id)
+values (23, 821);
+insert into book2tag (tag_id, book_id)
+values (17, 38);
+insert into book2tag (tag_id, book_id)
+values (27, 608);
+insert into book2tag (tag_id, book_id)
+values (30, 632);
+insert into book2tag (tag_id, book_id)
+values (23, 473);
+insert into book2tag (tag_id, book_id)
+values (15, 902);
+insert into book2tag (tag_id, book_id)
+values (14, 360);
+insert into book2tag (tag_id, book_id)
+values (16, 73);
+insert into book2tag (tag_id, book_id)
+values (1, 479);
+insert into book2tag (tag_id, book_id)
+values (12, 32);
+insert into book2tag (tag_id, book_id)
+values (9, 120);
+insert into book2tag (tag_id, book_id)
+values (30, 786);
+insert into book2tag (tag_id, book_id)
+values (15, 710);
+insert into book2tag (tag_id, book_id)
+values (19, 799);
+insert into book2tag (tag_id, book_id)
+values (18, 808);
+insert into book2tag (tag_id, book_id)
+values (16, 404);
+insert into book2tag (tag_id, book_id)
+values (21, 576);
+insert into book2tag (tag_id, book_id)
+values (13, 443);
+insert into book2tag (tag_id, book_id)
+values (27, 264);
+insert into book2tag (tag_id, book_id)
+values (18, 878);
+insert into book2tag (tag_id, book_id)
+values (11, 245);
+insert into book2tag (tag_id, book_id)
+values (27, 340);
+insert into book2tag (tag_id, book_id)
+values (29, 662);
+insert into book2tag (tag_id, book_id)
+values (15, 17);
+insert into book2tag (tag_id, book_id)
+values (12, 480);
+insert into book2tag (tag_id, book_id)
+values (8, 987);
+insert into book2tag (tag_id, book_id)
+values (15, 275);
+insert into book2tag (tag_id, book_id)
+values (29, 750);
+insert into book2tag (tag_id, book_id)
+values (2, 586);
+insert into book2tag (tag_id, book_id)
+values (19, 620);
+insert into book2tag (tag_id, book_id)
+values (25, 34);
+insert into book2tag (tag_id, book_id)
+values (23, 467);
+insert into book2tag (tag_id, book_id)
+values (24, 357);
+insert into book2tag (tag_id, book_id)
+values (12, 660);
+insert into book2tag (tag_id, book_id)
+values (30, 22);
+insert into book2tag (tag_id, book_id)
+values (5, 457);
+insert into book2tag (tag_id, book_id)
+values (18, 837);
+insert into book2tag (tag_id, book_id)
+values (26, 390);
+insert into book2tag (tag_id, book_id)
+values (23, 46);
+insert into book2tag (tag_id, book_id)
+values (8, 889);
+insert into book2tag (tag_id, book_id)
+values (29, 424);
+insert into book2tag (tag_id, book_id)
+values (19, 833);
+insert into book2tag (tag_id, book_id)
+values (21, 816);
+insert into book2tag (tag_id, book_id)
+values (14, 271);
+insert into book2tag (tag_id, book_id)
+values (28, 348);
+insert into book2tag (tag_id, book_id)
+values (1, 371);
+insert into book2tag (tag_id, book_id)
+values (9, 834);
+insert into book2tag (tag_id, book_id)
+values (26, 791);
+insert into book2tag (tag_id, book_id)
+values (6, 119);
+insert into book2tag (tag_id, book_id)
+values (20, 999);
+insert into book2tag (tag_id, book_id)
+values (16, 921);
+insert into book2tag (tag_id, book_id)
+values (11, 851);
+insert into book2tag (tag_id, book_id)
+values (23, 29);
+insert into book2tag (tag_id, book_id)
+values (27, 278);
+insert into book2tag (tag_id, book_id)
+values (17, 701);
+insert into book2tag (tag_id, book_id)
+values (8, 240);
+insert into book2tag (tag_id, book_id)
+values (7, 248);
+insert into book2tag (tag_id, book_id)
+values (25, 308);
+insert into book2tag (tag_id, book_id)
+values (26, 468);
+insert into book2tag (tag_id, book_id)
+values (8, 866);
+insert into book2tag (tag_id, book_id)
+values (8, 248);
+insert into book2tag (tag_id, book_id)
+values (28, 585);
+insert into book2tag (tag_id, book_id)
+values (22, 30);
+insert into book2tag (tag_id, book_id)
+values (1, 533);
+insert into book2tag (tag_id, book_id)
+values (30, 679);
+insert into book2tag (tag_id, book_id)
+values (3, 245);
+insert into book2tag (tag_id, book_id)
+values (30, 778);
+insert into book2tag (tag_id, book_id)
+values (22, 984);
+insert into book2tag (tag_id, book_id)
+values (3, 190);
+insert into book2tag (tag_id, book_id)
+values (20, 610);
+insert into book2tag (tag_id, book_id)
+values (5, 468);
+insert into book2tag (tag_id, book_id)
+values (26, 462);
+insert into book2tag (tag_id, book_id)
+values (16, 841);
+insert into book2tag (tag_id, book_id)
+values (17, 821);
+insert into book2tag (tag_id, book_id)
+values (24, 607);
+insert into book2tag (tag_id, book_id)
+values (10, 154);
+insert into book2tag (tag_id, book_id)
+values (1, 118);
+insert into book2tag (tag_id, book_id)
+values (25, 938);
+insert into book2tag (tag_id, book_id)
+values (9, 898);
+insert into book2tag (tag_id, book_id)
+values (25, 703);
+insert into book2tag (tag_id, book_id)
+values (3, 656);
+insert into book2tag (tag_id, book_id)
+values (1, 89);
+insert into book2tag (tag_id, book_id)
+values (25, 579);
+insert into book2tag (tag_id, book_id)
+values (14, 665);
+insert into book2tag (tag_id, book_id)
+values (17, 780);
+insert into book2tag (tag_id, book_id)
+values (9, 769);
+insert into book2tag (tag_id, book_id)
+values (13, 364);
+insert into book2tag (tag_id, book_id)
+values (1, 287);
+insert into book2tag (tag_id, book_id)
+values (15, 971);
+insert into book2tag (tag_id, book_id)
+values (10, 642);
+insert into book2tag (tag_id, book_id)
+values (18, 779);
+insert into book2tag (tag_id, book_id)
+values (4, 732);
+insert into book2tag (tag_id, book_id)
+values (22, 836);
+insert into book2tag (tag_id, book_id)
+values (1, 551);
+insert into book2tag (tag_id, book_id)
+values (30, 806);
+insert into book2tag (tag_id, book_id)
+values (10, 133);
+insert into book2tag (tag_id, book_id)
+values (7, 956);
+insert into book2tag (tag_id, book_id)
+values (9, 815);
+insert into book2tag (tag_id, book_id)
+values (13, 918);
+insert into book2tag (tag_id, book_id)
+values (2, 124);
+insert into book2tag (tag_id, book_id)
+values (15, 21);
+insert into book2tag (tag_id, book_id)
+values (10, 77);
+insert into book2tag (tag_id, book_id)
+values (29, 452);
+insert into book2tag (tag_id, book_id)
+values (11, 445);
+insert into book2tag (tag_id, book_id)
+values (6, 847);
+insert into book2tag (tag_id, book_id)
+values (14, 484);
+insert into book2tag (tag_id, book_id)
+values (25, 180);
+insert into book2tag (tag_id, book_id)
+values (23, 103);
+insert into book2tag (tag_id, book_id)
+values (16, 399);
+insert into book2tag (tag_id, book_id)
+values (3, 533);
+insert into book2tag (tag_id, book_id)
+values (4, 743);
+insert into book2tag (tag_id, book_id)
+values (8, 682);
+insert into book2tag (tag_id, book_id)
+values (14, 868);
+insert into book2tag (tag_id, book_id)
+values (22, 178);
+insert into book2tag (tag_id, book_id)
+values (22, 218);
+insert into book2tag (tag_id, book_id)
+values (3, 822);
+insert into book2tag (tag_id, book_id)
+values (20, 511);
+insert into book2tag (tag_id, book_id)
+values (18, 815);
+insert into book2tag (tag_id, book_id)
+values (17, 394);
+insert into book2tag (tag_id, book_id)
+values (18, 14);
+insert into book2tag (tag_id, book_id)
+values (16, 683);
+insert into book2tag (tag_id, book_id)
+values (15, 525);
+insert into book2tag (tag_id, book_id)
+values (23, 810);
+insert into book2tag (tag_id, book_id)
+values (19, 102);
+insert into book2tag (tag_id, book_id)
+values (13, 287);
+insert into book2tag (tag_id, book_id)
+values (10, 657);
+insert into book2tag (tag_id, book_id)
+values (10, 715);
+insert into book2tag (tag_id, book_id)
+values (11, 930);
+insert into book2tag (tag_id, book_id)
+values (23, 578);
+insert into book2tag (tag_id, book_id)
+values (10, 548);
+insert into book2tag (tag_id, book_id)
+values (28, 26);
+insert into book2tag (tag_id, book_id)
+values (30, 743);
+insert into book2tag (tag_id, book_id)
+values (9, 860);
+insert into book2tag (tag_id, book_id)
+values (28, 234);
+insert into book2tag (tag_id, book_id)
+values (7, 356);
+insert into book2tag (tag_id, book_id)
+values (29, 112);
+insert into book2tag (tag_id, book_id)
+values (8, 783);
+insert into book2tag (tag_id, book_id)
+values (6, 746);
+insert into book2tag (tag_id, book_id)
+values (29, 719);
+insert into book2tag (tag_id, book_id)
+values (16, 881);
+insert into book2tag (tag_id, book_id)
+values (19, 439);
+insert into book2tag (tag_id, book_id)
+values (2, 293);
+insert into book2tag (tag_id, book_id)
+values (4, 595);
+insert into book2tag (tag_id, book_id)
+values (14, 481);
+insert into book2tag (tag_id, book_id)
+values (28, 198);
+insert into book2tag (tag_id, book_id)
+values (16, 859);
+insert into book2tag (tag_id, book_id)
+values (2, 998);
+insert into book2tag (tag_id, book_id)
+values (21, 302);
+insert into book2tag (tag_id, book_id)
+values (26, 156);
+insert into book2tag (tag_id, book_id)
+values (12, 25);
+insert into book2tag (tag_id, book_id)
+values (6, 37);
+insert into book2tag (tag_id, book_id)
+values (19, 352);
+insert into book2tag (tag_id, book_id)
+values (1, 128);
+insert into book2tag (tag_id, book_id)
+values (25, 28);
+insert into book2tag (tag_id, book_id)
+values (21, 544);
+insert into book2tag (tag_id, book_id)
+values (16, 777);
+insert into book2tag (tag_id, book_id)
+values (11, 972);
+insert into book2tag (tag_id, book_id)
+values (24, 64);
+insert into book2tag (tag_id, book_id)
+values (9, 591);
+insert into book2tag (tag_id, book_id)
+values (22, 188);
+insert into book2tag (tag_id, book_id)
+values (21, 108);
+insert into book2tag (tag_id, book_id)
+values (30, 597);
+insert into book2tag (tag_id, book_id)
+values (18, 580);
+insert into book2tag (tag_id, book_id)
+values (4, 351);
+insert into book2tag (tag_id, book_id)
+values (14, 273);
+insert into book2tag (tag_id, book_id)
+values (9, 261);
+insert into book2tag (tag_id, book_id)
+values (27, 176);
+insert into book2tag (tag_id, book_id)
+values (5, 901);
+insert into book2tag (tag_id, book_id)
+values (29, 607);
+insert into book2tag (tag_id, book_id)
+values (30, 61);
+insert into book2tag (tag_id, book_id)
+values (30, 247);
+insert into book2tag (tag_id, book_id)
+values (16, 722);
+insert into book2tag (tag_id, book_id)
+values (4, 362);
+insert into book2tag (tag_id, book_id)
+values (25, 179);
+insert into book2tag (tag_id, book_id)
+values (11, 266);
+insert into book2tag (tag_id, book_id)
+values (30, 63);
+insert into book2tag (tag_id, book_id)
+values (21, 282);
+insert into book2tag (tag_id, book_id)
+values (11, 204);
+insert into book2tag (tag_id, book_id)
+values (28, 317);
+insert into book2tag (tag_id, book_id)
+values (12, 796);
+insert into book2tag (tag_id, book_id)
+values (16, 98);
+insert into book2tag (tag_id, book_id)
+values (6, 528);
+insert into book2tag (tag_id, book_id)
+values (3, 474);
+insert into book2tag (tag_id, book_id)
+values (14, 406);
+insert into book2tag (tag_id, book_id)
+values (22, 511);
+insert into book2tag (tag_id, book_id)
+values (19, 38);
+insert into book2tag (tag_id, book_id)
+values (25, 607);
+insert into book2tag (tag_id, book_id)
+values (14, 667);
+insert into book2tag (tag_id, book_id)
+values (30, 27);
+insert into book2tag (tag_id, book_id)
+values (28, 4);
+insert into book2tag (tag_id, book_id)
+values (11, 199);
+insert into book2tag (tag_id, book_id)
+values (14, 697);
+insert into book2tag (tag_id, book_id)
+values (18, 561);
+insert into book2tag (tag_id, book_id)
+values (15, 341);
+insert into book2tag (tag_id, book_id)
+values (27, 51);
+insert into book2tag (tag_id, book_id)
+values (7, 415);
+insert into book2tag (tag_id, book_id)
+values (3, 870);
+insert into book2tag (tag_id, book_id)
+values (29, 107);
+insert into book2tag (tag_id, book_id)
+values (1, 209);
+insert into book2tag (tag_id, book_id)
+values (15, 324);
+insert into book2tag (tag_id, book_id)
+values (26, 92);
+insert into book2tag (tag_id, book_id)
+values (23, 480);
+insert into book2tag (tag_id, book_id)
+values (2, 632);
+insert into book2tag (tag_id, book_id)
+values (1, 648);
+insert into book2tag (tag_id, book_id)
+values (11, 892);
+insert into book2tag (tag_id, book_id)
+values (17, 925);
+insert into book2tag (tag_id, book_id)
+values (7, 957);
+insert into book2tag (tag_id, book_id)
+values (8, 946);
+insert into book2tag (tag_id, book_id)
+values (12, 228);
+insert into book2tag (tag_id, book_id)
+values (7, 599);
+insert into book2tag (tag_id, book_id)
+values (13, 236);
+insert into book2tag (tag_id, book_id)
+values (21, 903);
+insert into book2tag (tag_id, book_id)
+values (6, 532);
+insert into book2tag (tag_id, book_id)
+values (23, 452);
+insert into book2tag (tag_id, book_id)
+values (8, 97);
+insert into book2tag (tag_id, book_id)
+values (5, 565);
+insert into book2tag (tag_id, book_id)
+values (17, 37);
+insert into book2tag (tag_id, book_id)
+values (21, 665);
+insert into book2tag (tag_id, book_id)
+values (5, 765);
+insert into book2tag (tag_id, book_id)
+values (2, 203);
+insert into book2tag (tag_id, book_id)
+values (9, 314);
+insert into book2tag (tag_id, book_id)
+values (29, 342);
+insert into book2tag (tag_id, book_id)
+values (6, 131);
+insert into book2tag (tag_id, book_id)
+values (4, 460);
+insert into book2tag (tag_id, book_id)
+values (16, 895);
+insert into book2tag (tag_id, book_id)
+values (8, 500);
+insert into book2tag (tag_id, book_id)
+values (19, 113);
+insert into book2tag (tag_id, book_id)
+values (12, 803);
+insert into book2tag (tag_id, book_id)
+values (30, 374);
+insert into book2tag (tag_id, book_id)
+values (8, 64);
+insert into book2tag (tag_id, book_id)
+values (7, 74);
+insert into book2tag (tag_id, book_id)
+values (15, 856);
+insert into book2tag (tag_id, book_id)
+values (9, 296);
+insert into book2tag (tag_id, book_id)
+values (28, 367);
+insert into book2tag (tag_id, book_id)
+values (15, 820);
+insert into book2tag (tag_id, book_id)
+values (29, 710);
+insert into book2tag (tag_id, book_id)
+values (27, 970);
+insert into book2tag (tag_id, book_id)
+values (6, 17);
+insert into book2tag (tag_id, book_id)
+values (23, 11);
+insert into book2tag (tag_id, book_id)
+values (23, 960);
+insert into book2tag (tag_id, book_id)
+values (16, 912);
+insert into book2tag (tag_id, book_id)
+values (16, 511);
+insert into book2tag (tag_id, book_id)
+values (15, 890);
+insert into book2tag (tag_id, book_id)
+values (22, 438);
+insert into book2tag (tag_id, book_id)
+values (23, 83);
+insert into book2tag (tag_id, book_id)
+values (13, 431);
+insert into book2tag (tag_id, book_id)
+values (28, 680);
+insert into book2tag (tag_id, book_id)
+values (18, 257);
+insert into book2tag (tag_id, book_id)
+values (15, 71);
+insert into book2tag (tag_id, book_id)
+values (7, 732);
+insert into book2tag (tag_id, book_id)
+values (19, 544);
+insert into book2tag (tag_id, book_id)
+values (21, 754);
+insert into book2tag (tag_id, book_id)
+values (17, 580);
+insert into book2tag (tag_id, book_id)
+values (29, 638);
+insert into book2tag (tag_id, book_id)
+values (17, 988);
+insert into book2tag (tag_id, book_id)
+values (6, 639);
+insert into book2tag (tag_id, book_id)
+values (7, 377);
+insert into book2tag (tag_id, book_id)
+values (13, 779);
+insert into book2tag (tag_id, book_id)
+values (17, 171);
+insert into book2tag (tag_id, book_id)
+values (5, 669);
+insert into book2tag (tag_id, book_id)
+values (3, 215);
+insert into book2tag (tag_id, book_id)
+values (21, 831);
+insert into book2tag (tag_id, book_id)
+values (16, 447);
+insert into book2tag (tag_id, book_id)
+values (23, 847);
+insert into book2tag (tag_id, book_id)
+values (19, 30);
+insert into book2tag (tag_id, book_id)
+values (2, 631);
+insert into book2tag (tag_id, book_id)
+values (12, 198);
+insert into book2tag (tag_id, book_id)
+values (29, 363);
+insert into book2tag (tag_id, book_id)
+values (13, 788);
+insert into book2tag (tag_id, book_id)
+values (1, 408);
+insert into book2tag (tag_id, book_id)
+values (12, 828);
+insert into book2tag (tag_id, book_id)
+values (23, 202);
+insert into book2tag (tag_id, book_id)
+values (25, 519);
+insert into book2tag (tag_id, book_id)
+values (8, 50);
+insert into book2tag (tag_id, book_id)
+values (1, 913);
+insert into book2tag (tag_id, book_id)
+values (13, 118);
+insert into book2tag (tag_id, book_id)
+values (13, 945);
+insert into book2tag (tag_id, book_id)
+values (19, 518);
+insert into book2tag (tag_id, book_id)
+values (12, 503);
+insert into book2tag (tag_id, book_id)
+values (12, 267);
+insert into book2tag (tag_id, book_id)
+values (19, 792);
+insert into book2tag (tag_id, book_id)
+values (4, 907);
+insert into book2tag (tag_id, book_id)
+values (25, 529);
+insert into book2tag (tag_id, book_id)
+values (15, 95);
+insert into book2tag (tag_id, book_id)
+values (28, 799);
+insert into book2tag (tag_id, book_id)
+values (30, 763);
+insert into book2tag (tag_id, book_id)
+values (8, 521);
+insert into book2tag (tag_id, book_id)
+values (24, 970);
+insert into book2tag (tag_id, book_id)
+values (27, 724);
+insert into book2tag (tag_id, book_id)
+values (18, 168);
+insert into book2tag (tag_id, book_id)
+values (24, 784);
+insert into book2tag (tag_id, book_id)
+values (4, 846);
+insert into book2tag (tag_id, book_id)
+values (19, 108);
+insert into book2tag (tag_id, book_id)
+values (1, 85);
+insert into book2tag (tag_id, book_id)
+values (13, 559);
+insert into book2tag (tag_id, book_id)
+values (23, 433);
+insert into book2tag (tag_id, book_id)
+values (25, 370);
+insert into book2tag (tag_id, book_id)
+values (27, 768);
+insert into book2tag (tag_id, book_id)
+values (6, 533);
+insert into book2tag (tag_id, book_id)
+values (29, 210);
+insert into book2tag (tag_id, book_id)
+values (14, 430);
+insert into book2tag (tag_id, book_id)
+values (9, 970);
+insert into book2tag (tag_id, book_id)
+values (9, 859);
+insert into book2tag (tag_id, book_id)
+values (5, 857);
+insert into book2tag (tag_id, book_id)
+values (21, 250);
+insert into book2tag (tag_id, book_id)
+values (8, 346);
+insert into book2tag (tag_id, book_id)
+values (3, 946);
+insert into book2tag (tag_id, book_id)
+values (28, 867);
+insert into book2tag (tag_id, book_id)
+values (11, 186);
+insert into book2tag (tag_id, book_id)
+values (2, 566);
+insert into book2tag (tag_id, book_id)
+values (16, 348);
+insert into book2tag (tag_id, book_id)
+values (16, 419);
+insert into book2tag (tag_id, book_id)
+values (25, 203);
+insert into book2tag (tag_id, book_id)
+values (26, 9);
+insert into book2tag (tag_id, book_id)
+values (8, 550);
+insert into book2tag (tag_id, book_id)
+values (28, 30);
+insert into book2tag (tag_id, book_id)
+values (3, 612);
+insert into book2tag (tag_id, book_id)
+values (14, 584);
+insert into book2tag (tag_id, book_id)
+values (8, 923);
+insert into book2tag (tag_id, book_id)
+values (1, 586);
+insert into book2tag (tag_id, book_id)
+values (25, 11);
+insert into book2tag (tag_id, book_id)
+values (20, 401);
+insert into book2tag (tag_id, book_id)
+values (26, 144);
+insert into book2tag (tag_id, book_id)
+values (2, 359);
+insert into book2tag (tag_id, book_id)
+values (12, 922);
+insert into book2tag (tag_id, book_id)
+values (15, 11);
+insert into book2tag (tag_id, book_id)
+values (1, 262);
+insert into book2tag (tag_id, book_id)
+values (27, 89);
+insert into book2tag (tag_id, book_id)
+values (6, 802);
+insert into book2tag (tag_id, book_id)
+values (1, 794);
+insert into book2tag (tag_id, book_id)
+values (1, 255);
+insert into book2tag (tag_id, book_id)
+values (2, 400);
+insert into book2tag (tag_id, book_id)
+values (8, 547);
+insert into book2tag (tag_id, book_id)
+values (17, 20);
+insert into book2tag (tag_id, book_id)
+values (13, 385);
+insert into book2tag (tag_id, book_id)
+values (6, 132);
+insert into book2tag (tag_id, book_id)
+values (13, 654);
+insert into book2tag (tag_id, book_id)
+values (19, 826);
+insert into book2tag (tag_id, book_id)
+values (1, 279);
+insert into book2tag (tag_id, book_id)
+values (15, 327);
+insert into book2tag (tag_id, book_id)
+values (15, 109);
+insert into book2tag (tag_id, book_id)
+values (24, 203);
+insert into book2tag (tag_id, book_id)
+values (7, 93);
+insert into book2tag (tag_id, book_id)
+values (2, 584);
+insert into book2tag (tag_id, book_id)
+values (28, 100);
+insert into book2tag (tag_id, book_id)
+values (20, 84);
+insert into book2tag (tag_id, book_id)
+values (26, 396);
+insert into book2tag (tag_id, book_id)
+values (25, 670);
+insert into book2tag (tag_id, book_id)
+values (4, 755);
+insert into book2tag (tag_id, book_id)
+values (23, 373);
+insert into book2tag (tag_id, book_id)
+values (4, 271);
+insert into book2tag (tag_id, book_id)
+values (29, 965);
+insert into book2tag (tag_id, book_id)
+values (19, 244);
+insert into book2tag (tag_id, book_id)
+values (11, 8);
+insert into book2tag (tag_id, book_id)
+values (25, 449);
+insert into book2tag (tag_id, book_id)
+values (16, 132);
+insert into book2tag (tag_id, book_id)
+values (25, 584);
+insert into book2tag (tag_id, book_id)
+values (4, 423);
+insert into book2tag (tag_id, book_id)
+values (9, 908);
+insert into book2tag (tag_id, book_id)
+values (4, 726);
+insert into book2tag (tag_id, book_id)
+values (2, 764);
+insert into book2tag (tag_id, book_id)
+values (18, 758);
+insert into book2tag (tag_id, book_id)
+values (25, 165);
+insert into book2tag (tag_id, book_id)
+values (12, 134);
+insert into book2tag (tag_id, book_id)
+values (7, 464);
+insert into book2tag (tag_id, book_id)
+values (3, 675);
+insert into book2tag (tag_id, book_id)
+values (25, 762);
+insert into book2tag (tag_id, book_id)
+values (10, 879);
+insert into book2tag (tag_id, book_id)
+values (25, 886);
+insert into book2tag (tag_id, book_id)
+values (12, 749);
+insert into book2tag (tag_id, book_id)
+values (7, 211);
+insert into book2tag (tag_id, book_id)
+values (30, 827);
+insert into book2tag (tag_id, book_id)
+values (22, 355);
+insert into book2tag (tag_id, book_id)
+values (8, 14);
+insert into book2tag (tag_id, book_id)
+values (19, 994);
+insert into book2tag (tag_id, book_id)
+values (7, 401);
+insert into book2tag (tag_id, book_id)
+values (3, 87);
+insert into book2tag (tag_id, book_id)
+values (22, 933);
+insert into book2tag (tag_id, book_id)
+values (24, 685);
+insert into book2tag (tag_id, book_id)
+values (13, 464);
+insert into book2tag (tag_id, book_id)
+values (29, 396);
+insert into book2tag (tag_id, book_id)
+values (20, 296);
+insert into book2tag (tag_id, book_id)
+values (23, 796);
+insert into book2tag (tag_id, book_id)
+values (14, 687);
+insert into book2tag (tag_id, book_id)
+values (2, 406);
+insert into book2tag (tag_id, book_id)
+values (19, 561);
+insert into book2tag (tag_id, book_id)
+values (21, 65);
+insert into book2tag (tag_id, book_id)
+values (22, 573);
+insert into book2tag (tag_id, book_id)
+values (20, 603);
+insert into book2tag (tag_id, book_id)
+values (8, 80);
+insert into book2tag (tag_id, book_id)
+values (23, 470);
+insert into book2tag (tag_id, book_id)
+values (25, 42);
+insert into book2tag (tag_id, book_id)
+values (7, 130);
+insert into book2tag (tag_id, book_id)
+values (16, 899);
+insert into book2tag (tag_id, book_id)
+values (5, 171);
+insert into book2tag (tag_id, book_id)
+values (26, 749);
+insert into book2tag (tag_id, book_id)
+values (6, 324);
+insert into book2tag (tag_id, book_id)
+values (20, 94);
+insert into book2tag (tag_id, book_id)
+values (23, 952);
+insert into book2tag (tag_id, book_id)
+values (3, 663);
+insert into book2tag (tag_id, book_id)
+values (14, 504);
+insert into book2tag (tag_id, book_id)
+values (12, 524);
+insert into book2tag (tag_id, book_id)
+values (14, 341);
+insert into book2tag (tag_id, book_id)
+values (4, 966);
+insert into book2tag (tag_id, book_id)
+values (13, 839);
+insert into book2tag (tag_id, book_id)
+values (21, 494);
+insert into book2tag (tag_id, book_id)
+values (3, 370);
+insert into book2tag (tag_id, book_id)
+values (17, 984);
+insert into book2tag (tag_id, book_id)
+values (30, 140);
+insert into book2tag (tag_id, book_id)
+values (25, 518);
+insert into book2tag (tag_id, book_id)
+values (16, 810);
+insert into book2tag (tag_id, book_id)
+values (21, 5);
+insert into book2tag (tag_id, book_id)
+values (15, 965);
+insert into book2tag (tag_id, book_id)
+values (16, 175);
+insert into book2tag (tag_id, book_id)
+values (16, 350);
+insert into book2tag (tag_id, book_id)
+values (18, 972);
+insert into book2tag (tag_id, book_id)
+values (11, 239);
+insert into book2tag (tag_id, book_id)
+values (10, 307);
+insert into book2tag (tag_id, book_id)
+values (1, 244);
+insert into book2tag (tag_id, book_id)
+values (27, 220);
+insert into book2tag (tag_id, book_id)
+values (27, 963);
+insert into book2tag (tag_id, book_id)
+values (14, 957);
+insert into book2tag (tag_id, book_id)
+values (13, 895);
+insert into book2tag (tag_id, book_id)
+values (28, 836);
+insert into book2tag (tag_id, book_id)
+values (7, 506);
+insert into book2tag (tag_id, book_id)
+values (1, 378);
+insert into book2tag (tag_id, book_id)
+values (18, 182);
+insert into book2tag (tag_id, book_id)
+values (9, 286);
+insert into book2tag (tag_id, book_id)
+values (21, 820);
+insert into book2tag (tag_id, book_id)
+values (26, 391);
+insert into book2tag (tag_id, book_id)
+values (5, 973);
+insert into book2tag (tag_id, book_id)
+values (10, 68);
+insert into book2tag (tag_id, book_id)
+values (27, 814);
+insert into book2tag (tag_id, book_id)
+values (29, 211);
+insert into book2tag (tag_id, book_id)
+values (2, 800);
+insert into book2tag (tag_id, book_id)
+values (24, 310);
+insert into book2tag (tag_id, book_id)
+values (12, 643);
+insert into book2tag (tag_id, book_id)
+values (8, 311);
+insert into book2tag (tag_id, book_id)
+values (14, 213);
+insert into book2tag (tag_id, book_id)
+values (5, 661);
+insert into book2tag (tag_id, book_id)
+values (28, 897);
+insert into book2tag (tag_id, book_id)
+values (3, 20);
+insert into book2tag (tag_id, book_id)
+values (11, 284);
+insert into book2tag (tag_id, book_id)
+values (20, 274);
+insert into book2tag (tag_id, book_id)
+values (25, 724);
+insert into book2tag (tag_id, book_id)
+values (18, 181);
+insert into book2tag (tag_id, book_id)
+values (29, 782);
+insert into book2tag (tag_id, book_id)
+values (13, 141);
+insert into book2tag (tag_id, book_id)
+values (10, 121);
+insert into book2tag (tag_id, book_id)
+values (8, 470);
+insert into book2tag (tag_id, book_id)
+values (8, 478);
+insert into book2tag (tag_id, book_id)
+values (15, 9);
+insert into book2tag (tag_id, book_id)
+values (14, 919);
+insert into book2tag (tag_id, book_id)
+values (6, 751);
+insert into book2tag (tag_id, book_id)
+values (3, 755);
+insert into book2tag (tag_id, book_id)
+values (24, 422);
+insert into book2tag (tag_id, book_id)
+values (2, 706);
+insert into book2tag (tag_id, book_id)
+values (12, 354);
+insert into book2tag (tag_id, book_id)
+values (17, 618);
+insert into book2tag (tag_id, book_id)
+values (14, 263);
+insert into book2tag (tag_id, book_id)
+values (17, 151);
+insert into book2tag (tag_id, book_id)
+values (19, 28);
+insert into book2tag (tag_id, book_id)
+values (5, 104);
+insert into book2tag (tag_id, book_id)
+values (8, 30);
+insert into book2tag (tag_id, book_id)
+values (14, 611);
+insert into book2tag (tag_id, book_id)
+values (1, 483);
+insert into book2tag (tag_id, book_id)
+values (29, 829);
+insert into book2tag (tag_id, book_id)
+values (27, 776);
+insert into book2tag (tag_id, book_id)
+values (12, 229);
+insert into book2tag (tag_id, book_id)
+values (8, 7);
+insert into book2tag (tag_id, book_id)
+values (14, 695);
+insert into book2tag (tag_id, book_id)
+values (11, 978);
+insert into book2tag (tag_id, book_id)
+values (14, 494);
+insert into book2tag (tag_id, book_id)
+values (26, 273);
+insert into book2tag (tag_id, book_id)
+values (2, 329);
+insert into book2tag (tag_id, book_id)
+values (29, 88);
+insert into book2tag (tag_id, book_id)
+values (17, 520);
+insert into book2tag (tag_id, book_id)
+values (8, 17);
+insert into book2tag (tag_id, book_id)
+values (23, 317);
+insert into book2tag (tag_id, book_id)
+values (4, 737);
+insert into book2tag (tag_id, book_id)
+values (18, 192);
+insert into book2tag (tag_id, book_id)
+values (18, 843);
+insert into book2tag (tag_id, book_id)
+values (25, 27);
+insert into book2tag (tag_id, book_id)
+values (29, 897);
+insert into book2tag (tag_id, book_id)
+values (29, 332);
+insert into book2tag (tag_id, book_id)
+values (5, 911);
+insert into book2tag (tag_id, book_id)
+values (28, 122);
+insert into book2tag (tag_id, book_id)
+values (13, 537);
+insert into book2tag (tag_id, book_id)
+values (17, 336);
+insert into book2tag (tag_id, book_id)
+values (9, 936);
+insert into book2tag (tag_id, book_id)
+values (10, 691);
+insert into book2tag (tag_id, book_id)
+values (3, 737);
+insert into book2tag (tag_id, book_id)
+values (12, 302);
+insert into book2tag (tag_id, book_id)
+values (17, 418);
+insert into book2tag (tag_id, book_id)
+values (1, 86);
+insert into book2tag (tag_id, book_id)
+values (4, 275);
+insert into book2tag (tag_id, book_id)
+values (29, 264);
+insert into book2tag (tag_id, book_id)
+values (15, 135);
+insert into book2tag (tag_id, book_id)
+values (8, 836);
+insert into book2tag (tag_id, book_id)
+values (5, 81);
+insert into book2tag (tag_id, book_id)
+values (10, 775);
+insert into book2tag (tag_id, book_id)
+values (7, 699);
+insert into book2tag (tag_id, book_id)
+values (10, 35);
+insert into book2tag (tag_id, book_id)
+values (12, 307);
+insert into book2tag (tag_id, book_id)
+values (28, 86);
+insert into book2tag (tag_id, book_id)
+values (10, 600);
+insert into book2tag (tag_id, book_id)
+values (25, 878);
+insert into book2tag (tag_id, book_id)
+values (24, 824);
+insert into book2tag (tag_id, book_id)
+values (23, 417);
+insert into book2tag (tag_id, book_id)
+values (18, 560);
+insert into book2tag (tag_id, book_id)
+values (22, 165);
+insert into book2tag (tag_id, book_id)
+values (3, 770);
+insert into book2tag (tag_id, book_id)
+values (6, 315);
+insert into book2tag (tag_id, book_id)
+values (21, 642);
+insert into book2tag (tag_id, book_id)
+values (8, 304);
+insert into book2tag (tag_id, book_id)
+values (2, 760);
+insert into book2tag (tag_id, book_id)
+values (16, 283);
+insert into book2tag (tag_id, book_id)
+values (21, 350);
+insert into book2tag (tag_id, book_id)
+values (12, 313);
+insert into book2tag (tag_id, book_id)
+values (9, 770);
+insert into book2tag (tag_id, book_id)
+values (30, 316);
+insert into book2tag (tag_id, book_id)
+values (5, 602);
+insert into book2tag (tag_id, book_id)
+values (15, 65);
+insert into book2tag (tag_id, book_id)
+values (12, 422);
+insert into book2tag (tag_id, book_id)
+values (29, 980);
+insert into book2tag (tag_id, book_id)
+values (9, 865);
+insert into book2tag (tag_id, book_id)
+values (22, 117);
+insert into book2tag (tag_id, book_id)
+values (19, 838);
+insert into book2tag (tag_id, book_id)
+values (11, 212);
+insert into book2tag (tag_id, book_id)
+values (19, 253);
+insert into book2tag (tag_id, book_id)
+values (16, 897);
+insert into book2tag (tag_id, book_id)
+values (21, 712);
+insert into book2tag (tag_id, book_id)
+values (13, 522);
+insert into book2tag (tag_id, book_id)
+values (14, 340);
+insert into book2tag (tag_id, book_id)
+values (24, 195);
+insert into book2tag (tag_id, book_id)
+values (17, 968);
+insert into book2tag (tag_id, book_id)
+values (17, 199);
+insert into book2tag (tag_id, book_id)
+values (15, 60);
+insert into book2tag (tag_id, book_id)
+values (28, 474);
+insert into book2tag (tag_id, book_id)
+values (13, 59);
+insert into book2tag (tag_id, book_id)
+values (28, 39);
+insert into book2tag (tag_id, book_id)
+values (22, 543);
+insert into book2tag (tag_id, book_id)
+values (9, 600);
+insert into book2tag (tag_id, book_id)
+values (23, 720);
+insert into book2tag (tag_id, book_id)
+values (22, 560);
+insert into book2tag (tag_id, book_id)
+values (11, 770);
+insert into book2tag (tag_id, book_id)
+values (20, 661);
+insert into book2tag (tag_id, book_id)
+values (7, 258);
+insert into book2tag (tag_id, book_id)
+values (29, 549);
+insert into book2tag (tag_id, book_id)
+values (22, 589);
+insert into book2tag (tag_id, book_id)
+values (3, 339);
+insert into book2tag (tag_id, book_id)
+values (14, 450);
+insert into book2tag (tag_id, book_id)
+values (26, 853);
+insert into book2tag (tag_id, book_id)
+values (22, 269);
+insert into book2tag (tag_id, book_id)
+values (11, 53);
+insert into book2tag (tag_id, book_id)
+values (16, 929);
+insert into book2tag (tag_id, book_id)
+values (15, 76);
+insert into book2tag (tag_id, book_id)
+values (9, 822);
+insert into book2tag (tag_id, book_id)
+values (25, 122);
+insert into book2tag (tag_id, book_id)
+values (12, 43);
+insert into book2tag (tag_id, book_id)
+values (4, 877);
+insert into book2tag (tag_id, book_id)
+values (2, 615);
+insert into book2tag (tag_id, book_id)
+values (13, 923);
+insert into book2tag (tag_id, book_id)
+values (16, 30);
+insert into book2tag (tag_id, book_id)
+values (17, 268);
+insert into book2tag (tag_id, book_id)
+values (3, 745);
+insert into book2tag (tag_id, book_id)
+values (27, 621);
+insert into book2tag (tag_id, book_id)
+values (21, 14);
+insert into book2tag (tag_id, book_id)
+values (29, 312);
+insert into book2tag (tag_id, book_id)
+values (29, 251);
+insert into book2tag (tag_id, book_id)
+values (26, 128);
+insert into book2tag (tag_id, book_id)
+values (3, 488);
+insert into book2tag (tag_id, book_id)
+values (1, 804);
+insert into book2tag (tag_id, book_id)
+values (16, 524);
+insert into book2tag (tag_id, book_id)
+values (20, 538);
+insert into book2tag (tag_id, book_id)
+values (18, 82);
+insert into book2tag (tag_id, book_id)
+values (20, 975);
+insert into book2tag (tag_id, book_id)
+values (3, 81);
+insert into book2tag (tag_id, book_id)
+values (7, 742);
+insert into book2tag (tag_id, book_id)
+values (23, 124);
+insert into book2tag (tag_id, book_id)
+values (9, 612);
+insert into book2tag (tag_id, book_id)
+values (2, 343);
+insert into book2tag (tag_id, book_id)
+values (27, 194);
+insert into book2tag (tag_id, book_id)
+values (4, 955);
+insert into book2tag (tag_id, book_id)
+values (29, 282);
+insert into book2tag (tag_id, book_id)
+values (3, 310);
+insert into book2tag (tag_id, book_id)
+values (16, 630);
+insert into book2tag (tag_id, book_id)
+values (29, 450);
+insert into book2tag (tag_id, book_id)
+values (10, 908);
+insert into book2tag (tag_id, book_id)
+values (3, 69);
+insert into book2tag (tag_id, book_id)
+values (12, 991);
+insert into book2tag (tag_id, book_id)
+values (22, 773);
+insert into book2tag (tag_id, book_id)
+values (12, 300);
+insert into book2tag (tag_id, book_id)
+values (3, 657);
+insert into book2tag (tag_id, book_id)
+values (1, 165);
+insert into book2tag (tag_id, book_id)
+values (18, 240);
+insert into book2tag (tag_id, book_id)
+values (22, 845);
+insert into book2tag (tag_id, book_id)
+values (2, 880);
+insert into book2tag (tag_id, book_id)
+values (10, 402);
+insert into book2tag (tag_id, book_id)
+values (8, 821);
+insert into book2tag (tag_id, book_id)
+values (15, 215);
+insert into book2tag (tag_id, book_id)
+values (3, 200);
+insert into book2tag (tag_id, book_id)
+values (24, 198);
+insert into book2tag (tag_id, book_id)
+values (20, 690);
+insert into book2tag (tag_id, book_id)
+values (3, 144);
+insert into book2tag (tag_id, book_id)
+values (16, 697);
+insert into book2tag (tag_id, book_id)
+values (20, 322);
+insert into book2tag (tag_id, book_id)
+values (30, 166);
+insert into book2tag (tag_id, book_id)
+values (17, 985);
+insert into book2tag (tag_id, book_id)
+values (22, 16);
+insert into book2tag (tag_id, book_id)
+values (20, 502);
+insert into book2tag (tag_id, book_id)
+values (16, 583);
+insert into book2tag (tag_id, book_id)
+values (21, 193);
+insert into book2tag (tag_id, book_id)
+values (8, 302);
+insert into book2tag (tag_id, book_id)
+values (17, 656);
+insert into book2tag (tag_id, book_id)
+values (11, 868);
+insert into book2tag (tag_id, book_id)
+values (18, 227);
+insert into book2tag (tag_id, book_id)
+values (4, 548);
+insert into book2tag (tag_id, book_id)
+values (18, 212);
+insert into book2tag (tag_id, book_id)
+values (18, 659);
+insert into book2tag (tag_id, book_id)
+values (7, 804);
+insert into book2tag (tag_id, book_id)
+values (27, 418);
+insert into book2tag (tag_id, book_id)
+values (27, 490);
+insert into book2tag (tag_id, book_id)
+values (8, 609);
+insert into book2tag (tag_id, book_id)
+values (4, 333);
+insert into book2tag (tag_id, book_id)
+values (7, 323);
+insert into book2tag (tag_id, book_id)
+values (26, 518);
+insert into book2tag (tag_id, book_id)
+values (21, 620);
+insert into book2tag (tag_id, book_id)
+values (6, 429);
+insert into book2tag (tag_id, book_id)
+values (19, 255);
+insert into book2tag (tag_id, book_id)
+values (21, 60);
+insert into book2tag (tag_id, book_id)
+values (9, 363);
+insert into book2tag (tag_id, book_id)
+values (2, 666);
+insert into book2tag (tag_id, book_id)
+values (6, 133);
+insert into book2tag (tag_id, book_id)
+values (7, 662);
+insert into book2tag (tag_id, book_id)
+values (20, 551);
+insert into book2tag (tag_id, book_id)
+values (27, 148);
+insert into book2tag (tag_id, book_id)
+values (30, 111);
+insert into book2tag (tag_id, book_id)
+values (11, 800);
+insert into book2tag (tag_id, book_id)
+values (24, 866);
+insert into book2tag (tag_id, book_id)
+values (18, 436);
+insert into book2tag (tag_id, book_id)
+values (24, 474);
+insert into book2tag (tag_id, book_id)
+values (11, 332);
+insert into book2tag (tag_id, book_id)
+values (9, 159);
+insert into book2tag (tag_id, book_id)
+values (25, 728);
+insert into book2tag (tag_id, book_id)
+values (5, 797);
+insert into book2tag (tag_id, book_id)
+values (24, 395);
+insert into book2tag (tag_id, book_id)
+values (4, 721);
+insert into book2tag (tag_id, book_id)
+values (27, 612);
+insert into book2tag (tag_id, book_id)
+values (8, 35);
+insert into book2tag (tag_id, book_id)
+values (14, 864);
+insert into book2tag (tag_id, book_id)
+values (11, 918);
+insert into book2tag (tag_id, book_id)
+values (24, 640);
+insert into book2tag (tag_id, book_id)
+values (23, 300);
+insert into book2tag (tag_id, book_id)
+values (15, 209);
+insert into book2tag (tag_id, book_id)
+values (11, 654);
+insert into book2tag (tag_id, book_id)
+values (6, 921);
+insert into book2tag (tag_id, book_id)
+values (5, 469);
+insert into book2tag (tag_id, book_id)
+values (29, 36);
+insert into book2tag (tag_id, book_id)
+values (7, 975);
+insert into book2tag (tag_id, book_id)
+values (1, 412);
+insert into book2tag (tag_id, book_id)
+values (28, 824);
+insert into book2tag (tag_id, book_id)
+values (2, 128);
+insert into book2tag (tag_id, book_id)
+values (14, 122);
+insert into book2tag (tag_id, book_id)
+values (28, 608);
+insert into book2tag (tag_id, book_id)
+values (29, 798);
+insert into book2tag (tag_id, book_id)
+values (3, 27);
+insert into book2tag (tag_id, book_id)
+values (19, 718);
+insert into book2tag (tag_id, book_id)
+values (3, 542);
+insert into book2tag (tag_id, book_id)
+values (12, 519);
+insert into book2tag (tag_id, book_id)
+values (8, 108);
+insert into book2tag (tag_id, book_id)
+values (3, 232);
+insert into book2tag (tag_id, book_id)
+values (18, 701);
+insert into book2tag (tag_id, book_id)
+values (25, 391);
+insert into book2tag (tag_id, book_id)
+values (22, 97);
+insert into book2tag (tag_id, book_id)
+values (23, 605);
+insert into book2tag (tag_id, book_id)
+values (21, 349);
+insert into book2tag (tag_id, book_id)
+values (19, 610);
+insert into book2tag (tag_id, book_id)
+values (18, 834);
+insert into book2tag (tag_id, book_id)
+values (16, 567);
+insert into book2tag (tag_id, book_id)
+values (30, 683);
+insert into book2tag (tag_id, book_id)
+values (29, 24);
+insert into book2tag (tag_id, book_id)
+values (30, 155);
+insert into book2tag (tag_id, book_id)
+values (14, 500);
+insert into book2tag (tag_id, book_id)
+values (23, 678);
+insert into book2tag (tag_id, book_id)
+values (9, 414);
+insert into book2tag (tag_id, book_id)
+values (26, 10);
+insert into book2tag (tag_id, book_id)
+values (3, 231);
+insert into book2tag (tag_id, book_id)
+values (14, 941);
+insert into book2tag (tag_id, book_id)
+values (15, 216);
+insert into book2tag (tag_id, book_id)
+values (20, 311);
+insert into book2tag (tag_id, book_id)
+values (6, 548);
+insert into book2tag (tag_id, book_id)
+values (16, 25);
+insert into book2tag (tag_id, book_id)
+values (4, 210);
+insert into book2tag (tag_id, book_id)
+values (19, 567);
+insert into book2tag (tag_id, book_id)
+values (5, 508);
+insert into book2tag (tag_id, book_id)
+values (2, 123);
+insert into book2tag (tag_id, book_id)
+values (3, 634);

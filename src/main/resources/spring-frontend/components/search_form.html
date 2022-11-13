@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<body>
+<div class="search" th:fragment="searchForm(searchQueryDto)">
+    <form class="form form_search" action="#" method="post" data-searchlimit="20" th:object="${searchQueryDto}">
+        <label for="query"></label>
+        <input class="search-input" id="query" name="query" type="text" placeholder="Search over 30 million book titles"
+               th:field="*{query}" value=""/>
+        <button class="search-button" type="submit" name="search" id="search" th:text="#{search}"></button>
+    </form>
+</div>
+</body>
+</html>
